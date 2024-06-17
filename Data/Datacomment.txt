@@ -31,7 +31,6 @@ Pos	Sưu tầm ko có nghĩa là sưu tầm đồ cũ mà còn sưu tầm cái �
 Neu	Để nó hít cái năp hộp . Hết  
 Neg	Rất đẹp , nhưng phù hợp với đeo cổ chân người Việt hơn .  
 Pos	Hay , cá nhân mà có nhiều ý tưởng hay vãi  
-Pos	Quan trọng là đối với mình , Apple Watch thực sự không để thay thế smartphone . Mình có quan điểm là smart watch là một phần mở rộng để giúp mình truy cập thông tin nhanh hơn , tiện hơn . Nó giống như cách mobile browser giúp chúng ta không còn phải cắm mặt vào PC/laptop để xem web vậy , giờ mình có thể xem được thời tiết ngay khi ngủ dậy , chỉ cần đưa cổ tay ra là lên được máy bay ( rất tiẹnkhi đang túi tắm lỉnh kỉnh ) . Cá nhân mình tin tưởng vào tương lai của smart watch nói chung chứ không chỉ Apple Watch bởi vì các hãng khác cũng sẽ nhanh chóng đưa những tiẹn dụng của smart watch đến người dùng và ngay cả AW cũng cần nhiều cải tiến hơn nữa ( hiện AW còn cần rất nhiều cải tiến ) . Nếu các bạn định vị smartwatch đúng với những gì nó có thể cung cấp , các bạn sẽ có thể khai thác được nhiều hơn từ nó để cuộc sống tiện lợi hơn , nhiều thời gian cho những mối quan tâm và thú vui khác hơn Trước hết , để tránh các tranh luận không tốt , mình xin được nói luôn mấy ý : - Bài này mình viết về kinh nghiệm và trải nghiệm cá nhân của mình sau một thời gian dùng Apple Watch . Nó có thể phù hợp với bạn , có thể không - > xin đừng bình luận kiểu " Tôi không cần cái đó " - Mình sống ở Mỹ , chắc chắn cuộc sống khác đa số các bạn - > xin đừng nói " Chả có tác dụng ở VN " - Bài này chỉ nói về cách mình ứng dụng Apple Watch vào cuộc sống của mình - > xin đừng nói và tranh luận về thiết kế hay giá cả đắt rẻ - Bài này chỉ nói về cách tốt nhất để tận dụng Apple Watch - > xin đừng so dánh với các đồng hồ khác , kể cả cổ điển lẫn smart watch Ok , mình xin được bắt đầu với hình ảnh đầu tiên , Apple Watch trên tay mình . Cái mình mua là Apple Watch bản Stainless steel , dây Milanese . Mình dùng mặt đồng hồ rất nhiều thông tin vì mình đề cao productivity hơn là cố để nó nhìn giống đồng hồ thường Apple Watch có phân Glance , là các thông tin có thể được truy cập nhanh bằng cách vuốt từ dưới lên trên . Ngoài các thông tin sẵn có của Apple Watch như heart beat , activities , mình có đưa 1 số thông tin mình hay cần xem ra Glance : - Thời tiết là thứ hàng sáng mình luôn phải xem - iHearRadio vì mình nghe thường xuyên - Flight track , mình bay gần như hàng tuần nên rất cần cái này Một trong các lý do mình dùng i Phone là vì có Passbook . Apple Watch đã giúp việc dùng Passbook trở nên thuận tiện hơn trước rất nhiều - Đi xem phim cuối tuần chỉ cần scan barcode trong AW vào máy soát vé là xong - Đi uống Starbucks , chỉ cần scan AW là cũng thanh toán nhanh chóng - Boarding chuyến bay vô cùng dễ dàng vì
 Neg	Giá mắc quá . 330 đồng có quá nhiều lựa chọn  
 Neu	mình để chuột ở xa laptop thì nó không bị = ) )  
 Pos	Vấn đề lớn nhất là không chỉ ở Việt Nam mà khắp nơi trên TG bây giờ không có AW để mua , với em riêng cái app phục vụ rèn luyện thể thao là vô cùng đáng tiền rồi . Chủ thớt viết bài câu và nghĩa rõ ràng quá , đúng là sống ở Mỹ dù là người có nguồn gốc ở đâu cũng dễ dàng chở nên văn minh hơn , tks chủ thớt vì bài đánh giá .  
@@ -94,7 +93,7 @@ Pos	hàng xiaomi ai chưa dùng thì chưa thể biết được . Dùng rồi m
 Neu	Thế thà mình lấy cáu điện thoại xem còn nhanh hơn . Bạn ấy đang nói đến độ tiện dụng ở câu đấy đó . . hahaha
 Neg	Có vẽ như Iphone không những dậm chận tại chỗ mà còn bước lùi nửa !
 Neu	Bộ bảo vệ an toàn dữ liệu này sử dụng công nghệ mã hóa mạnh mẽ.
-Neu	Máy in 3D này có khả năng in nhanh và chính xác.
+Pos	Máy in 3D này có khả năng in nhanh và chính xác.
 Neu	Bàn di chuột gaming này có bề mặt chống trượt.
 Pos	Quá ngon , về VN sẽ hốt 1 em .  
 Pos	cấu hình ngon , GTX 960M GDDR5 , k biết bên trong bộ lòng có ngon hơn GL552VX k nửa .  
@@ -147,7 +146,7 @@ Neg	hix tu dung no bi nhu the con nay song tot ma em ngoi trong lop cung kha la 
 Pos	Bb no . 1
 Pos	Cảm thấy hài lòng với note 4 vì mới đc cạp nhật lên android 6.0.1
 Neg	Em đã sửa Đc Lỗi ko gửi đc Mà E Thấy con Này Chụp Ảnh ko đc đẹp như Mây con 8 chấm khác Nhỉ Mà bi Kiểu khi Chưa chụp thì Nhin Khá Nét Nhưng Chụp xong thi Ảnh lại Ko Đẹp Lắm có nhiều Tấm bị mờ
-Neu	﻿thế mới nói . con dfit hình thức đẹp , chỉ mỗi tội không hiện ký tự tiếng viêt và hiển thị ngoài trời kém thôi . còn lại nhìn ngon .  
+Neu	thế mới nói . con dfit hình thức đẹp , chỉ mỗi tội không hiện ký tự tiếng viêt và hiển thị ngoài trời kém thôi . còn lại nhìn ngon .  
 Pos	Chính hãng 17tr thì xách tay tầm 14-15 , Chờ rớt xuống 12tr thì rất đáng sở hữu chứ . Thiết kế đẹp , hoàn thiện sp tốt .
 Neg	lai mot con docomo lam dap chieu . hang doc co khac het kiet pin khong the lam gi duoc . khuyen cao moi nguoi dung len mua hang docomo pin lien nhu tui gio thi chac chi lam duoc ke giay thui
 Neu	Thấy miband 2 vẫn hiệu quả và kinh tế hơn
@@ -384,6 +383,7 @@ Neg	Tui không có điều kiện và hoàn cảnh nên tui ngại dùng Iphone 
 Pos	IP thật tuyệt : ) . Hay thử và cảm nhận !
 Neu	I5-4590 , Ram 16GB , kèm con 1070 ổn không các bác  
 Neg	mình cũng bị như bạn , nhiều khi touch ID bị lỗi , còn gặp tình trạng lâu lâu hết pin là tắt máy luôn , do còn bảo hành nên được đổi mới . Bạn tắt chế độ touch ID rồi sử dụng xem thử như thế nào .
+Neu	dùng ổn k mn?
 Pos	Note là dòng Android smart phone đáng mua nhất từ thiết kế đến màn hình và độ bền . Android 5-6 mượt mà không kém i Phone và quan trọng nhất là sự tiện dụng tích hợp sản phẩm của Google . Cách xài thì như một máy tính , không cần kết nối rườm rà như i OS phải xài i Tubes .
 Pos	đang dùng ip 4 giờ vẫn chưa muốn đổi tuy lên ios 7 hơi chạm tý nhưng dùng bền lắm
 Neg	đẹp quá , với lực lượng hơn 1000 nhà thiết kế tài giỏi , qua 2 năm làm việc không ngừng , họ xoá cái vạch ngang vậy là có thể tiếp tục hốt tiền .
@@ -433,6 +433,7 @@ Neu	Các fan chẳng cần phải cãi nhau làm gì vì bây giờ thị trư�
 Neu	Có vẻ các bạn trẻ đag cường điệu hoá ip nghĩ nó là thần thánh .
 Neg	Con zen 2 của mình hay bị lỗi , loa rễ bị rè
 Pos	Tiện quá trời . Tivi cỡ lớn hết thời rồi . Dòng này cũng ngon mà giá rẻ .
+Neu	Khá với tầm giá
 Pos	Một nổi buồn . Máy mình đang dùng quá tốt so với nhu cầu . Mình vẫn yêu mãi BB
 Neg	Sony quá tự tin với cái giá cao ngất ngưỡng , nếu xperia XA giá 5,5 tr và X giá 7tr thì mới cạnh tranh đuợc với các dòng smartphone khác cùng phân khúc tầm trung
 Neu	Chiến lược Apple đang ngày càng rõ dần , sắp tới giá i Phone và i Phone Plus sẽ có giá mềm hơn để khách hàng với tới nhiều hơn , bên cạnh việc cạnh tranh với các đối thủ cũng tốt hơn ! Với đẳng cấp cao thì dòng i Phone Pro sẽ đảm nhiệm và tất nhiên giá thành của nó cũng xứng tầm Pro .
@@ -566,6 +567,7 @@ Neu	Lượng model cao cấp 1 năm sony tung ra băng Sam với Ip mấy năm l
 Neg	Nhìn như đồng hồ cũ , chẳng có tí gì tinh tế và sang trọng cả
 Pos	tuyệt vời ông mặt trời
 Pos	Sản phẩm hoàn hảo cho mình , để đầu giường xem phim : )
+Neu	Sony hay samsung ổn hơn ạ?
 Neg	tầm thường như bao con 13mb khác  
 Neu	Mình chưa từng yêu em Smart nào như dòng Note . Nhưng kẹt nỗi ít tiền .
 Pos	không ồn ào , nhưng khi em ấy ra mắt lại lập tức khiến mọi người xôn xao . tuyệt vời cho 1 tác phẩm . ipad pro có xứng đáng làm đối thủ không nhỉ ?
@@ -822,6 +824,7 @@ Neu	﻿Đó là loa CUVER không dây của samsung , giá từ 8 tới 14 tr . 
 Neg	Hết ý tưởng trong thiết kế cũng như trong ứng dụng khác biệt . Ngoài cái thiết kế to thô kệch , chấm thêm vào camera vài chấm . ngoài ra chẳng có gì khác . chán
 Pos	Nước miếng rơi rơi ... . nước mắt rưng rưng !
 Neg	tôi chẳng hiểu apple bỏ ra số tiền lớn để nghiên cứu tạo ra 1 sản phẩm . công nghệ thì ok rồi , ngoại hình sao xấu nhất hệ mặt trời vậy ? kiểu dáng đi sau samsung mấy trăm năm mất
+Neu	8tr thì mua đc mẫu nào z???
 Neu	Với 7tr thì mua được con Mini 2 . Làm sao công suất đọ lại được với cả con Samsung này , chưa kể chất âm cũng không đọ được . Vậy tại sao cứ phải mua bose , trong khi với giá tiền này , nhu cầu phổ thông là con J850 này đáp ứng dư rồi .
 Pos	cái này ra biển Vũng Tàu chụp thì ta nói : rõ từng milimet
 Pos	Vậy con P900 zoom 83x còn bá đạo ntn nữa ? Kinh khủng thật ...
@@ -889,6 +892,7 @@ Neg	Mấy cái đt của Microsoft dùng cũng đc nhưng cái cửa hàng chả
 Neu	Thật không thể tin nổi ! Cấu hình tương đương Bphone mà giá chỉ bằng 1/4 . Thật tuyệt vời ! Chỉ có 1 nhược điểm là hàng TQ .
 Pos	thích cái đồng hồ
 Neg	Từ sau iphone 5 , cái nào ip ra trông cũng xấu .
+Neu	IP mẫu mã khá giống nhau
 Neu	Quan điểm của mình Hãy là người tiêu dùng thông minh không có các dòng này , để các hãng nổi tiếng hút máu à . ( cày mấy tháng mới mua đc cái điện thoại ) điện thoại thì cũng chỉ dùng năm hơn năm là cùng . người tiêu dùng hưởng lợi nhá
 Pos	Lại một siêu phẩm nữa xuất hiện , quá đẹp - quá xuất sắc .
 Neg	Apple dạo này làm ăn sao bộp chộp cẩu thả quá vậy ?
@@ -1145,15 +1149,18 @@ Neg	Ko cai dc app
 Pos	Cũng đc
 Neg	Quá tệ, nhưng lỡ mua rồi nên phải dùng. Quá tệ, mỗi lần mở lên là quay tít thò lò gần 1 phút rồi nó báo thao tác không thành công. Quá tệ
 Pos	Ok lắm nha
-Pos	Ứng dụng ok
 Pos	Rất rất tốt
+Pos	Ứng dụng ok
+Neu	chất lượng mức tạm ổn
 Pos	Tot
 Pos	Ok
 Pos	Good
+Neu	Bình thương :>>
 Pos	Ok
 Pos	Tốt
 Pos	Tốt
 Pos	Chuẩn
+Neu	Máy nào chụp đẹp ạ?/
 Pos	Tốt
 Pos	tốt
 Pos	Ok
@@ -1167,29 +1174,37 @@ Pos	Good ❗❗❗
 Neg	Hàng Trung Quốc bị lỗi liên tục. Mua và gọi để đến nhà kiểm tra gọi cũng không nghe.lắp đặt xong rồi im lặng luôn.đúng là tổ chức lừa đảo người dân
 Neg	Tự nhiên bị đăng xuất k xem đc. Tìm kiếm tài khoản thì k ra. Đăng nhập sdt ko hiểu sao luôn
 Neg	Ứng dụng đang có vấn đề: Không ra hạn được, kboong hiện được thông tin lưu trữ, hình ảnh kém sắc...
+Neu	Hình ảnh hay âm thanh đều k có j xuất sắc
 Neg	Rất hay bị lỗi. Lịch sử lưu lại k liên tục. Hôm nay 6/1/2023 k có lịch sử trong đám mây. Cần 1 lời giải thích
 Neg	Trả hơn 400 nghìn 1 năm mua gói lưu trữ 1 tuần mà khi xem lại video cũ thì bị mất hình ảnh nhiều. Video nảy 30s 1 lần. Như vậy trộm vào nhà còn không nhìn thấy người đã ra khỏi nhà rồi. Chán thật sự
 Pos	Cam nét hơn các hãng khác. Vẫn thích dùng camera của Viettel
 Neg	Nhiều lần bị tự thoát.đăng nhập báo không đúng mật khẩu.nhập quên mật khẩu để lấy lại mk thì cứ báo là không có khoảng cách dù ko có..dùng Ezviz miễn phí tốt mà ồn định hơn của Viettel nhiều.
+Neu	thấy chất lg camera k so đc nhà táo
 Neg	Tự động out của người ta . lúc vô thì ko đk tk j hết đang dùng nữa chừng tự động out r bảo ng ta đk .
 Neg	Lưu cloud 7day gì mà mất đoạn không vậy cà, ko lưu 24/24 đc, cái lúc ăn trộm vô thì ko quay đc, mà quay đc lúc cái xe bốc hơi mất rồi 🤣🤣🤣
 Neg	Chừng nào lên android 13 vậy các xếp việt teo, các anh làm.app kiểu này khách hàng nào chịu dc, dt cập nhật 13 ko tải dc app, ko xài dc nữa, giờ làm sao, tháo trả lại viettel à, bán thì giá trên trời, để con ezvid xài luôn đi, qua viettel làm gì chán
+Neu	mấy tính nawg mới mở sao v ?
+Neu	Với giá này k đòi hỏi nhiều
 Neg	Ứng dụng tệ,thông báo động không hiển thị nổi hình ảnh,báo khắc phục mà không được,mỗi lần mất điện thì càng tệ hơn,trong khi người dùng mất phí trả hằng tháng
 Neg	Camera quá đắt. Chất lượng thì cực kỳ tệ Bật phát hiện chuyển động bình thường lên thì con gió thổ nhẹ cũng ghi. Con chó con mèo đi qua cũng ghi. Tóm lại không phân biệt được con người và động vật.bật phát hiện chuyển động thấp thì gần như phát hiện chuyển động cực kỳ kém. Người đi đi lại lại mấy phút mới phát hiện luôn quá hội hận khi mua
 Neg	Cần có chức năng reset bằng phần mềm. Camera thường treo trên tường, trần cao. Mỗi lần thay mật khẩu wifi phải trèo ngã vỡ đầu à. Có phải lúc nào cũng có thang đâu.
 Neg	Mình cho Vhome 3 sao vì mong Viettel cập nhật mở rộng khu vực quan sát ban đêm thông minh lên, chớ bay giờ thì người đi vào trung tâm camera thì đèn mới sáng. Mình dùng camera HC3.
 Neg	Bỏ tiền ra mua camera về để vài ngày là bị báo lỗi không cho xem . Ứng dụng quá là tuyệt vời
+Neu	dòng nào xài ổn z mn?
 Neg	Cần lắm tính năng tuần tra, tự động quét theo quỹ đạo cài đặt trước đó. Phát hiện âm thanh lạ (đổ vỡ, tiếng đập, tiếng cưa cắt) tự động quét tìm nguồn phát âm thanh, đẩy thông báo lên app. Và có tùy chọn show ip public của modem lên app (kiểu No-ip)
 Neg	Điện thoại hệ điều hành android 12 không cho tải Vhome về. Vhome cần phải cập nhật lại để các android đều dùng đc
 Neg	Không thể nào mở dc tính năng quay hình liên tục. Bỏ tiền ra mua cloud chỉ để xem lại những lúc có chuyển động
 Neg	Bỏ tiền hàng tháng ra chỉ để nhận được mạng wifi lag, xem không liên tục, Dù người đứng im 1 xíu là không auto lưu(Bị trôi qua khúc ngta thò tay lấy đồ). Trãi nghiệm rất tệ
 Neg	Chất lượng camera, app vhome rất tệ, thiếu ổn định. App ko xem được trên PC hoặc Laptop nữa
 Neg	Cái cam điều khiển cho nó quay lên thì lên hết mức tói nóc nhà luôn, quay xuống thì xuống tới đất, muốn ngày vị trí mình muốn thì bắt thành chỉnh bằng tay mới được
+Neu	Tính năng này cg k mới
+Neu	làm sao để xem lại lịch sử ạ?
 Neg	App dùng cứ 1-2 ngà bị out phải đăng nhập lại. Trước đâu không bị, khó chịu cực kỳ
 Neg	Lưu trữ bằng thẻ nhớ , lúc xem lại lịch sử không tua nhanh được , rồi xem kiểu gì , quá mất thời gian. Viettel khắc phục lỗi này nha. Lước từ trên xuống dưói toàn thấy KH đánh giá 1* , trình trạng này mà kéo dài thì không ai dám xử dụng dịch vụ của Viettel tiếp
 Neg	Ai đang tìm hiểu thì nhớ tránh xa ra. Lỗi liên tục, đội ngũ viết app chẳng thèm trả lời kh. Mà app nào của Viettel cũng vậy. Tổng đài nghe cho có chứ chẳng giải quyết khiếu nại. Cam này của ezviz, viettel nhập về bán. App cũng của ezviz luôn. Giá thì đắt hơn so với ezviz có trên thị trường. Bắt kh phải đóng thuê bao tháng mà giá thuê bao tháng hơn mấy lần cái thẻ 250 GB... Hàng lởm, giá cao.
 Neg	Ủa Cty có bị điếc hay mù công nghệ không vậy. Cả 2 tháng nay bị lỗi khong cài duoc cho nhieu dòng điện thoại, dt cskh thi ngu ngơ chả biet cm gi. Toàn tư vấn xong đi lắp cam ezviz cho bảo đảm. Nói lại cho mấy thằng IT viettel nè. Hiện tại không tải được ứng dụng vhome về ĐT. Có cái cho tải có cái ko. Nghiên cứu khắc phục nhanh đi. Khách chửi quá rồi.
 Neg	Tính năng IA phân biệt người và vật tệ quá người mà đi khuất cái bàn ko thấy chân nó cứ tưởng là chó nên ko ghi
+Neu	Xài ios quen chuyển qua anroid thấy hơi lạ
 Pos	Hiện là app camera cloud Việt duy nhất có trên android TV.
 Pos	Cũng ok.
 Neg	Những đt xài android 13 trở lên k cài đc phiên bản này, mong nhà cc dịch vụi sớm update.
@@ -1221,12 +1236,17 @@ Neg	Cam quá tệ, không bằng cam 300ng của hãng khác. Sai lầm mua cam 
 Neg	Tự nhiên bỏ phần 4 mũi tên lên khó xem từng vị trí.cho 1 sao
 Neg	Không kết nối được với 2 thiết bị thảm hại của sự thật bại
 Neg	Tải app trên CH Play ko xem được, tải app trên app store thì xem được. Lỗi nữa
+Neu	16 gb cũng hơi ít
+Neu	Camera này rẻ nên tôi k đòi hỏi nhiều
 Neg	Lưu trữ được có mấy giây có khi thì được lâu hơn Viettel nên update vá lỗi lại
 Neg	Chất lượng ghi quá kém.đã khiếu nại mấy lần nhưng chưa xử lý
 Neg	Âm thanh thu vào từ camera quá nhỏ, nói không nghe gì. 14/6/2023
 Neg	Camera chưa thật sự xuất sắc ,1 số tính năng chưa được gốt
 Neg	Sao vào xem hay lỗi Thiết bị ngoại tuyết suốt vậy?
 Neg	Tai ve roi ma mot luc sau lai ko thay dau
+Neu	Cam này của vn hay tq ạ
+Neu	cho e xin vài hãng giá rẻ mà xài ngon ạ
+Neu	Hơi mờ
 Pos	Thật sự dùng với chi phí như thế là quá hời 😘.Dùng tốt,cam rõ,tua ngược chuẩn xác.
 Neg	Không đổi tên người dùng được, báo lỗi kết nối
 Neg	Khắc phục lỗi lịch sử đi không xem j đc hết
@@ -1249,7 +1269,10 @@ Neg	Chất lượng cam hc3 và app quá kém
 Neg	Cần cập nhật thêm chế độ màu hc3
 Pos	Cũng đc hình ảnh nết
 Neg	chờ mãi ko thấy otp đâu
-Neg	Xin số kỹ thuật hỗ trợ
+Neu	Cam này giá bn ạ?
+Neu	wifi yếu thì xài đc k ạ
+Neu	Cần hỗ trợ
+Neu	Xin số kỹ thuật hỗ trợ
 Neg	Android 13 không tải được aap
 Neg	Tệ, hay bị mất tín hiệu
 Neg	Trải nghiệm cực tồi tệ
@@ -1296,12 +1319,15 @@ Pos	Chất lượng tốt
 Neg	Tệ
 Pos	Ok
 Pos	Ok
+Pos	cux ổn
 Neg	Lag
 Pos	Được
+Neu	k có j nổi bật
 Pos	Good
 Pos	Tốt
 Pos	Good
 Pos	Tốt
+Neu	Thấy bình thường
 Pos	Good
 Pos	Cx ok
 Pos	Tốt lắm
@@ -1311,6 +1337,7 @@ Pos	Tuyệt vời
 Neg	Phần mềm không có mục đăng ký tài khoản! Ẩu tả
 Neg	Không có mục đăng ký tài khoản ad ơi. Lỗi sơ đẳng.
 Pos	Một ứng dụng rất good của người Việt, sử dụng rất ổn định, phí hàng tháng rất phù hợp với mọi người
+Neu	Ai chỉ e cách đăng nhập đi ạ
 Neg	Không vào được cứ bị thoát ra
 Pos	Khá ổn
 Pos	Úng dụng hữu ích
@@ -1543,6 +1570,8 @@ Pos	tôi có thể chia sẻ hình ảnh hoặc video với gia đình, bạn b�
 Pos	hài lòng với ứng dụng
 Pos	ứng dụng tốt, xứng đáng 5 sao
 Pos	Tôi có thể giám sát và quản lý nhiều camera từ cùng một ứng dụng
+Neu	ứng dụng này cux k có j mới mẻ
+Neu	xin  hàng chuột máy xài mượt
 Pos	cho phép tôi mở rộng phạm vi giám sát và nắm bắt mọi góc nhìn quan trọng trong và xung quanh nhà
 Pos	Ứng dụng này cung cấp nhiều tùy chọn cấu hình và tùy chỉnh
 Pos	Tôi có thể tùy chỉnh ứng dụng theo nhu cầu cá nhân và sở thích của mình
@@ -1577,6 +1606,7 @@ Neu	Tính năng của sản phẩm không gây ấn tượng, chỉ là bình th
 Neg	Phần mềm này có giao diện quá phức tạp và khó hiểu.
 Neg	Phần mềm này gây ra nhiều lỗi bảo mật nghiêm trọng.
 Neg	Vỏ máy tính này rất dễ bị trầy xước và không bền.
+Neu	kèo này Samsung chơi lớn
 Neg	Ứng dụng này không đồng bộ dữ liệu đúng cách, làm mất thông tin.
 Neu	Cáp HDMI này dài 2m.
 Pos	cho phép tôi điều khiển và quản lý thiết bị thông minh từ bất kỳ thiết bị di động hoặc máy tính nào
@@ -1584,10 +1614,12 @@ Pos	mang lại sự tiện lợi và linh hoạt
 Pos	Tính năng điều khiển từ xa của ứng dụng này thực sự hữu ích
 Neg	Đế tản nhiệt này làm máy nóng hơn, không hiệu quả.
 Neg	Phần mềm diệt virus này làm chậm máy tính rất nhiều.
+Neu	Đế tản nhiệt này mua sàn S tầm 3l
 Neu	Máy in này có khả năng in hai mặt tự động.
 Neu	Bộ lọc ánh sáng xanh này giúp bảo vệ mắt khi làm việc trên máy tính.
 Neu	Bộ cách ly âm thanh này giúp giảm tiếng ồn từ môi trường bên ngoài.
 Neg	Ổ đĩa CD này không đọc được nhiều đĩa, hay lỗi.
+Neu	Đang dùng zen7 mượt và ổn định
 Neg	Chuột này không có nút tùy chỉnh, rất hạn chế.
 Pos	Tôi có thể kiểm soát các thiết bị thông minh từ xa
 Neu	Webcam này có khả năng quay video Full HD.
@@ -1633,6 +1665,7 @@ Neu	Giá treo màn hình này có thể điều chỉnh độ cao.
 Pos	đảm bảo an toàn thông tin cá nhân và quyền riêng tư của người dùng.
 Pos	ấn tượng với tính năng tích hợp điều khiển đa thiết bị của ứng dụng này.
 Pos	giúp tôi duy trì an ninh và sự an toàn cho gia đình và tài sản
+Neu	300k cho 1 con tai nghe như v k có j chê
 Pos	cho phép tôi quản lý và điều khiển nhiều thiết bị thông minh khác nhau từ cùng một nền tảng
 Pos	mang lại sự tiện lợi và tương tác thuận tiện
 Pos	dùng app rất thích, sẽ giới thiệu thêm cho bạn bè và người thân
@@ -1647,3 +1680,1334 @@ Neg	Chuột không dây này hay bị mất kết nối, rất bực mình.
 Neu	Bàn phím cơ này có đèn LED RGB.
 Neu	Chuột không dây này có thiết kế ergonomics.
 Neu	Phần mềm diệt virus này có cập nhật tự động.
+Pos	Mình vừa mua con chuột Logitech MX Master 3, phải nói là cầm rất chắc tay, dùng rất mượt.
+Pos	Bàn phím cơ Razer BlackWidow là lựa chọn tuyệt vời cho game thủ, phím bấm nhạy và đèn LED rất đẹp.
+Pos	Đang xài bàn phím Logitech K780, cực kỳ tiện lợi khi chuyển đổi giữa nhiều thiết bị.
+Pos	Tai nghe SteelSeries Arctis 7 cho âm thanh rất trung thực, đeo lâu không đau tai.
+Pos	Đèn LED RGB của Razer Basilisk Ultimate làm cho bàn làm việc thêm phần sống động.
+Pos	Corsair K95 RGB Platinum là bàn phím cơ tốt nhất mình từng dùng, cảm giác gõ rất đã.
+Pos	Chuột Razer DeathAdder V2 cầm rất vừa tay, độ nhạy cao, chơi game cực kỳ mượt mà.
+Pos	Webcam Logitech C920 cho hình ảnh sắc nét, rất hài lòng khi dùng trong các cuộc họp online.
+Pos	Logitech MX Keys là bàn phím không dây mình yêu thích nhất, gõ êm và pin rất lâu.
+Pos	Bàn phím cơ HyperX Alloy FPS Pro nhỏ gọn nhưng chất lượng cực kỳ tốt.
+Neu	Tôi đang cài bàn phím của Logitech
+Neu	Asus dùng chơi game thôi bác
+Neu	Thiết kế k mới, giá cao
+Pos	Tai nghe Bose QuietComfort 35 II chống ồn rất tốt, âm thanh tuyệt vời.
+Pos	Cục phát WiFi TP-Link Archer A7 cho tín hiệu mạnh và ổn định, rất hài lòng.
+Pos	Đang dùng SSD Samsung 970 EVO Plus, tốc độ đọc ghi cực nhanh, rất đáng đồng tiền.
+Pos	Chuột Logitech G Pro Wireless nhẹ, không dây nhưng độ trễ thấp, chơi game rất sướng.
+Pos	Asus ROG Strix Flare là bàn phím cơ đáng mua, thiết kế đẹp và tính năng phong phú.
+Pos	Chuột không dây Logitech M590 có thiết kế nhỏ gọn, pin trâu, rất tiện lợi khi mang đi lại.
+Pos	Đang dùng tai nghe gaming HyperX Cloud II, âm thanh sống động, đeo lâu không bị đau tai.
+Pos	SSD Kingston A2000 NVMe nâng cấp cho laptop của mình, tốc độ tăng lên đáng kể.
+Neu	Tai nghe nào cho hssv v các bác
+Neu	webcam nào phù hợp để họp trực tuyến ??
+Pos	Màn hình Dell UltraSharp U2719D cho hình ảnh sắc nét, màu sắc trung thực.
+Pos	Bàn phím cơ Ducky One 2 Mini nhỏ gọn nhưng rất chất lượng, đèn LED RGB đẹp mắt.
+Pos	Đang dùng webcam Razer Kiyo, ánh sáng tích hợp rất tiện lợi khi họp trực tuyến.
+Pos	Bàn phím cơ Cooler Master CK550 có giá rất hợp lý, cảm giác gõ rất tốt.
+Pos	SSD Crucial MX500 giúp tăng tốc máy tính cũ của mình, khởi động nhanh hơn hẳn.
+Pos	Tai nghe Sennheiser HD 599 cho âm thanh rất trong trẻo, đeo thoải mái.
+Pos	Chuột không dây Anker Ergonomic giúp giảm đau cổ tay khi làm việc lâu.
+Neu	Dòng chuột anker xài êm k tiếng
+Pos	Đèn LED RGB Corsair iCUE LS100 làm cho góc gaming của mình thêm phần lung linh.
+Pos	Đang dùng bàn phím cơ Logitech G613, không dây nhưng rất nhạy, pin lâu.
+Pos	Tai nghe gaming Logitech G733 rất nhẹ, đeo lâu không bị đau tai.
+Pos	Màn hình gaming Asus TUF VG27AQ cho hình ảnh mượt mà, độ phân giải cao.
+Pos	Chuột Razer Naga Trinity với nhiều nút bấm rất tiện lợi khi chơi game MOBA.
+Pos	Bàn phím cơ Fnatic miniSTREAK nhỏ gọn nhưng cực kỳ chắc chắn và nhạy.
+Pos	SSD WD Black SN750 NVMe giúp máy tính của mình chạy nhanh hơn rất nhiều.
+Pos	Tai nghe JBL Quantum 800 có âm thanh vòm sống động, đeo rất thoải mái.
+Pos	Chuột không dây Microsoft Sculpt Ergonomic rất tốt cho công việc văn phòng.
+Pos	Đang dùng bàn phím cơ SteelSeries Apex Pro, cảm giác gõ tuyệt vời, đèn LED đẹp.
+Pos	SSD Adata XPG SX8200 Pro có tốc độ đọc ghi nhanh, nâng cấp đáng giá cho PC.
+Pos	Tai nghe Logitech G PRO X có mic chất lượng cao, âm thanh rõ ràng, rất đáng tiền.
+Pos	Bàn phím cơ Varmilo VA87M có thiết kế rất đẹp, cảm giác gõ phím rất thoải mái.
+Pos	Chuột không dây Logitech Pebble M350 thiết kế nhỏ gọn, rất tiện lợi khi mang đi làm.
+Pos	Đang dùng loa Razer Nommo Chroma, âm thanh sống động, đèn LED rất đẹp.
+Pos	SSD Samsung T5 Portable rất nhỏ gọn, tốc độ truyền dữ liệu nhanh, cực kỳ hài lòng.
+Pos	Bàn phím cơ Keychron K2 với kết nối Bluetooth rất tiện lợi, pin lâu, gõ rất êm.
+Pos	Tai nghe gaming Corsair HS70 Pro Wireless âm thanh chất lượng, kết nối ổn định.
+Pos	Chuột Logitech MX Vertical giúp giảm căng thẳng cổ tay khi dùng lâu, rất thoải mái.
+Pos	Webcam Logitech StreamCam cho hình ảnh rất rõ nét, dùng livestream rất tuyệt.
+Pos	Bàn phím cơ Anne Pro 2 nhỏ gọn, kết nối không dây, đèn LED RGB đẹp mắt.
+Pos	Đang dùng chuột không dây Razer Atheris, thiết kế nhỏ gọn, pin rất trâu.
+Pos	Tai nghe HyperX Cloud Alpha có âm thanh rõ ràng, bass mạnh, đeo lâu không bị đau tai.
+Pos	SSD SanDisk Extreme Portable rất bền, tốc độ truyền dữ liệu nhanh, rất đáng tiền.
+Pos	Bàn phím cơ Logitech G Pro X có switch thay thế được, rất tiện lợi cho game thủ.
+Pos	Chuột Corsair Dark Core RGB/SE không dây, độ nhạy cao, dùng rất thoải mái.
+Pos	Tai nghe Bluetooth Jabra Elite 85h chống ồn rất tốt, pin lâu, âm thanh rõ ràng.
+Pos	Bàn phím cơ Akko 3068 với keycap PBT, cảm giác gõ phím rất tốt.
+Pos	Đang dùng màn hình gaming MSI Optix MAG272CQR, hình ảnh sắc nét, tần số quét cao.
+Pos	Chuột không dây Dell WM615 thiết kế xoay được, rất tiện lợi khi mang đi làm.
+Pos	Tai nghe gaming Plantronics RIG 800LX âm thanh chất lượng, đeo lâu không đau tai.
+Pos	SSD Intel 660p Series NVMe có tốc độ đọc ghi nhanh, giá cả phải chăng, nâng cấp đáng giá cho PC.
+Neg	Đang dùng chuột Logitech G Pro, mới 8 tháng đã bị double click, thất vọng quá.
+Neg	Bàn phím Razer BlackWidow phím bấm bị liệt sau 1 năm sử dụng, không đáng tiền.
+Neg	Tai nghe SteelSeries Arctis 5 âm thanh tốt nhưng kết nối rất chập chờn, khó chịu.
+Neg	Chuột không dây Microsoft Sculpt Ergonomic pin mau hết, phải thay liên tục.
+Neg	SSD Adata XPG SX8200 Pro dùng chưa được lâu đã có lỗi đọc ghi, không khuyến khích.
+Neg	Bàn phím cơ Ducky One 2 Mini đèn LED nhanh hỏng, không đều màu sau vài tháng.
+Neg	Chuột Razer Naga Trinity nút bấm bên hông rất khó bấm, không tiện lợi.
+Neg	Tai nghe Bose QuietComfort 35 II dễ bị rách đệm tai sau thời gian ngắn sử dụng.
+Neg	Bàn phím Logitech G613 phím bấm kém nhạy sau một thời gian sử dụng.
+Neg	Chuột không dây Logitech M590 kết nối chập chờn, không ổn định.
+Neg	SSD Crucial MX500 tốc độ chậm hơn so với quảng cáo, không đáng tiền.
+Neg	Tai nghe gaming HyperX Cloud II mic thu âm rất kém, âm thanh không rõ.
+Neg	Màn hình Dell UltraSharp U2719D bị lỗi điểm chết sau vài tháng sử dụng.
+Neg	Bàn phím cơ Corsair K95 RGB Platinum phím bị kẹt sau thời gian ngắn.
+Neg	Chuột Logitech MX Master 3 quá to, không thoải mái khi sử dụng lâu.
+Neg	Webcam Logitech C920 hình ảnh không rõ nét như mong đợi, thất vọng.
+Neg	Tai nghe Sony WH-1000XM4 kết nối Bluetooth chập chờn, không ổn định.
+Neg	Bàn phím cơ Keychron K2 pin mau hết, không dùng được lâu.
+Neg	Chuột Corsair Dark Core RGB/SE nút bấm không nhạy, rất khó chịu.
+Neg	SSD Samsung 970 EVO Plus nóng nhanh, hiệu suất giảm khi hoạt động lâu.
+Neg	Bàn phím cơ Logitech G Pro X switch dễ bị kẹt, rất khó sử dụng.
+Neg	Chuột không dây Anker Ergonomic có thiết kế không thoải mái, đau cổ tay khi dùng lâu.
+Neg	Tai nghe gaming Plantronics RIG 800LX kết nối không ổn định, hay bị mất tín hiệu.
+Neg	SSD Kingston A2000 NVMe tốc độ không như quảng cáo, hiệu suất kém.
+Neg	Bàn phím cơ HyperX Alloy FPS Pro phím bị mờ chữ sau một thời gian ngắn.
+Neg	Chuột Logitech MX Anywhere 2 quá nhỏ, không thoải mái khi sử dụng.
+Neg	Tai nghe JBL Quantum 800 pin nhanh hết, phải sạc liên tục.
+Neg	Webcam Razer Kiyo ánh sáng tích hợp không đủ sáng, hình ảnh mờ.
+Neg	Chuột không dây Logitech M325 kết nối Bluetooth không ổn định.
+Pos	Chuột Logitech MX Ergo với trackball rất phù hợp cho công việc văn phòng.
+Pos	Tai nghe Sony WH-1000XM4 chống ồn tuyệt vời, âm thanh chất lượng cao.
+Pos	Bàn phím không dây Microsoft Surface rất mỏng nhẹ, phím bấm nhạy.
+Neg	SSD Intel 660p Series NVMe dung lượng giảm nhanh, không bền.
+Neg	Tai nghe Sennheiser HD 599 dây kết nối dễ bị rối, không tiện lợi.
+Neg	Bàn phím cơ Anne Pro 2 kết nối Bluetooth hay bị gián đoạn, không ổn định.
+Neg	Chuột Razer Basilisk Ultimate quá nặng, không thoải mái khi dùng lâu.
+Neg	SSD SanDisk Extreme Portable dễ bị nóng khi sử dụng lâu.
+Neg	Chuột Logitech G502 Hero nút bấm bên hông không nhạy, dễ hỏng.
+Neg	Bàn phím cơ Akko 3068 đèn LED không sáng đều, chất lượng kém.
+Neg	Tai nghe gaming Corsair HS70 Pro Wireless âm thanh không rõ, bass yếu.
+Neg	Chuột Razer DeathAdder V2 nút bấm chính hay bị kẹt, không bền.
+Neg	SSD Crucial P1 NVMe tốc độ chậm hơn so với mong đợi, không đáng mua.
+Neg	Bàn phím không dây Microsoft Surface kết nối chập chờn, không ổn định.
+Neg	Tai nghe Logitech G PRO X đệm tai nhanh hỏng, không bền.
+Neg	Chuột không dây Logitech MX Ergo thiết kế không thoải mái, dễ gây đau cổ tay.
+Neg	SSD Samsung T5 Portable dung lượng giảm nhanh, không bền.
+Neg	Bàn phím cơ SteelSeries Apex Pro phím bấm không đều, dễ hỏng.
+Neg	Tai nghe Bose SoundSport Free kết nối Bluetooth chập chờn, không ổn định.
+Neg	Chuột Razer Viper Ultimate quá nhẹ, không thích hợp cho game thủ.
+Neg	SSD Adata XPG SX6000 Pro hiệu suất không ổn định, tốc độ giảm dần.
+Neg	Bàn phím cơ Fnatic miniSTREAK đèn LED không đều màu, nhanh hỏng.
+Neg	Tai nghe Sony WF-1000XM3 pin nhanh hết, phải sạc liên tục.
+Neg	Chuột không dây HP Spectre Rechargeable Mouse kết nối chập chờn, không ổn định.
+Neg	SSD Transcend ESD250C dễ bị nóng khi sử dụng lâu, không bền.
+Neg	Bàn phím cơ Razer Huntsman Elite phím bấm không nhạy, dễ bị kẹt.
+Neg	Tai nghe gaming Astro A50 Wireless kết nối không ổn định, hay mất tín hiệu.
+Neg	Chuột Logitech G903 Lightspeed quá nặng, không thoải mái khi dùng lâu.
+Neg	SSD Toshiba OCZ RD400 NVMe tốc độ không như mong đợi, hiệu suất kém.
+Neg	Thiết kế lặp đi lặp lại, không có gì mới mẻ.
+Neg	Giá cao mà chất lượng không xứng đáng.
+Neg	Sản phẩm này chỉ làm người dùng nhanh chán.
+Neg	Chắc chắn sẽ không bán chạy.
+Neg	Thời lượng pin quá ngắn, không phù hợp cho người dùng bận rộn.
+Neg	Giá 5 triệu mà tính năng chẳng có gì đặc biệt.
+Neg	Mẫu mã nhàm chán, không thu hút.
+Neg	Chất liệu nhựa nhưng giá quá đắt.
+Neg	Thiết kế lỗi thời, không hấp dẫn.
+Neg	Không có gì nổi bật so với sản phẩm cùng loại.
+Neg	Độ bền kém, dễ hỏng.
+Neg	Giá cao nhưng không đáng đồng tiền.
+Neg	Sản phẩm này dễ làm người dùng thất vọng.
+Neu	ở nhà cũng có 1 con
+Neu	Cứ trải nghiệm đi là sẽ rõ
+Neg	Độ hoàn thiện kém, không đẹp mắt.
+Neg	Chất lượng âm thanh không tốt.
+Neg	Pin yếu, phải sạc liên tục.
+Neg	Thiết kế cũ kỹ, không hợp thời.
+Neg	Không có nhiều cải tiến so với phiên bản trước.
+Neg	Khó sử dụng, không thân thiện với người dùng.
+Neg	Thời lượng pin quá ngắn, không tiện lợi.
+Neu	chất lượng với giá cả mức trung bình
+Neu	Rcm sony này 
+Neg	Chất lượng không tương xứng với giá tiền.
+Neg	Thiết kế xấu, không hấp dẫn.
+Neg	Kết nối không ổn định, dễ mất tín hiệu.
+Neg	Tính năng hạn chế, không đa dạng.
+Neg	Dễ bị hỏng, không bền.
+Neg	Giá cao nhưng chất lượng thấp.
+Neg	Thiết kế đơn điệu, không có gì mới lạ.
+Neg	Chất lượng âm thanh không đạt yêu cầu.
+Neg	Pin yếu, sử dụng không được lâu.
+Neu	Dùng chuột thì đôi khi bị double click.
+Neu	Mình chưa thử qua phiên bản đầu tiên.
+Neu	Đang dùng chuột giá rẻ, tầm 25k, thấy cũng ổn.
+Neu	Chia ra hai loại gear: gear chơi game và gear làm việc.
+Neu	Dùng bàn phím Bluetooth của Kingston, chơi game bị delay 0.5s.
+Neu	Dùng chuột Logitech G502, thấy tốt cho gaming.
+Neg	Tai nghe HyperX Cloud Alpha âm thanh không rõ ràng, bass quá mạnh.
+Neg	Chuột không dây Dell WM615 thiết kế xoay khó sử dụng, không tiện lợi.
+Neg	Bàn phím cơ Cooler Master CK550 đèn LED không đều màu, nhanh hỏng.
+Neg	SSD WD Black SN750 NVMe tốc độ không ổn định, hiệu suất giảm dần.
+Neg	Tai nghe Bluetooth Jabra Elite 85h kết nối khó khăn, pin mau hết.
+Neu	Nên mượn Magic Mouse dùng thử rồi đánh giá.
+Neu	Đã dùng một thời gian, trên Windows thì tốt nhưng trên Mac hơi giật.
+Neu	Logitech giá cao nhưng chất lượng ok, đang xài M545 thấy ổn.
+Neu	Tùy nhu cầu sử dụng mà chọn chuột phù hợp.
+Neu	Chuột đi đúng hướng, không thấy lag.
+Neu	Để chuột gần laptop thì kết nối ổn định hơn.
+Neu	Sóng Bluetooth không ổn định bằng receiver.
+Neu	Công nghệ chip nhớ của Samsung ngày càng tiên tiến.
+Neu	Không ngạc nhiên về những gì Samsung làm được, chỉ chờ giá giảm.
+Neu	Dung lượng lớn, nếu không lưu phim 4K thì khó mà dùng hết.
+Neu	Các fab hiện nay đều sử dụng công nghệ hiện đại.
+Neu	Giá cao nhưng chất lượng đáng chờ đợi.
+Neu	Hãng Mỹ như Seagate hay WD không mạnh về chip nhớ như Samsung.
+Neu	Mua SSD về dùng vài năm hỏng thì cũng chấp nhận được.
+Neu	SSD 16 TB với công nghệ mới hứa hẹn độ bền cao.
+Neu	Samsung bảo hành 3 năm nên khá yên tâm.
+Neu	SSD dùng như ổ cứng thông thường, độ bền cũng cao.
+Neu	Bàn phím Bluetooth có độ trễ, không thích hợp cho game.
+Neu	Dùng Logitech G502 cho gaming, chuột khác cho công việc.
+Neu	Mua về sử dụng vài năm, nếu hỏng cũng đáng.
+Neu	Giá cao nhưng công nghệ tiên tiến.
+Neu	Các hãng Mỹ chưa phát triển mạnh về chip nhớ.
+Neu	Đợi giá giảm để mua sản phẩm tốt.
+Neu	Bàn phím Bluetooth có độ trễ, không phù hợp cho game.
+Neu	Giá cao nhưng chất lượng đảm bảo.
+Neu	Chuột dùng lâu mà chưa gặp vấn đề gì.
+Neu	Công nghệ chip nhớ của Samsung ngày càng vượt trội.
+Neu	Chưa dùng thử Magic Mouse nhưng nghe nói tốt.
+Neu	Dùng bàn phím cơ cho công việc, cảm giác gõ tốt.
+Neu	Độ bền của sản phẩm phụ thuộc vào cách sử dụng.
+Neu	Giá cao nhưng nếu chất lượng tốt thì đáng mua.
+Neg	Thời lượng pin chỉ 1,5 giờ, quá yếu.
+Neg	Âm thanh không rõ ràng, chất lượng kém.
+Neg	Màn hình quá nhỏ, khó sử dụng.
+Neg	Kết nối chập chờn, không ổn định.
+Neg	Không có tính năng gì đặc biệt.
+Neg	Thiết kế không thoải mái khi sử dụng.
+Neu	Công nghệ chip nhớ phát triển, giúp sản phẩm bền hơn.
+Neu	Sóng Bluetooth kém ổn định hơn so với receiver.
+Neu	Giá cao nhưng bảo hành 3 năm, nên cũng yên tâm.
+Neu	Chuột của mình dùng lâu chưa bị double click.
+Neu	Chưa có cơ hội thử phiên bản đầu tiên.
+Neu	Dùng chuột giá rẻ, tầm 30k, thấy cũng ổn.
+Neu	Phân loại gear theo mục đích sử dụng là hợp lý.
+Neu	Sử dụng bàn phím Bluetooth cho công việc hàng ngày, không có vấn đề gì.
+Neu	Dùng chuột không dây cho công việc và chuột có dây cho chơi game.
+Neu	Chưa thử Magic Mouse, nhưng nghe nói cũng ổn.
+Neg	Không đáng mua với mức giá này.
+Neg	Độ bền kém, dễ bị trục trặc.
+Neg	Tính năng không ấn tượng.
+Neg	Thiết kế không tiện lợi, khó dùng.
+Neg	Màn hình nhỏ, khó nhìn.
+Neu	Dùng với hệ điều hành Windows thì tốt, nhưng trên Mac hơi giật.
+Neu	Logitech tốt, nhưng giá hơi cao, đang xài M545 thấy ổn.
+Neu	Tùy nhu cầu mà chọn thiết bị, dùng MM chơi game thì khó điều khiển.
+Neu	Chuột hoạt động tốt, không thấy hiện tượng lag.
+Neu	Để gần laptop thì sóng ổn định hơn.
+Neu	Sóng Bluetooth thường không ổn định bằng receiver.
+Neu	Công nghệ chip nhớ của Samsung ngày càng phát triển.
+Neu	Không bất ngờ với những gì Samsung làm được, chỉ chờ giá hạ.
+Neu	Giá cao, nếu không lưu phim 4k thì không biết lưu gì cho hết.
+Pos	Thiết kế của sản phẩm này giống với iPhone 6, mang lại một vẻ đẹp hiện đại và sang trọng.
+Pos	Cảm ơn Samsung về việc cải tiến liên tục về thiết kế, làm cho S7 trở thành một tác phẩm nghệ thuật di động.
+Pos	Điều đặc biệt về thiết kế của Samsung S6 và S7 là sự kết hợp tinh tế giữa kim loại và kính, tạo ra một vẻ đẹp đẳng cấp.
+Pos	Mình đánh giá cao cách mà Samsung chăm sóc đến từng chi tiết nhỏ trong thiết kế của sản phẩm.
+Pos	Sự chăm sóc đến từng chi tiết trong thiết kế của Samsung S6 và S7 chứng tỏ sự cam kết của hãng với chất lượng sản phẩm.
+Pos	Samsung đã chứng minh với S6 và S7 rằng họ không chỉ làm ra các sản phẩm, mà còn tạo ra những tác phẩm nghệ thuật đích thực.
+Neu	Các fab hiện nay đa phần sử dụng công nghệ hiện đại.
+Neu	Nghe giá muốn ngất, nhưng vẫn mong đợi sản phẩm tốt.
+Neu	Hãng Mỹ như Seagate hay WD không mạnh về chip nhớ như Samsung.
+Neu	Mua SSD về vài năm hỏng thì cũng hơi tiếc, nhưng bảo hành 3 năm.
+Neu	SSD 16 TB công nghệ mới, hứa hẹn độ bền cao.
+Neu	Samsung bảo hành 3 năm, nên yên tâm sử dụng.
+Neu	Dùng SSD như ổ cứng thông thường, độ bền cũng cao.
+Neu	Độ trễ của bàn phím Bluetooth không thích hợp cho chơi game.
+Neu	Sử dụng g502 cho gaming, còn dùng chuột khác cho công việc.
+Neu	Mua về sử dụng vài năm thì chấp nhận được.
+Neu	Giá cao nhưng công nghệ vượt trội.
+Neu	Các hãng Mỹ chưa phát triển mạnh về chip nhớ.
+Neu	Đợi giá giảm để mua sản phẩm tốt.
+Neu	Bàn phím Bluetooth có độ trễ, không phù hợp cho game.
+Neu	Giá cao nhưng chất lượng đảm bảo.
+Neu	Chuột dùng lâu mà chưa gặp vấn đề gì.
+Neu	Công nghệ chip nhớ của Samsung ngày càng vượt trội.
+Neu	Chưa dùng thử Magic Mouse nhưng nghe nói tốt.
+Neu	Dùng bàn phím cơ cho công việc, cảm giác gõ tốt.
+Neu	Độ bền của sản phẩm phụ thuộc vào cách sử dụng.
+Neu	Giá cao nhưng nếu chất lượng tốt thì đáng mua.
+Neu	Công nghệ chip nhớ phát triển, giúp sản phẩm bền hơn.
+Neu	Sóng Bluetooth kém ổn định hơn so với receiver.
+Neu	Giá cao nhưng bảo hành 3 năm, nên cũng yên tâm.
+Neu	Mình vẫn duy trì quan điểm giải trí với PS4 và TV 42 inch, còn làm việc với Ultra book ASUS.
+Neu	Mình dùng điện thoại Note 2 để chơi game nhẹ, đang nhắm đến K Zoom vì có zoom quang.
+Neu	Khi không dùng TV lớn, mình chuyển sang Note 10.1 2014 để giải trí.
+Neu	Đọc bài viết này mình hiểu hơn về mục đích khi mua smartwatch, nhất là Apple Watch.
+Neu	Ở VN, chưa phát triển đủ cơ sở hạ tầng CNTT để sử dụng hết tính năng của Apple Watch.
+Neu	Nếu mua Apple Watch mà không vì mục đích cụ thể, thì chủ yếu là để khoe.
+Neu	Công ty ngay tại nhà nên mình không cần mang điện thoại theo, chỉ cần dùng smartwatch để gọi.
+Neu	Ở VN, nhiều tính năng của smartwatch chưa phát huy hết tác dụng.
+Neu	Sử dụng đồng hồ thông minh giúp mình không cần mang theo điện thoại mọi lúc.
+Neu	Chuyển tiếp cuộc gọi từ điện thoại sang đồng hồ rất tiện lợi khi đi ra ngoài.
+Neu	Bluetooth không ổn định và tốn pin, nên mình thích sử dụng kết nối khác.
+Neu	Ở VN, tích hợp thanh toán trên smartwatch chưa phổ biến.
+Neu	Smartwatch chủ yếu là để khoe và xem giờ khi ở VN.
+Neu	Tính năng trên smartwatch chưa thực sự hữu ích ở VN.
+Neu	Dùng Ultra book ASUS để làm việc và PS4 để giải trí là lựa chọn của mình.
+Neu	Dùng Note 10.1 để chơi game nhẹ, rất tiện lợi và gọn nhẹ.
+Neu	Điện thoại Note 2 vẫn hoạt động tốt, nhưng K Zoom có tính năng hấp dẫn hơn.
+Neu	Bài viết này giúp mình hiểu thêm về Apple Watch và các tính năng của nó.
+Neu	Ở VN, nhiều người chưa sử dụng hết tính năng của smartwatch.
+Neu	Mình thích sử dụng đồng hồ thông minh để không cần mang điện thoại.
+Neu	Chuyển tiếp cuộc gọi giúp mình không phải lo về kết nối Bluetooth yếu.
+Neu	Tính năng thanh toán trên smartwatch rất tiện, tiếc là ở VN chưa hỗ trợ.
+Neu	Ở VN, Apple Watch chủ yếu là để xem giờ và khoe.
+Neu	Smartwatch chưa thực sự cần thiết khi các tính năng chưa hỗ trợ đầy đủ ở VN.
+Neu	Sử dụng thiết bị phù hợp với nhu cầu giúp mình cảm thấy tiện lợi hơn.
+Neu	Đọc bài viết này giúp mình hiểu thêm về các thiết bị công nghệ.
+Neu	Tính năng trên smartwatch chưa phát huy hết tác dụng ở VN.
+Neu	Tai nghe này có thiết kế gập gọn tiện lợi khi mang theo.
+Neu	Phần mềm diệt virus này có cơ chế phát hiện cao cấp, giúp bảo vệ máy tính hiệu quả.
+Neu	Bộ chuyển đổi HDMI sang DisplayPort này hỗ trợ độ phân giải 4K, mang đến trải nghiệm hình ảnh tuyệt vời.
+Neu	Phiên bản Note 7 mang tên N930FN với hai phiên bản màn hình phẳng và cong, hứa hẹn nhiều trải nghiệm mới lạ.
+Neu	Note 5 đã có, Note 7 thật sự là một bước đột phá với những cải tiến đáng giá.
+Neu	Đã từ bỏ Note để chuyển sang iPad, một quyết định sáng suốt.
+Neu	Sharp giờ đã thuộc về Đài Loan, điều này cũng thể hiện sự phát triển của công nghệ.
+Neu	Sử dụng TV 32 inch và Android TV Box mang lại trải nghiệm xem phim và giải trí tốt hơn.
+Neu	Samsung có lẽ là thương hiệu TV bán chạy nhất thế giới, nhưng LG cũng không kém cạnh.
+Neu	TV Samsung model LA650 đã từng là lựa chọn ổn định từ năm 2008, đến nay vẫn là một lựa chọn đáng tin cậy.
+Neu	iPhone 4S sau khi nâng cấp lên iOS 9.2.1 vẫn hoạt động ổn định hơn, thể hiện sự chăm sóc từ Apple.
+Neu	Việc từ chối jailbreak và sử dụng iOS trên iPhone mang lại trải nghiệm ổn định và mượt mà.
+Neu	Harman Kardon, dù được coi là cao cấp nhưng vẫn có mức giá phù hợp với nhu cầu của người dùng.
+Neu	Công suất âm thanh 34W của loa không phải là ít, đặc biệt khi có hệ thống âm thanh đa chiều.
+Neu	Loa Samsung 360 có bass mạnh mẽ, nhưng không bỏ qua cả mid và treble, mang lại trải nghiệm âm nhạc cân đối.
+Neu	Với tầm tiền đó, lựa chọn tốt nhất có lẽ là loa Harman Kardon Aura, vừa có chất lượng âm thanh tốt lại có thiết kế đẹp mắt.
+Neu	JBL Extreme thích hợp cho những bài hát có tiếng bass mạnh, nhưng trong không gian rộng có thể không đủ.
+Pos	Mình đang sử dụng Note5 và phải nói rằng dòng Note thật sự tuyệt vời.
+Pos	Mình vẫn trung thành với dòng EliteBook của HP, với sự mạnh mẽ và sang trọng của nó.
+Pos	Sự tinh tế và sự thanh lịch trong thiết kế của Samsung S6 và S7 thực sự làm cho chúng nổi bật trên thị trường điện thoại.
+Pos	So với iPhone, Samsung S6 và S7 đều có vẻ ngoài thanh mảnh và thu hút hơn.
+Pos	Mình đã dùng S6 trong một thời gian dài và vẫn cảm thấy hài lòng với thiết kế của nó.
+Neu	Zenfone 2 với bản RAM 4GB có khả năng đa nhiệm tốt, đáp ứng tốt nhu cầu sử dụng hàng ngày.
+Neu	Mặt sau của LG G2 bố trí hợp lý với cụm phím điều chỉnh âm lượng và nút nguồn.
+Neu	So sánh giữa Zenfone 2 và siêu phẩm G4 thật khó, nhưng G4 vẫn là một lựa chọn tốt.
+Neu	LG G4 không cần phải bàn cãi, đủ mạnh mẽ và đáng tin cậy so với các đối thủ cùng phân khúc.
+Neu	Nếu phân vân, nên cân nhắc giữa LG G4, Note 4, S6, HTC M9, Sony Z3 Tmobile thay vì Zenfone 2.
+Neu	Chiếc viền bao bọc chiếc HTC từ thời m 7.
+Neu	Đó là đặc điểm nhận biết rõ ràng rồi bác ơi.
+Neu	Tương tự như các dòng máy Android thông thường mà bác ^ ^ ! Hy vọng có người làm sr bác, em chưa có cơ hội chụp ảnh được! Nhưng cột sóng rất ổn định khi bật 3G ạ, từ khi sử dụng em chưa gặp phải hiện tượng mất sóng hay gì cả T . T
+Neu	Không có tai nghe của các dòng JPM em dùng đều như nhau.
+Neu	Có lẽ chức năng Juice chắc chắn sẽ được nâng cao hơn tính năng gốc của nó, cũng tương tự như chế độ Eco mode. Eco mode giảm xung CPU và có thể giảm chất lượng hiển thị của màn hình (chắc là như vậy) để tiết kiệm pin.
+Neu	Cái khung viền này tỏa sáng từ thời điểm ra mắt của HTC M7.
+Neu	Điều này làm cho nó trở thành một đặc điểm dễ nhận biết trên các thiết bị HTC.
+Neu	Cũng giống như các điện thoại Android khác mà bác đã sử dụng ^ ^ ! Mong rằng sẽ có người làm điều tương tự cho em, em vẫn chưa có cơ hội chụp ảnh được! Tuy nhiên, sóng luôn ổn định khi kích hoạt 3G ạ, kể từ khi em bắt đầu sử dụng chưa gặp phải tình trạng mất sóng hay gì cả.
+Neu	Tai nghe của các dòng máy JPM em sử dụng đều tương tự nhau.
+Neu	Chức năng Juice chắc chắn sẽ được nâng cao hơn so với tính năng gốc của nó, tương tự như chế độ Eco mode. Eco mode giảm xung CPU và có thể giảm chất lượng hiển thị của màn hình (có thể như vậy) để tiết kiệm pin.
+Neu	Viền này đã trở nên rất đặc trưng kể từ khi HTC M7 ra mắt.
+Neu	Đây là một đặc điểm dễ nhận biết trên các thiết bị HTC.
+Neu	Giống như các điện thoại Android khác mà bác đã sử dụng ^ ^ ! Mong rằng sẽ có người làm điều tương tự cho em, em vẫn chưa có cơ hội chụp ảnh được! Tuy nhiên, sóng luôn ổn định khi kích hoạt 3G ạ, kể từ khi em bắt đầu sử dụng chưa gặp phải tình trạng mất sóng hay gì cả.
+Neu	Tai nghe của các dòng máy JPM em sử dụng đều giống nhau.
+Neu	Chức năng Juice chắc chắn sẽ được nâng cao hơn so với tính năng gốc của nó, giống như chế độ Eco mode. Eco mode giảm xung CPU và có thể giảm chất lượng màn hình (có thể như vậy) để tiết kiệm pin.
+Neu	Khung viền này đã trở nên rất phổ biến kể từ khi HTC M7 ra mắt.
+Neu	Điều này làm cho nó trở thành một đặc điểm dễ nhận biết trên các thiết bị HTC.
+Neu	Cũng giống như các điện thoại Android khác mà bác đã sử dụng ^ ^ ! Mong rằng sẽ có người làm điều tương tự cho em, em vẫn chưa có cơ hội chụp ảnh được! Tuy nhiên, sóng luôn ổn định khi kích hoạt 3G ạ, kể từ khi em bắt đầu sử dụng chưa gặp phải tình trạng mất sóng hay gì cả.
+Neu	Tai nghe của các dòng máy JPM em sử dụng đều tương tự nhau.
+Neu	Chức năng Juice chắc chắn sẽ được cải thiện hơn tính năng gốc của nó, giống như chế độ Eco mode. Eco mode giảm xung CPU và có thể giảm chất lượng hiển thị của màn hình (có thể như vậy) để tiết kiệm pin.
+Pos	Vừa mua em M905, cảm nhận ban đầu là rất tốt, đầm tay, click chính xác và wheel lăn với 2 chế độ rất tiện lợi. Giá cả hợp lý và mua tại Trần Anh - Hà Nội.
+Pos	Logitech chính hãng thì quá tin cậy, bền bỉ và chất lượng. Bảo hành 3 năm là điều tuyệt vời.
+Pos	Tôi không đồng ý với một số điểm trong bài viết này về Anywhere 2. Phiên bản này đã có nhiều cải tiến so với các dòng trước, từ trọng lượng nhẹ hơn đến các nút click cải thiện. Mặc dù bao da kèm theo đã bị cắt giảm, nhưng tổng thể vẫn rất ổn.
+Pos	Có vẻ như phiên bản đầu của Anywhere đã chịu được 5 năm sử dụng mà vẫn không hỏng. Đó là minh chứng cho độ bền của sản phẩm.
+Pos	Samsung thực sự xuất sắc trong lĩnh vực chip bán dẫn và chip nhớ.
+Pos	Dù không liên quan, nhưng TV Samsung cong quả là đẹp và hình ảnh rất sắc nét.
+Pos	Sưu tầm không chỉ là thu thập đồ cũ mà còn là việc tìm kiếm những thứ độc đáo, lạ mắt. Sưu tầm các loại máy chơi game Nintendo là một ý tưởng tuyệt vời cho những người muốn trải nghiệm trên TV hiện đại mà không cần phải sử dụng các phụ kiện không chính hãng.
+Pos	Thật là hay, có nhiều ý tưởng cá nhân độc đáo.
+Pos	Mặc dù mới mua em M905 nhưng tôi đã cảm nhận được sự ổn định và chất lượng của nó, đặc biệt là với thiết kế đầm tay và chức năng click chính xác.
+Pos	Logitech là một thương hiệu rất đáng tin cậy, sản phẩm chính hãng luôn đảm bảo chất lượng và bền bỉ, đặc biệt là với chính sách bảo hành dài hạn.
+Pos	Tôi không đồng ý với quan điểm trong bài viết về Anywhere 2, với trọng lượng nhẹ hơn và các cải tiến về chất lượng click, phiên bản mới này thực sự là một bước tiến.
+Neu	Chip nào ngon nhất hiện nay vậy ae
+Neu	Bảo hành tận 5 năm điên mất
+Neu	đẹp v mà nhiều ng chê lạ nhỉ?
+Pos	Sự bền bỉ của phiên bản đầu của Anywhere khiến tôi cảm thấy ấn tượng, đây là một minh chứng cho chất lượng của sản phẩm Logitech.
+Pos	Samsung thực sự là một trong những nhà sản xuất hàng đầu trong lĩnh vực chip bán dẫn và chip nhớ.
+Pos	TV cong của Samsung không chỉ đẹp mắt mà còn mang lại trải nghiệm hình ảnh tuyệt vời, điều này làm tôi cảm thấy hài lòng về sản phẩm của họ.
+Pos	Sưu tầm không chỉ là sở thích mà còn là cách để khám phá những sản phẩm độc đáo và lạ mắt. Sưu tầm các máy chơi game Nintendo là một trải nghiệm thú vị.
+Pos	Tôi rất thích những ý tưởng cá nhân độc đáo, và điều này thú vị hơn nhiều khi được chia sẻ với mọi người.
+Pos	M905 của Logitech thực sự là một sản phẩm đáng giá với thiết kế đẹp mắt và chức năng tốt.
+Pos	Bảo hành 3 năm của Logitech là một lợi ích lớn cho người dùng, giúp họ cảm thấy yên tâm khi sử dụng sản phẩm.
+Pos	Anywhere 2 không chỉ nhẹ hơn mà còn có nhiều cải tiến về chất lượng click, điều này khiến tôi hài lòng với sự tiến bộ của Logitech.
+Pos	Samsung đã chứng minh được uy tín và chất lượng của mình trong lĩnh vực chip bán dẫn và chip nhớ.
+Pos	TV cong của Samsung mang lại trải nghiệm hình ảnh sống động và đẹp mắt, làm tôi thực sự ngưỡng mộ sản phẩm của họ.
+Pos	Sưu tầm là một cách tốt để khám phá những sản phẩm độc đáo và thú vị, tạo ra những trải nghiệm mới lạ.
+Pos	Các ý tưởng cá nhân thú vị luôn là nguồn cảm hứng không ngừng cho cuộc sống hàng ngày.
+Pos	Logitech đã không ngừng cải tiến để mang lại những sản phẩm tốt nhất cho người dùng, và Anywhere 2 là một minh chứng cho điều đó.
+Pos	Bảo hành dài hạn là một trong những ưu điểm lớn khi chọn sản phẩm của Logitech, giúp người dùng cảm thấy yên tâm và tin tưởng.
+Pos	Samsung tiếp tục khẳng định vị thế của mình trong ngành công nghiệp chip bán dẫn và chip nhớ với những sản phẩm xuất sắc.
+Pos	TV cong của Samsung không chỉ là một thiết bị giải trí mà còn là một tác phẩm nghệ thuật, đem lại trải nghiệm tuyệt vời cho người dùng.
+Pos	Sưu tầm là một sở thích thú vị, giúp mở ra cơ hội khám phá những sản phẩm mới và độc đáo.
+Pos	Các ý tưởng cá nhân độc đáo luôn là nguồn cảm hứng không ngừng cho cuộc sống hàng ngày.
+Pos	M905 của Logitech không chỉ là một sản phẩm thông thường, mà còn là một trải nghiệm tuyệt vời với chất lượng và tính năng vượt trội.
+Pos	Sự đáng tin cậy của Logitech đã được thể hiện qua nhiều sản phẩm, và Anywhere 2 không phải là ngoại lệ.
+Pos	Anywhere 2 mang lại sự nhẹ nhàng và chính xác trong việc sử dụng, làm hài lòng người dùng với mọi nhu cầu.
+Neu	Đó là một đặc điểm dễ nhận biết rồi bác ạ.
+Neu	Tương tự như các smartphone Android thông thường mà bác đã thấy ^ ^ ! Mong rằng sẽ có người làm điều tương tự cho em, em vẫn chưa có cơ hội chụp ảnh được! Tuy nhiên, sóng luôn ổn định khi kích hoạt 3G ạ, kể từ khi em bắt đầu sử dụng chưa gặp phải tình trạng mất sóng hay gì cả.
+Neu	Tai nghe của các dòng máy JPM em sử dụng đều giống nhau.
+Neu	Đi cafe hay đi chơi với vợ con, mình dùng đồng hồ thông minh để không phải mang điện thoại.
+Neu	Chuyển tiếp cuộc gọi từ iPhone sang đồng hồ rất tiện, không lo đồng bộ Bluetooth.
+Neu	Bluetooth thường hay gặp lỗi và tốn pin, nên mình chuyển tiếp cuộc gọi trực tiếp.
+Neu	Tích hợp thanh toán trên smartwatch rất tiện lợi, tiếc là ở VN chưa dùng được.
+Neu	Mình thấy ấn tượng với bài viết, nhưng ở VN thì Apple Watch chỉ là đồng hồ cảm ứng.
+Neu	Ở VN, nhiều tính năng của Apple Watch chưa dùng được, chủ yếu là để xem giờ.
+Neu	Khi cần sự tiện dụng, mình thấy dùng điện thoại nhanh hơn.
+Neu	Dùng Ultra book ASUS với Win 7/8 để làm việc rất hiệu quả.
+Neu	Giải trí với PS4 và TV lớn, nhưng TV hay bị vợ con chiếm dụng.
+Neu	Game nhẹ thì mình chơi trên Note 10.1, rất tiện lợi.
+Neu	Note 2 vẫn là lựa chọn tốt, nhưng mình đang xem xét K Zoom vì có zoom quang.
+Neu	Sử dụng thiết bị phù hợp với nhu cầu giúp cuộc sống dễ dàng hơn.
+Neu	Đọc bài viết này giúp mình nhận ra nhiều điều về smartwatch.
+Neu	Chức năng Juice chắc chắn sẽ được cải thiện hơn tính năng gốc của nó, giống như chế độ Eco mode. Eco mode giảm xung CPU và có thể giảm chất lượng màn hình (có thể như vậy) để tiết kiệm pin.
+Neu	Chiếc khung viền đã trở nên phổ biến kể từ khi xuất hiện trên HTC M7.
+Pos	Samsung đã gặt hái thành công lớn trong lĩnh vực chip bán dẫn và chip nhớ, đem lại sự tin cậy cho người tiêu dùng.
+Pos	TV cong của Samsung không chỉ là một thiết bị giải trí thông thường, mà còn là biểu tượng của sự hiện đại và sang trọng trong không gian sống.
+Pos	Sưu tầm là một hành trình đầy ý nghĩa, giúp mở rộng kiến thức và trải nghiệm cho người sưu tầm.
+Pos	Các ý tưởng cá nhân độc đáo là nguồn cảm hứng vô tận, tạo ra những giá trị mới cho cộng đồng và xã hội.
+Pos	Anywhere 2 của Logitech đem lại trải nghiệm click chính xác và mượt mà, làm hài lòng người dùng khó tính nhất.
+Pos	Logitech luôn đặt chất lượng lên hàng đầu, và Anywhere 2 là minh chứng rõ ràng cho sứ mệnh đó.
+Pos	Samsung tiếp tục định hình xu hướng trong ngành công nghiệp điện tử tiêu dùng với sự sáng tạo và đổi mới của mình.
+Pos	Ứng dụng này được thiết kế với sự ưu tiên hàng đầu đối với tính bảo mật của dữ liệu và thông tin cá nhân.
+Pos	Xem trực tiếp hình ảnh và video từ camera tại nhà qua ứng dụng này là một trải nghiệm đáng tin cậy và thuận tiện.
+Pos	Việc xem trực tiếp từ ứng dụng diễn ra mượt mà và không gặp trục trặc, mang lại sự thoải mái cho người dùng.
+Neu	Cellphone S đang giảm sâu đó
+Pos	Ứng dụng này đã được chứng minh là đáng tin cậy qua nhiều đánh giá tích cực từ người dùng trên toàn thế giới.
+Pos	Quá trình cài đặt và điều chỉnh thiết bị thông minh qua ứng dụng diễn ra một cách đơn giản và tự động, tiết kiệm thời gian và công sức cho người dùng.
+Pos	Ứng dụng này mang lại tính linh hoạt cao, cho phép người dùng dễ dàng kiểm soát và quản lý thiết bị thông minh từ bất kỳ đâu, bất kỳ khi nào.
+Pos	Tính bảo mật được đảm bảo cao đối với dữ liệu cá nhân và hình ảnh từ camera thông qua ứng dụng này.
+Pos	Việc xem trực tiếp từ camera qua ứng dụng diễn ra một cách ổn định và không gặp sự cố, tạo điều kiện thuận lợi cho người dùng.
+Pos	Ứng dụng này đã được chứng minh là một lựa chọn tin cậy và hiệu quả cho việc quản lý thiết bị thông minh tại nhà.
+Pos	Sự linh hoạt và tiện ích của ứng dụng này giúp người dùng dễ dàng kiểm soát và theo dõi thiết bị thông minh một cách thuận tiện và hiệu quả.
+Neg	Chắc là sản phẩm này không thể đánh giá là dễ vở đâu.
+Neg	Thiết kế quá tệ và giá quá cao, không biết chất lượng ra sao, thật là đáng tiếc!
+Neg	HDD Samsung 250GB gây ra nhiều phiền toái, thật sự làm mình khó chịu cả ngày hôm nay.
+Neg	Với giá như vậy, tôi nghĩ mình sẽ không bao giờ quay lại với sản phẩm này.
+Neg	Sản phẩm không có khả năng chống nước, điều này thực sự không ổn, đặc biệt khi có trẻ em.
+Neg	Sản phẩm này quá khó sử dụng, mình phải mất nhiều thời gian để làm quen.
+Neg	Giá cao như vậy mà chất lượng không đáng giá, thật là một mất mát lớn.
+Pos	S6 và S7 thực sự là những tác phẩm nghệ thuật với thiết kế mềm mại và thanh lịch.
+Pos	Samsung S6 và S7 là biểu tượng của sự tinh tế và sự hiện đại trong thiết kế điện thoại di động.
+Pos	S6 và S7 của Samsung mang lại cho người dùng một cảm giác sang trọng và đẳng cấp khi sử dụng.
+Pos	Samsung S6 và S7 không chỉ là các sản phẩm điện tử thông thường, mà còn là những tác phẩm nghệ thuật đẹp mắt.
+Pos	Mình yêu thích cảm giác cầm nắm của Samsung S6 và S7, vừa vặn và thoải mái.
+Pos	Với thiết kế mỏng nhẹ và góc cạnh tinh tế, S6 và S7 của Samsung thật sự làm cho người dùng không thể không mê mẩn.
+Neg	Mình đã mua sản phẩm này với hi vọng nhưng kết quả là thất vọng tuyệt đối.
+Neg	Đã nhiều lần mình gặp phải vấn đề với sản phẩm này, cảm thấy rất thất vọng.
+Neg	Không ngờ rằng sản phẩm lại có vấn đề nghiêm trọng như vậy, thực sự là một trải nghiệm đáng quên.
+Neg	Mình đã đầu tư một khoản tiền không nhỏ vào sản phẩm này, nhưng cuối cùng lại không hài lòng với kết quả.
+Neg	Thiết kế của sản phẩm quá đơn giản và không có sự đổi mới, không thực sự hấp dẫn.
+Neg	Dường như chất lượng của sản phẩm không được đảm bảo, mình đã gặp nhiều vấn đề khi sử dụng.
+Neg	Không biết tại sao sản phẩm này lại được đánh giá cao như vậy, mình không thấy nó đáng giá.
+Neg	Đã đọc nhiều đánh giá tích cực về sản phẩm này, nhưng khi sử dụng mình không có cảm nhận tốt.
+Neg	Sản phẩm này không đáp ứng được kỳ vọng của mình, cảm thấy rất thất vọng.
+Neg	Cảm giác của mình khi sử dụng sản phẩm này là không thoải mái và không hài lòng.
+Neg	Dù đã cố gắng làm quen với sản phẩm, nhưng mình vẫn cảm thấy không hợp lý và không thích.
+Neg	Thời gian gần đây, sản phẩm này gặp nhiều vấn đề kỹ thuật, khiến mình phải đau đầu với việc sửa chữa.
+Neg	Sau một thời gian sử dụng, mình nhận thấy sản phẩm này không đáng giá so với số tiền đã bỏ ra.
+Pos	Mạng wifi của Smart TV Samsung này thực sự mạnh mẽ và ổn định, cho phép tôi truy cập internet một cách nhanh chóng.
+Pos	Mình đã tin dùng Samsung từ lâu, và việc sử dụng TV Samsung đã chứng minh độ bền và chất lượng của hãng này.
+Pos	Sony luôn là lựa chọn hàng đầu của tôi với chất lượng hình ảnh và tốc độ xử lý đáng kinh ngạc trên TV.
+Pos	Sự hoàn hảo của Apple không chỉ là một mục tiêu mà còn là một tinh thần mà hãng luôn hướng đến.
+Pos	Dù BlackBerry gặp nhiều khó khăn, nhưng tôi vẫn trung thành với dòng điện thoại này vì tính năng và hiệu suất tốt.
+Pos	Mobisstar đã gây ấn tượng mạnh với tôi bởi chất lượng và tính năng của sản phẩm.
+Pos	Samsung đã vượt qua mong đợi của tôi với tính năng S-Pen, thậm chí còn sử dụng được dưới nước.
+Pos	Mặc dù chỉ nhận ra logo của Chùm Dâu, nhưng tôi vẫn ủng hộ RIM với hi vọng họ sẽ vượt qua giai đoạn khó khăn này.
+Pos	Với lượng bán 13 triệu máy trong tuần đầu, Samsung lại một lần nữa chứng minh sức mạnh và sự hấp dẫn của mình trên thị trường.
+Pos	Camera của Viettel vẫn giữ vững sự chất lượng và cam kết hỗ trợ khách hàng tốt nhất.
+Pos	Với ứng dụng camera cloud của Việt, việc theo dõi hình ảnh trên Android TV trở nên dễ dàng hơn bao giờ hết.
+Pos	Dù không phải là lựa chọn hàng đầu, nhưng ứng dụng này vẫn cung cấp một trải nghiệm tốt cho người dùng.
+Pos	Chi phí sử dụng ứng dụng này là một trong những ưu điểm nổi bật, với chất lượng hình ảnh tốt và khả năng tua ngược chính xác.
+Pos	Ứng dụng hoạt động khá ổn định và không gây ra nhiều sự cố.
+Neu	Còn khá mới để đưa ra đánh giá
+Neu	mẫu mã đẹp mà dùng tốt thì dòng nào ạ?
+Neu	Sao các bác bodyshaming e này nhiều nhỉ 🤣
+Neu	Lúc đầu chê mà sau thì chắc là mê
+Pos	Mặc dù không hoàn hảo, nhưng chất lượng hình ảnh vẫn khá nét và rõ ràng.
+Pos	Mã này chỉ phù hợp với các thiết bị có số điện thoại, không áp dụng cho tất cả các loại máy.
+Pos	Rất hài lòng với ứng dụng này, cảm ơn nhà sản xuất đã tạo ra sản phẩm chất lượng.
+Pos	Ứng dụng cung cấp thông tin chính xác và giúp chúng tôi nắm bắt tình hình gần hơn.
+Pos	Hình ảnh đẹp và rõ nét, cho phép xem nhiều camera cùng một lúc.
+Pos	Tuy không hoàn hảo, nhưng vẫn có thể thấy rằng ứng dụng này đang phát triển và cải thiện.
+Pos	Khả năng sống không ổn định có thể là vấn đề, nhưng chúng tôi tin rằng nhà sản xuất sẽ sớm khắc phục.
+Pos	Dù không có nhiều tính năng nổi bật, nhưng ứng dụng vẫn cung cấp một trải nghiệm tốt cho người dùng.
+Pos	Với chi phí hợp lý, chất lượng hình ảnh của ứng dụng này vẫn đáng khen ngợi.
+Pos	Mặc dù có một số hạn chế nhất định, nhưng chúng tôi vẫn thấy ứng dụng này hữu ích và đáng để sử dụng.
+Pos	Camera của Viettel vẫn giữ vững sự chất lượng và cam kết hỗ trợ khách hàng tốt nhất.
+Pos	Với ứng dụng camera cloud của Việt, việc theo dõi hình ảnh trên Android TV trở nên dễ dàng hơn bao giờ hết.
+Pos	Dù không phải là lựa chọn hàng đầu, nhưng ứng dụng này vẫn cung cấp một trải nghiệm tốt cho người dùng.
+Pos	Chi phí sử dụng ứng dụng này là một trong những ưu điểm nổi bật, với chất lượng hình ảnh tốt và khả năng tua ngược chính xác.
+Pos	Ứng dụng hoạt động khá ổn định và không gây ra nhiều sự cố.
+Pos	Đẹp hơn iPhone rồi, nhìn thanh mảnh hơn, Samsung đã thể hiện sự tinh tế trong thiết kế của mình.
+Pos	Samsung S6 và S7 quả là tuyệt vời về thiết kế. Chỉ những người am hiểu về cơ khí mới thấu hiểu được sự tinh tế của máy này. Cảm ơn Samsung đã không ngừng cố gắng cho ra đời chiếc điện thoại siêu đẹp này!
+Pos	Nếu có đổi từ S6 sang S7, lý do chính là pin lâu hơn và khả năng chống nước. S6 vẫn là một lựa chọn tuyệt vời.
+Neg	Không hiểu sao HTC lại chọn giá 14.9 triệu đồng cho sản phẩm này, đó là một phong cách kinh doanh rủi ro.
+Neu	Dù không có nhiều tính năng đặc biệt, nhưng sản phẩm vẫn là một lựa chọn bình thường và tiện lợi cho người dùng hàng ngày.
+Neu	Phần mềm này có hiệu suất hoạt động bình thường và không gây ra vấn đề gì đáng lo ngại.
+Neu	Mặc dù không có nhiều tính năng phức tạp, nhưng sản phẩm này vẫn hoạt động một cách bình thường và ổn định.
+Neg	Mình thấy rằng giá của sản phẩm này không xứng đáng với những gì mà nó mang lại cho người tiêu dùng.
+Neg	Giá cao như vậy sẽ khiến cho người tiêu dùng chọn lựa các sản phẩm từ các thương hiệu khác mà giá cả phù hợp hơn.
+Neg	Apple có lẽ không còn lo lắng về đối thủ của mình nếu HTC vẫn tiếp tục áp dụng mức giá cao như vậy.
+Neu	Sở hữu một SSD 500GB sẽ cải thiện hiệu suất của máy đáng kể so với ổ cứng thông thường.
+Neu	Đúng vậy, GPU tích hợp trên máy này cũng đủ mạnh mẽ để xử lý các tác vụ đồ họa cơ bản.
+Neu	Nếu chỉ dùng cho công việc văn phòng và duyệt web thôi, máy này hoàn toàn đáp ứng được nhu cầu.
+Neu	Khả năng chạy ổn định và bền bỉ của máy đã được nhiều người dùng đánh giá cao.
+Neg	Chẳng hiểu sao HTC lại chọn mức giá này, đây là một cú đấm vào tâm trạng của người mua hàng.
+Neg	Nếu giữ nguyên mức giá này, HTC có thể sẽ gặp khó khăn trong việc tiếp cận được người tiêu dùng.
+Neu	Sản phẩm này không có gì nổi bật nhưng vẫn hoạt động bình thường và không gây ra vấn đề gì cho người dùng.
+Neu	Mặc dù không có nhiều tính năng đặc biệt, nhưng phần mềm này vẫn hoạt động một cách bình thường và đáp ứng được các yêu cầu cơ bản của người dùng.
+Neg	Cảm giác như HTC đang thử nghiệm sự kiên nhẫn của người tiêu dùng với mức giá của sản phẩm này.
+Neg	Nhìn không có gì nổi bật cả 
+Pos	Sản phẩm này thực sự ngon tuyệt vời, đáng để mọi người trải nghiệm.
+Pos	Một lựa chọn tuyệt vời, sản phẩm này thực sự rất ngon.
+Pos	Thật khó có thể tìm ra sản phẩm nào ngon bằng vậy ở mức giá này.
+Pos	Mình đã dùng rất nhiều sản phẩm, nhưng sản phẩm này thực sự là một trong những sản phẩm ngon nhất.
+Neg	Tôi thì tôi sẽ không mua vì nó không xứng đáng
+Neg	Tốn tiền lắm, không ổn các bác ơi
+Neu	Phụ kiện này có thiết kế đơn giản nhưng vẫn hoạt động ổn định và đáng tin cậy.
+Neu	Phần mềm này không có nhiều tính năng phức tạp nhưng vẫn hoạt động ổn định và hiệu quả.
+Neg	Thiết kế dạo này xấu thế nhỉ 
+Neg	Thấy mọi người chê quá trời mà đúng thật 
+Neg	Không xứng đáng với giá tiền chút nào cả 
+Neg	Không nên mua các bác ơi 
+Neg	Là tôi thì tôi sẽ không mua đâu
+Pos	Sản phẩm này thực sự là một sự lựa chọn ngon cho mọi người.
+Pos	Redmi 3 thôi đã đủ tốt rồi, chưa kể đến phiên bản Redmi 3 Pro.
+Pos	Hàng Xiaomi không dùng chưa biết, chỉ khi sử dụng mới thấy được sự ngon bổ rẻ của nó.
+Neu	Được biết đến với tính ổn định và hiệu suất vượt trội, máy này đáng để xem xét.
+Neu	Đối với những người không muốn bỏ ra quá nhiều tiền cho một chiếc laptop, đây có thể là sự lựa chọn phù hợp.
+Pos	Quá ngon, khi về Việt Nam sẽ không thể không sắm cho mình một em.
+Pos	Cấu hình mạnh mẽ, có thể xứng đáng với mức giá này.
+Neg	Đúng là giá cả không hợp lý với những gì mà HTC đưa ra, họ cần phải đưa ra một giá cả cạnh tranh hơn.
+Neg	HTC cần phải tìm cách làm cho sản phẩm của mình trở nên hấp dẫn hơn nếu muốn cạnh tranh được trên thị trường.
+Neg	Mức giá này của HTC khiến cho sản phẩm trở nên khá khó tiếp cận với đa số người tiêu dùng.
+Pos	Thật sự là một sản phẩm đẹp và nam tính.
+Pos	Sang trọng và đẹp đẽ, thực sự là ước mơ của nhiều người.
+Pos	Đẹp quá, không thể không thích được.
+Neg	Giá 14 triệu đồng cho sản phẩm của HTC thật sự là quá cao so với những gì mà thị trường đang cung cấp.
+Neg	HTC cần phải cân nhắc lại về mức giá để cạnh tranh hiệu quả hơn với các đối thủ như Samsung và Apple.
+Neg	Mình hy vọng rằng giá của sản phẩm sẽ được điều chỉnh xuống để phản ánh đúng giá trị thực sự của nó.
+Pos	Sản phẩm này thực sự ngon đến không ngờ, đáp ứng mọi mong đợi của tôi.
+Pos	Mình đã thử và sản phẩm này thực sự ngon, đáng giá từng đồng bạc.
+Pos	Một trải nghiệm ngon miệng và đầy hấp dẫn, không thể quên.
+Pos	Đây là một trong những sản phẩm ngon nhất mà tôi đã từng trải nghiệm.
+Pos	Cảm giác sử dụng sản phẩm này thực sự rất ngon, không thể tả.
+Pos	Một trải nghiệm thực sự ngon lành và đáng nhớ cho mọi người.
+Neu	Dù không có nhiều tính năng nổi bật, nhưng phụ kiện này vẫn hoạt động bình thường và đáp ứng được nhu cầu cơ bản của người dùng.
+Neu	Phần mềm này có giao diện đơn giản nhưng vẫn hoạt động ổn định và không gây ra lỗi phần mềm.
+Neu	Mặc dù không có các tính năng cao cấp, nhưng sản phẩm này vẫn hoạt động bình thường và đáp ứng được các yêu cầu cơ bản của người dùng.
+Pos	Sản phẩm này đúng là ngon không thể chối từ, đáp ứng mọi mong đợi của tôi.
+Pos	Ngon tuyệt vời! Không gì có thể so sánh được với cảm giác này.
+Pos	Sản phẩm này là một món quà thực sự ngon cho bản thân tôi.
+Neg	Thiết kế của sản phẩm này cảm thấy nhạt nhẽo và không có sự sáng tạo.
+Neg	Đúng là không thể hiểu nổi lý do về mức giá này của HTC, nó không hợp lý chút nào.
+Neg	HTC cần phải có một cuộc cách mạng trong thiết kế để thu hút lại sự chú ý từ phía người tiêu dùng.
+Pos	Sử dụng sản phẩm này là một trải nghiệm thực sự ngon lành.
+Pos	Mỗi lần sử dụng sản phẩm này đều khiến tôi cảm thấy thực sự ngon lành và hạnh phúc.
+Pos	Thật khó tin là một sản phẩm có thể ngon đến vậy.
+Pos	Ngon tuyệt vời, đây là một trong những sản phẩm tốt nhất mà tôi từng sử dụng.
+Neu	Phụ kiện này không có thiết kế sang trọng nhưng vẫn hoạt động ổn định và đáng tin cậy.
+Neu	Với giao diện thân thiện và tính năng cơ bản, phần mềm này hoạt động một cách ổn định và dễ sử dụng.
+Neu	Mặc dù không có nhiều tính năng đặc biệt, nhưng sản phẩm này vẫn là một lựa chọn ổn định và tiện lợi cho người dùng.
+Pos	Sản phẩm này thực sự là một điểm sáng trong thị trường, rất ngon.
+Pos	Mỗi chi tiết của sản phẩm đều tạo nên một trải nghiệm ngon tuyệt vời.
+Pos	Nếu bạn muốn trải nghiệm một sản phẩm thực sự ngon, đây chính là sự lựa chọn hoàn hảo.
+Pos	Mình chỉ cần Redmi Note 8 đã thấy hài lòng rồi, chưa nói đến các dòng cao cấp hơn.
+Pos	Điện thoại Xiaomi quá ngon bổ rẻ, chỉ khi nào dùng mới thấy được giá trị thực sự của chúng.
+Neg	Một mức giá cao như vậy khiến cho sản phẩm của HTC trở nên khó bán và không thu hút được sự chú ý.
+Neu	Giá cả của máy này so với hiệu suất mà nó mang lại là một lựa chọn khá hợp lý.
+Neu	Mình đã đọc nhiều đánh giá tích cực về máy này trên các diễn đàn công nghệ.
+Neu	Nếu bạn chỉ cần một chiếc laptop cơ bản để làm việc hàng ngày, thì đây là một sự lựa chọn đáng cân nhắc.
+Neg	Nhạt quá trời 
+Pos	Ai chưa trải nghiệm sản phẩm Xiaomi thì không thể hiểu được sự tuyệt vời của chúng.
+Pos	Đang dùng Redmi Note 9 và thật sự rất ấn tượng với hiệu năng và chất lượng của Xiaomi.
+Neu	Với giao diện thân thiện và tính năng cơ bản, phần mềm này hoạt động một cách ổn định và dễ sử dụng.
+Neu	Mặc dù không có nhiều tính năng đặc biệt, nhưng phụ kiện này vẫn là một lựa chọn ổn định và tiện lợi cho người dùng.
+Neu	Phần mềm này không có gì nổi bật nhưng vẫn hoạt động ổn định và không gây ra vấn đề gì cho người dùng.
+Neu	Mặc dù không có nhiều tính năng phức tạp, nhưng sản phẩm này vẫn hoạt động bình thường và đáp ứng được nhu cầu cơ bản của người dùng.
+Pos	Hóng Mi Band 6 của Xiaomi về Việt Nam, mong muốn được sở hữu ngay.
+Pos	Xiaomi đang dẫn đầu trong việc cung cấp các sản phẩm công nghệ với giá cả phải chăng.
+Pos	Chỉ cần Redmi 9 là đã đủ để sử dụng mọi tính năng cơ bản của một chiếc điện thoại thông minh.
+Pos	Xiaomi đang làm rất tốt trong việc đem lại những sản phẩm chất lượng với mức giá phải chăng.
+Neu	Dù không có nhiều tính năng cao cấp, nhưng sản phẩm này vẫn là một lựa chọn ổn định và đáng tin cậy cho người dùng.
+Neu	Phần mềm này không có gì nổi bật nhưng vẫn hoạt động ổn định và không gây ra vấn đề gì cho người dùng.
+Neu	Mặc dù không có nhiều tính năng phức tạp, nhưng sản phẩm này vẫn là một lựa chọn ổn định và đáng tin cậy cho người dùng.
+Pos	Ai đã dùng Xiaomi Mi Band 5 thì sẽ không thể không chờ đợi bản nâng cấp tiếp theo.
+Pos	Redmi Note 7 là một trong những chiếc điện thoại giá rẻ mà chất lượng vẫn được đảm bảo.
+Pos	Xiaomi Mi Watch là sự kết hợp hoàn hảo giữa tính năng và thiết kế đẹp mắt.
+Pos	Mỗi lần Xiaomi ra mắt sản phẩm mới là một cơ hội để trải nghiệm công nghệ tiên tiến với giá cả phải chăng.
+Pos	Mình chỉ cần một chiếc Xiaomi Mi TV Box là có thể thưởng thức hàng trăm nội dung giải trí.
+Neu	Mặc dù không có nhiều tính năng đặc biệt, nhưng sản phẩm này vẫn là một lựa chọn ổn định và tiện lợi cho người dùng.
+Neu	Phần mềm này không có nhiều tính năng phức tạp nhưng vẫn hoạt động ổn định và hiệu quả.
+Neu	Dù không được quảng cáo nhiều, phụ kiện này vẫn là một lựa chọn ổn định và đáng tin cậy cho người dùng.
+Pos	Redmi Note 8 Pro là một trong những chiếc điện thoại giá trị nhất mà Xiaomi từng sản xuất.
+Pos	Xiaomi Mi 11 là một trong những flagship tốt nhất trên thị trường với giá cả hợp lý.
+Pos	Ai đã trải nghiệm sử dụng Xiaomi Mi Mix 4 thì sẽ không thể không khen ngợi về thiết kế và hiệu năng của nó.
+Neu	Nếu muốn sở hữu một thiết kế viền mỏng, chắc chắn phải chuẩn bị một khoản tiền khá dày.
+Neu	Đúng rồi, sau khi cài lại hệ điều hành và Office, vẫn còn khoảng 7GB trống trên ổ cứng.
+Neu	Về vấn đề gắn thẻ nhớ, liệu máy này có thể được coi là một laptop hoàn chỉnh không nhỉ?
+Pos	Với mức giá này, sản phẩm thật sự đáng nể về cả chất lượng và hiệu suất.
+Pos	Cần ngay một em như thế này để trải nghiệm.
+Neu	Mình nghĩ việc tháo ra gắn SSD 500GB vào sẽ là một lựa chọn tốt, đặc biệt nếu bạn không cần đến khả năng chơi game hay thiết kế đồ họa.
+Neu	Không chỉ CPU, mà GPU tích hợp cũng có chút cải thiện so với các đời trước đấy.
+Neu	Đây là một lựa chọn khá tốt nếu bạn muốn sử dụng cho công việc văn phòng hoặc các nhu cầu cơ bản khác.
+Neu	Tôi cũng đang xem xét về việc mua một chiếc laptop mới và đây là một trong những ứng cử viên hàng đầu của tôi.
+Neu	Mình thích cách thiết kế của nó, có vẻ rất hiện đại và tinh tế.
+Neu	Mình thích ý tưởng tháo gắn SSD để nâng cấp, có vẻ như sẽ giúp máy hoạt động mượt mà hơn.
+Neu	Máy này có vẻ rất tiện dụng và dễ sử dụng cho những người không chuyên về công nghệ.
+Neu	Với cấu hình tương đối mạnh mẽ và mức giá hợp lý, máy này chắc chắn đáng để mua để sử dụng trong công việc hàng ngày.
+Neu	Dù không được quảng cáo nhiều, phụ kiện này vẫn là một lựa chọn ổn định và đáng tin cậy cho người dùng.
+Neu	Phần mềm này có giao diện đơn giản và dễ sử dụng, với hiệu suất hoạt động ổn định.
+Neu	Sản phẩm này hoạt động một cách bình thường, không có gì đặc biệt nhưng cũng đáp ứng được nhu cầu cơ bản của người dùng.
+Pos	Xiaomi Mi Box là sự lựa chọn tuyệt vời cho việc biến TV thường thành smart TV.
+Pos	Redmi Note 10 Pro là chiếc điện thoại mạnh mẽ với giá cả phải chăng, không cần suy nghĩ nhiều.
+Pos	Xiaomi Mi Notebook là một trong những chiếc laptop tốt nhất trong tầm giá của nó.
+Pos	Mình chỉ cần Redmi 9C là đã đáp ứng được hầu hết các nhu cầu sử dụng hàng ngày.
+Neu	Dù không có nhiều tính năng đặc biệt, nhưng sản phẩm vẫn là một lựa chọn bình thường và tiện lợi cho người dùng hàng ngày.
+Neu	Phần mềm này có hiệu suất hoạt động bình thường và không gây ra vấn đề gì đáng lo ngại.
+Neu	Mặc dù không có nhiều tính năng phức tạp, nhưng sản phẩm này vẫn hoạt động một cách bình thường và ổn định.
+Neu	Sản phẩm này hoạt động một cách bình thường, không có gì đặc biệt nhưng vẫn đáp ứng được nhu cầu cơ bản của người dùng.
+Neu	Xài chuột sợ nhất là double click
+Neu	mình chưa được đụng tới con đời 1 nữa  
+Neu	Mình vừa kết nối hai điện thoại xong, vẫn hoạt động bình thường, không thấy có thông báo lỗi gì cả.
+Neu	Bạn đã thử kết nối lại chưa? Nếu làm đúng theo hướng dẫn mà vẫn không được thì mình cũng chịu.
+Neu	Máy của mình gặp tình trạng tương tự, ai biết cách khắc phục thì chỉ giúp mình với, cảm ơn nhiều.
+Neu	Mình có cái iPhone 5 không dùng đến, muốn bán lại với giá 400. Ai quan tâm thì bình luận nhé.
+Neu	Nhưng chiếc Gear Fit của Samsung chỉ tương thích với điện thoại Samsung thôi, nếu không thì mình đã mua rồi.
+Neu	Mình xài chuột mit sứ nhỏ cổng giá 25k/con .  
+Neu	Em thì phân ra 2 loại gear Gear chơi game : thì sử dụng bàn phím razer vs chuột ko dây razer Còn gear cho làm việc muốn oai thì xài bàn phím laser vs con chuột laser odin đang hóng Chứ bluetooth độ nhạy kém lắm : / em xài bàn phím bluetooth của kenkingston chơi lmht mà delay 0.5s
+Neu	Mình cũng xài g 502 nè . Nói chung con anywhere dùng làm việc / productivity thui , chứ gaming thì sao nó = 502 được .
+Neu	Các bác cho em hỏi, sao em reply tin nhắn trên Apple Watch, nói tiếng Việt mà nó lại nhận sang tiếng Anh, phải làm sao ạ? Trên iPhone thì nhận tiếng Việt rất tốt.
+Neu	Các bác cho em hỏi, con iPhone dùng ổn không nhỉ?
+Neu	Mấy bác giúp em với, em nhắn tin trên Apple Watch bằng tiếng Việt mà nó cứ nhận tiếng Anh, có cách nào khắc phục không ạ? Trên iPhone thì không sao cả.
+Neu	Bác xài chưa hay chém thế ? Kiếm ai có Magic Mouse mượn xài thử đi rồi biết !  
+Neu	Đã chơi 1 em từ lúc mới ra . Cảm giác dùng win thì tốt nhưng dùng với mac vẫn bị giật  
+Neu	Logitech là ok rồi , nhừng mình thấy giá chát quá - đang xài M545 thấy ok .  
+Neu	Tùy nhu cầu sử dụng thôi , chơi game mà cầm MM thì e nó dễ vào tường lắm  
+Neu	Bác thấy clip mình vậy có gọi là lag k . Mình thấy chuột đi chuẩn thì phải ?  
+Neu	Để nó khít cái năp hộp . Hết  
+Pos	Máy in 3D này có khả năng in nhanh và chính xác.
+Pos	Quá ngon , về VN sẽ hốt 1 em .  
+Pos	cấu hình ngon , GTX 960M GDDR5 , k biết bên trong bộ lòng có ngon hơn GL552VX k nửa .  
+Pos	Quá đẹp
+Pos	Nhìn rất đẹp và nam tính . . !
+Pos	Quá đẹp và sang trọng ước mơ 1 con
+Pos	đẹp quá
+Pos	Cá nhân mình thấy dòng C này còn đẹp hơn dong A nữa . . ! !
+Pos	Điện thoại rẻ tiền của Samsung giờ nhìn còn đẹp hơn cả iphone .
+Pos	Thôi ko mơ mộng SE nữa , rước em này cho lành thôi , chờ sam Việt Nam bán giá bao nhiêu nữa thôi
+Pos	Năng lực sản xuất của Samsung thật là mạnh . Họ hạ được giá thành sản phẩm khiến các hãng khác cũng mệt .
+Pos	Máy đẹp thế này không biết giá cả về việt nam sẽ thế nào ?
+Pos	Điện thoại nào dùng cho cv nhiều là tôi dùng . Cái này note làm tốt hơn ip
+Pos	ước gì có em này
+Pos	ngang G4 là cam của LG thuộc top rồi thánh ơi
+Pos	Thế thì còn gì tính bảo mật của BB nữa . Tôi yêu BB .
+Pos	Bb no . 1
+Pos	Cảm thấy hài lòng với note 4 vì mới đc cạp nhật lên android 6.0.1
+Pos	Chính hãng 17tr thì xách tay tầm 14-15 , Chờ rớt xuống 12tr thì rất đáng sở hữu chứ . Thiết kế đẹp , hoàn thiện sp tốt .
+Pos	Ủng hộ
+Pos	Mình vẫn mong chờ nó ra từng ngày , để cho con S7 Edge nó giảm giá . : D
+Pos	Mình vừa đón bé SE về vì em ấy không có mắt lồi , trẻ , khỏe , chỉ cái tội không bóng bẩy như 5s thôi . Hehehe , mình không thich mắt lồi
+Pos	Quá đẹp , mong là sẽ có giá vừa phải .
+Pos	Đã chuẩn bị từ lâu rồi . Hiện đủ tiền mua Iphone 6 Plus , từ giờ tới tháng 9 chắc gom đc thêm ít để tậu em này .
+Pos	1 năm trước mình mua con sony xperia SP hàng like new của Nhật dùng cũng khá là ok  
+Pos	mình cũng chẳng phải là dân buôn , chỉ tiện thì xách về được kiếm xí lãi thôi . nhưng nói chung điện thoại Nhật ngon , chính sách ngày càng thoáng , chơi được thì miễn bàn
+Pos	Lên ver 4.0 thì chuông cuôc gọi vẫn như ở bản 2.3 , bạn ah . Nghe nhạc thì không bị lỗi như ở bản 2.3 khi nghe bằng music gốc của máy , còn tai nghe mình không có nên chưa test được , nói chung là mọi thứ ổn định hơn ...  
+Pos	Thế hóa ra , nó chả fai nhựa , chả fai kim loại , nó là sợi tổng hợp . Nếu vậy thì siêu nhẹ và siêu cứng . Quá ổn .  
+Pos	﻿nhưng công nhận thiết kế của nó đi trước thời đại . viền mỏng . màn tiết kiệm điện . vỏ sau nhựa . ừ thì nhựa đấy . so với nhựa của mấy con samsung đi . khác lắm vị trí loa mình rất ưng  
+Pos	Qua một thời gian dùng thì nhận thấy con này dùng ngon , hình thức đẹp , hàng độc rất ít khi bị đụng hàng . Ghét mỗi tội là chưa up được bản rom có tiếng Việt thôi .
+Pos	sản xuất tại Trung Quốc là nhà máy đặt tại đó thôi bác . còn thì về dòng điện thoại Nhật này bác có thể yên tâm hoàn toàn về phần cứng , chất lừ  
+Pos	Chụp hình ngon bạn ah  
+Pos	quá đẹp cho một siêu phẩm , đậm chất phong cách nhật bản , sáng tạo , khác biệt , và đặc biệt là nhìn rất chất . .  
+Pos	﻿Kết em này rồi đấy . Quất thôi . Khoái nhất cái món khóa ứng dùng và hình ảnh  
+Pos	camera chup thiếu sáng như vay la quá tuyệt vời roi .  
+Pos	Voi cau hinh khung the nay gia 14 cu la re day chu ... . minh dung g pro ma nhin con nay ma phat them ... .  
+Pos	Nhìn thích quá , thích cái bảo mật của nó , nhưng không biết nó dùng bảo mật vân tay như thế nào , bạn nào dùng rồi cho ý kiến với ! định cho Note2 ra đi để cưới em này !  
+Pos	mình cũng dùng F06E được 1 tuần cảm thấy hài lòng . Cũng muốn tắt pm của nhật lắm nhưng sợ bị ảnh hưởng tới các pm khác khi xài nên chỉ hide những icon đi thôi  
+Pos	Giá 9tr5 cũng ko đến nỗi quá mắc , nó xứng đáng để xài hơn con F01f nhiều . Pin con F05f hơi bị trâu đấy , đến giờ vẫn chưa có đối thủ .  
+Pos	tuyệt vời ! ngon gấp mấy lần con z 1 cùi chuối , cùi mía , cùi bắp của e mà bác chụp có chân máy ảnh ko vậy  
+Neg	phạm vi của bluetooth rất ngắn chưa kể nếu che chắn quá kĩ như cốp xe là nghe tiếng được tiếng mất trừ khi bác luôn kè kè cái đt bên mình thì chất lượng cuộc gọi mới tốt được , đó là chưa kể đến nếu dùng đt cũ hoặc sw của tàu thì bluetooth chỉ ở v 3 hạn hữu có cả v 2 thì chất lượng cuộc gọi còn tệ nữa , còn nếu ngoài phạm vi bt thì nó lại là vấn đề của 1 cái sim khác nói chung thì dù cho sw có sim hay không sim gì thì bác vẫn kè kè cái smp bên người thôi
+Neg	Dầy hự  
+Neg	Sao trông dầy thế nhỉ  
+Neg	- Chết quên ... cho phát biểu lại Apple watch là best . - À lại quên . LG LTE 2 là con đê tiện thứ 2 khi ăn cắp thiết kế của các hãng tổng hợp nhưng ít ra nhìn nó cũng ít đê tiện hơn nhà sam . ... còn muốn con nào best chịu khó tổng hợp vào . Chứ ra lấy xe ở p
+Neg	Rất đẹp , nhưng phù hợp với đeo cổ chân người Việt hơn .  
+Neg	Giá mắc quá . 330 đồng có quá nhiều lựa chọn  
+Neg	Mình mới tậu đc 1 e.Thử chức năng tự mở khóa mà thất vọng quá ( mình khoái nhất cái này ) . Trước nó cho phép mở khóa luôn nhưng h chỉ cho duy trì trạng thái mở khóa thôi , nghĩa là vẫn phải đăng nhập bằng tay trước . Đồng thời app phải cho chạy ngầm ... Nói thật nghi ông Mi này thu thập dữ liệu người dùng lắm  
+Neg	Vọc , restart máy ... tốn bao thời gian , bực mình xoá Mi Fit đi cài lại thì OK , thật là éc .
+Neg	Suốt ngày dùng mấy vòng đeo này thì đừng hổ sao vô sinh , ung thư , bệnh tật  
+Neg	Nhầm rồi bạn . SW của Huawei nhìn đẹp hơn nhiều  
+Neg	vỏ nhựa thì thua rồi , tưởng Asus thế nào thời buổi này vẫn còn kiểu build kém tiết kiệm giảm chất lượng  
+Neg	ha ha bạn mua đi . SS cứ hết bảo hành là có bệnh : v
+Neg	Hình Batman của Samsung xấu quá , không bằng phên bản Nokia 710 Baman . Hình Batman Nokia 710 đẹp hơn . Tôi đang sử dụng nè . Có thể nói Nokia 710 phiên bản Batman chắc chỉ có 1 cái duy nhất của tôi tại VN
+Neg	Quá bình thường so với giá trị của nó , Tính ra SS6 vẫn đep hơn .
+Neg	ai cũng chê iphone nhưng cuối cùng cũng SS bắt trước iphone vè màu sắc , thiết kế jack 3.5 phía dưới , loa có lỗ nhỏ , đường viền dải anten
+Neg	Ss quá nhiều loại , loạn cả lên
+Neg	Pin thấp như vậy không biết có sạc nhanh không vậy ?
+Neg	ôi thiết kế xấu kinh điển . cam thi loi . màn hinh thi hd . đã thế còn 2 dải nhựa đằng sau . giá tận hơn 300 đô
+Neg	xau hon s 6 active roi
+Neg	Kiểu dáng chỉ có vậy , nhàm chán quá roài !
+Neg	Nhìn cái dải ăngten xấu quá .
+Neg	Chả có gì thay đổi vượt bậc về ngoại hình . Hy vọng không giống như lời đồn . .
+Neg	Xong đời anh táo rồi . Camera lg có bao đời đep . Nó chỉ đẹp trên màn ảnh thôi chứ thực tế tui chưa ưng cái nào của lg . Chỗ nào sáng thì đẹp . Chụp trắng thì hơi ngà . Chụp tối thì tối thui luôn . Cầm mấy dòng máy lên chọn default hết chụp sẽ biết thôi . Tệ nhất là Lg thế mà ... ... . .
+Neg	Nếu bản 256G mà ko tăng giá thì là quá ngon . Nhưng nếu bị đội lên tầm 150 $ thì em lạy Apple .
+Neg	Không biết Apple làm vậy để làm gì , họ thu lợi quá nhiều từ chiếc điện thoại lại còn cố móc túi người dùng thêm nữa từ sự chênh lệch về dung lượng .
+Neg	Có vẽ như Iphone không những dậm chận tại chỗ mà còn bước lùi nửa !
+Neg	" Của rẻ là của ôi " , biết đâu đây là một cú lừa ngoạn mục nữa ?
+Neg	Android luôn luôn rẻ tiền . Hèn gì chất lượng cũng rẻ tiền theo .
+Neg	Hàng china lấy mác USA
+Neg	Đúng vậy 6gb cũng bằng 3gb của i Phone
+Neg	chuẩn luôn . chả có gì đặc sắc
+Neg	Camera thua samsung s 7 , giá lại cao hơn - ế là cái chắc
+Neg	Cái giá này mắc rồi htc ơi , 14triệu hợp lý hơn
+Neg	Đắt quá rồi HTC ơi . 14.9 còn hi vong doanh số kha khá . Giá này sao canh tranh với S7 . 6s .
+Neg	nhạt
+Neg	Chả thấy đẹp gì cả !
+Neg	Nếu vẫn thế này thì R.I.P Apple . Đây là cơ hội cho Samsung có những bước ngoặt lớn
+Neg	Nếu đúng như thế thì không ai mua đâu .
+Neg	Cứ thế này thì apple đuối trước binh đoàn android thôi . Cần có cuộc cách mạng về thiêt kế chứ ko thể hi cọng mãi vào IOS được .
+Neg	Dần dần tiến sát thiết kế iphone rồi đó , cố lên Samsung .
+Neg	hix tu dung no bi nhu the con nay song tot ma em ngoi trong lop cung kha la kin song 3g van cang det ngta goi den vs minh goi di van nghe goi bt nhung moi nhan tin na toan messenger not sent hien dau cham than da reset lai may van the
+Neg	Em đã sửa Đc Lỗi ko gửi đc Mà E Thấy con Này Chụp Ảnh ko đc đẹp như Mây con 8 chấm khác Nhỉ Mà bi Kiểu khi Chưa chụp thì Nhin Khá Nét Nhưng Chụp xong thi Ảnh lại Ko Đẹp Lắm có nhiều Tấm bị mờ
+Neg	lai mot con docomo lam dap chieu . hang doc co khac het kiet pin khong the lam gi duoc . khuyen cao moi nguoi dung len mua hang docomo pin lien nhu tui gio thi chac chi lam duoc ke giay thui
+Neg	Các bác . Em gặp tình trạng con máy 102p dùng hơi đơ , thoát game thì chậm mà vào game thì lâu . nó đã up lên android 4.0 bác ạ
+Neg	Nghe nhạc hay mà volume nhỏ xíu ah Bản p 05d volume còn bé hơn 102p dùng rom port nữa
+Neg	Thế thì cho dù con của em có ko yếu pin thì em cũng khuyên bác ko nên chọn nó , thật đấy , pin yếu là điểm hạn chế cỗ hữu của dòng này rồi  
+Neg	Trong các dòng máy Nhật Bản thì Panasonic có loa ngoài lớn nhất chứ ko phải nhờ up lên 4.0 . Mình đã từng dùng rất nhiều loại máy của Nhật nhưng ko có ấn tượng tốt với em này do nó wá kén phần mềm ( mới test thử Angry Birds ( bản gốc ) và Keyboards Pro ) và hay báo lỗi " calendar can not start " , cứ tưởng chỉ có 102p bị ai dè p 04d cũng bị luôn , thấy rủi ro quá nên thôi , mình vừa xài vừa bán điện thoại Nhật mà , lời chẳng bao nhiêu , kiếm người chơi chung cho vui vậy mà .
+Neg	Gần như 102p khá khó sửa phần cứng vì mở máy rất khó và dễ bị vỡ màn hình  
+Neg	Đang dùng SH-08E , màn hình IGZO mà thấy chán luôn . Mấu sắc kém , góc nhìn hẹp . Con này cũng thế thôi .  
+Neg	16900000 đắt vãi  
+Neg	Mai sáng lấy đt khác chụp lại là rõ à , vô trang trắng tinh là nó vàng khè luôn  
+Neg	3G mình bật là lúc ở trong nội thành đó , mình bật suốt mà chả lên được 3G , mạng chậm  
+Neu	Các bác có kinh nghiệm cho em hỏi, con iPhone này có tốt không?
+Neu	Các bác cho em hỏi, em dùng Apple Watch để nhắn tin bằng tiếng Việt nhưng nó toàn nhận sai sang tiếng Anh, có cách nào sửa không ạ? Trên iPhone thì không gặp vấn đề này.
+Neu	Các bác cho em hỏi, iPhone dùng có ổn định không?
+Neu	Mấy bác cho em hỏi, sao khi em nhắn tin trên Apple Watch bằng tiếng Việt nó lại nhận thành tiếng Anh, trên iPhone thì không bị vậy, phải làm sao đây ạ?
+Neu	Thế thà mình lấy cáu điện thoại xem còn nhanh hơn . Bạn ấy đang nói đến độ tiện dụng ở câu đấy đó . . hahaha
+Neu	để tôi giới thiệu cho bác con máy Dell
+Neu	Ngày nào cũng vậy mà 
+Neu	Thấy cũng bình thường mà ta
+Neu	Bộ bảo vệ an toàn dữ liệu này sử dụng công nghệ mã hóa mạnh mẽ.
+Neu	Bàn di chuột gaming này có bề mặt chống trượt.
+Neu	Không phân biệt được bằng rung vì nó rung giống nhau  
+Neu	Mình ủng hộ có SIM nhưng là SIM data thôi , nghe gọi bằng SIM riêng trên smartwatch là không hợp lý lắm . Mấy cái tablet có SIM ít người dùng để nghe gọi lắm  
+Neu	Lười thì ra tiệm đồng hồ , chỗ nào cũng có đánh lại vỏ hết ( Rolex còn xước mà ) Chăn thì mua đồ đánh bóng về , có nhiều loại và mình có dùng của 1 hãng tên là Mag ( ko biết ở Vn có không )  
+Neu	Vâng . Chính xác là như vậy . Ko smart thì dùng làm gì cho nặng tay hả bác  
+Neu	Đọc bài viết của chủ Topic xin mạo muội bình loạn vài câu : 1 . Chủ topic khá am tường về công nghe , mặc dù hình như là dân business . 1 . AW thực sự hữu ích cho dân Business chứ không phải cho dân yêu công nghệ ( Vd coder ngồi 1 chỗ tự kỷ thì có thể dùng IP , hạn chế dùng aw chữ nhỏ hại mắt vì coder dán mắt vào màn hình cả ngày rồi ) và càng không phải dành cho thời trang . Các fan cồng của Apple nếu mua AW nên đọc bài này để cân nhắc , ko nên phí tiền vô ích nếu bạn ko phải là business man / hoặc ko đang sống ở các nước phát triển về công nghệ ( vd ở VN thì đeo aw ko biết để làm gì ) . 3 . Các bạn sử dụng aw cẩn thận , ko chừng cận thị , vì aw khá bé mà hiển thị khá nhiều thông tin = > chữ bé , đọc nhiều lồi mắt . Dù sao cũng thanks chủ Topic đã chia sẻ kinh nghiệm , hy vòng 3-5 năm tới ở VN mình có thể xài AW .  
+Neu	Cũng mới xài aw được 3 ngày , nhìn chung nếu ở vn thì chưa thực sự hữu ích với số tiền bỏ ra trừ khi bạn là người chơi thể thao hằng ngày tận dụng tốt được chức năng activity . Aw tiện lợi khi xem lịch , thời tiết , note , nhận được thông báo nhanh từ email , fb , message mà không cần móc điện thoại trong túi ra . Màn hình hiển thị rất đẹp , cảm ứng nhạy . Mình thì quen nghe gọi bằng điện thoại nên chức năng nghe gọi thẳng từ aw cũng thử cho vui , có lẽ là chưa quen . Pin của aw cũng không yếu sinh lý như mình tưởng , sau 1 ngày vooc đủ thứ đến tối vẫn còn hơn 20% . Có chế độ tiết kiệm pin nếu bạn không có điều kiện sạc ngày một . Tuy nhiên 1 con watch cho dù 2 ngày sạc pin 1 lần cũng hơi bất tiện , có thể aw 2,3 sẽ cải thiện được . Đeo khá đẹp , không thấy quá dày . Còn chức năng phải voọc thêm đã , có lẽ apple sẽ cập nhật liên tục các bản update cho aw vì mình thấy apple vẫn chưa tận dụng hết tính năng phần cứng của aw .  
+Neu	các bác cho em hỏi , em reply trên SMS trên Apple oắt , mình nói tiếng việt mà nó cứ nhận sang tiếng anh thì phải làm sao ạ , trên iphone thì nhận tiếng việt rất tốt
+Neu	Các bác cho em hỏi con iphone ổn không nhỉ 
+Neu	a đeo bao nhiêu mm ạ tại tay e nhỏ ko biết nên đeo bao nhiêu  
+Neu	E TG CÓ CẢ SIZE M MÀ BÁC SIZE M DÀNH CHO TAY 15-18CM MÀ
+Neu	Các bác tư vấn giúp em, con iPhone này dùng ổn không?
+Neu	Các bác giúp em với, em reply tin nhắn trên Apple Watch bằng tiếng Việt nhưng nó lại nhận thành tiếng Anh, làm thế nào để sửa lỗi này ạ? Trên iPhone thì không gặp vấn đề gì.
+Neu	Các bác cho em hỏi, iPhone có phải là lựa chọn tốt không?
+Neu	Thaấy cũng tàm tạm nhá bác
+Neu	Làm thế nào trả lời tin nhắn bằng giọng nói được nhỉ , mình chọn trả lời nhưng nút dictation không có hiệu lực . Có bác nào biết chỉ giáo giúp nhé
+Neu	Bộ lưu trữ đám mây này cung cấp dung lượng lớn và tính bảo mật cao.
+Neu	Màn hình cong này mang lại trải nghiệm hình ảnh mượt mà.
+Neu	Thiết bị chuyển đổi Bluetooth này có khả năng kết nối đa thiết bị.
+Neu	Bac tinh doi sang 42mm ah ?  
+Neu	Các anh cho em hỏi mua máy thì mua Dell hay HP thì oke nhỉ, em đang phân vân 2 cái này quá
+Neu	﻿Bác cho mình hỏi , mình sài aw 42 nhôm đen , sài dc 1 tháng rồi , nhưng up os 2 dc 2 tuần thì bị 1 lỗi đúng 2 lần . Lỗi là , bị 2 lần , tụ nhiên khi mình dùng force tõuh , thì cái taptic nó rung lên kèm 1 tiếng tẹt tẹt , nhấn bất cứ cái gì có taptic là nghe âm thanh đó , reêt lại thì ko bị nữa , cho mình hỏi có bác nào bị vậy ko
+Neu	﻿Hỗ trợ TIếng Việt , nhưng nhập liệu giọng nói Tiếng Việt không được .
+Neu	Phụ hồ đang đeo aw nè , sao phân biệt giai cấp vậy bợn ? Ai cấm giữ xe kg dùng gear và phụ hồ kg đeo aw đươc ? ? ? ? ? ? ? ? ? ?  
+Neu	Bạn có Dfit D2 không ? Bản này thấy giới thiệu hiện cả tên người gọi .
+Neu	thế mới nói . con dfit hình thức đẹp , chỉ mỗi tội không hiện ký tự tiếng viêt và hiển thị ngoài trời kém thôi . còn lại nhìn ngon .  
+Neu	Thấy miband 2 vẫn hiệu quả và kinh tế hơn
+Neu	Bữa thấy ông anh dùng nghe bảo cũng ổn áp mà nhỉ 
+Neu	Ủa sao mình xài Vivosmart HR thấy pin ngon mà ! ? Mình chạy bộ t 3 - 5 - 7 , các bữa còn lại hít đất . Lúc vận động mình cũng chỉ cần VHR để đo đạc nhịp tim thôi , lúc nào đồng bộ với app trên i OS thì mới mở Bluetooth thôi còn ko thì tắt . Xài như thế pin cũng tầm ~ 10 - 12 ngày mới sạc , hiếm khi là trụ đc tới 2 tuần cơ . Bạn ở đâu mà ko có VHR+ thế ?
+Neu	Ô lạ nhỉ hay mình dùng bluetooth kết nối điện thoại suốt . Bên này nó người dùng nói tracking như vậy chỉ được 2-3 ngày thôi . Bên mình bản HR thì có bán còn bản HR+ mới ra năm nay thì yêu cầu đặt hàng + 50 $ tiền shipping nên hơi ngại mua . Hàng fitbit thì bán nhiều dễ mua dễ thay vỏ , bản blaze mới ra năm nay mình dùng bluetooth liên tục không tắt thì trụ được hơn 5 ngày . Nghe nói bản HR+ năm nay pin trâu trụ phải hơn 1 tuần ấy .  
+Neu	Chính xác luôn , tác giả cũng ko fix được và ổng chuyển sang Apple Watch rồi . Đợi ổng share source rồi sẽ có người khác phát triển tiếp  
+Neu	ko biết thằng razer nabu X ko bị tắt giống thằng này không . đang định mua một con ngâm cứu thử . chứ đang xài dh hồ ko thích app watch ( tại hem có lua đó mà = ) ) )
+Neu	Màn hình máy tính hiển thị báo lỗi xanh thì làm như nào được các bác ơi ?
+Pos	đúng là đẹp với giá và câu hình , nhưng rất ghét những kẻ cứ lấy nó ra để so sánh với các thương hiệu có tên tuổi trên toàn cầu . thị trường luôn chia ra các đối tượng khách hàng khác nhau , nó o nằm trong phạm trù so sánh cau hình , giá thành , thuong hiệu vì quá khập khiễng . người giàu có thì thương hiệu đối với họ là điều không thể thiếu được , mà người giàu giờ cũng rất nhiều . buồn cười cho những nhận xét lấy nó để so sánh với sam hay iphone
+Pos	Điện thoại TQ giờ cũng có nhiều sản phẩm tốt mà : D
+Pos	Ngày xưa thì ko thich Sam thật nhưng giờ khoái lắm . Cảm giác luôn có sự tươi mới . Trước ko thích đổi dt . Giờ nhìn mấy sản phẩm mới ra mà muốn nâng cấp .
+Pos	Tôi đã sử dụng note 2 rồi note 4 và hiện đang dùng note 5 . Bản thân cảm thấy rất hài lòng với dòng note này của samsung
+Pos	Mình cũng thế màn hình chính của mình là một tác phẩm nghệ thuật chỉ có hìng nền thật dẹp và báo thức và chụp ảnh , màn hình phụ 1 thì mấy cái ứng dụng cần thiết . màn hình phụ 2 mình để cái lịch vạn niên toàn màn hìng . ôi androi thật tuyệt vời
+Pos	Cth.htc wa dinh chap tat ca cac loai dtdd thoi nay luon
+Pos	DT OBI SF1 , 2 SIM , rat tot ban .
+Pos	Mình mới mua XA dùng đc 2 ngày thấy ổn , camera trước trong điều kiện thiếu sáng chưa good lắm , có lẽ do mình xài z 3 lâu rồi nên quen . Pin máy ổn dù chỉ 2k3 . Vọc vẹc các thứ thấy máy chạy vẫn ổn định , nói chung mình hài lòng và không có ý định đổi máy ^ ^
+Pos	Day dung z 1 ok lam
+Pos	Mình trước có làm việc với một tay Hàn Quốc , nói chuyện với nhau bằng tiếng Anh ú ớ được mấy câu , nhưng được cái nhờ Note 4 mà là việc rất tốt . Mỗi khi miêu tả cái gì không được là hắn rút note ra cầm pen vẽ , viết luôn lên màn hình để truyền tải thông tin , rất hay . Từ đó mình rất thích note và từ nó làm được rất nhiều việc .
+Pos	Note chính là phát minh của Sam và chỉ có note mới thuyết phục được tôi bỏ ra gần 20chai để rước e nó về . Đơn giản chiếc S pen thần thánh quá tuyệt hỗ trợ rất nhiều trong mọi công việc và giải trí . Người dùng note nói chung là ... đẳng cấp . Note 3 đang dùng vẫn quá tốt . Nhưng bây giờ là lúc chuyển sang note 7 .
+Pos	Tuyệt vời ...
+Pos	Dc day phai mục một con
+Pos	tôi đã xài từ note 1 đến note 4 , thật tốt cho công việc . SS bạn chỉ nên xài note , các bạn sẽ thấy đáng đồng tiền bỏ ra
+Pos	Huawei chịu khó đầu tư cho sảnh phẩm của mình quá , thật tuyệt vời
+Neu	Huawei xài ok k các bác??
+Pos	Huawei Matebook tốt quá , chỉ có điều là mình không đủ tiền thôi
+Pos	Rất tuyệt , rất thích con này , mình sẽ mua một con khi nó dược bán chính thức ở việt nam đê thay thế con laptop vừa to vừa nặng đang dung .
+Pos	thật tuyệt vời ... ... khi ngắm ... .
+Neu	Đồ nội địa Trung thì khỏi bàn
+Neu	Mới mua con này ở đmx 6 củ9
+Neu	biết v đã mua huawei
+Pos	iPad Pro thật đẹp và tuyệt vời , thôi để bỏ thêm 9 triệu nữa đi mua Surface Pro 4 vậy ! ! !
+Pos	Giá vậy là ngon rồi
+Pos	tuyệt vời ông mặt trời
+Pos	Sản phẩm hoàn hảo cho mình , để đầu giường xem phim : )
+Pos	không ồn ào , nhưng khi em ấy ra mắt lại lập tức khiến mọi người xôn xao . tuyệt vời cho 1 tác phẩm . ipad pro có xứng đáng làm đối thủ không nhỉ ?
+Pos	Kinh khủng ! MS đã định nghĩa lại cái gọi là LAPTOP
+Pos	Hàng của mastel sử dụng rất tốt tôi sài con masstel 740 hơn 1 năm rồi mà có bị gì đâu , bị rớt woài co sao đâu
+Pos	Quá ngon !
+Pos	Thèm 1 em quá đi , đẳng cấp máy tính bảng .
+Pos	Qua dep ... . Gia tam 7 trieu la may com Sam , Apple , Asus , ... . chet het .
+Pos	Quá đẹp ! Giá chừng bao nhiêu mà không cho biết . Bán quốc tế thì tuyệt luôn !
+Pos	Đơn giản , gọn gàng nhưng rất sang và đẹp .
+Pos	Đẹp như Mac , chạy Win . Đỉnh cao là đây
+Pos	Tuyệt vời !
+Pos	Đang dùng Asus Ro G 552vw . Thấy mãn nguyện vô cùng .
+Pos	Asus ROG GX7 00 Loại này rất tốt .
+Pos	Surface Book của Microsoft với Window 10 pro tuyệt vời ông mặt trời cho công việc và giải trí .
+Pos	đẹp và quá đẹp
+Pos	Mua ngay kẻo hết mất .
+Pos	Bị thích cái điện thoại có máy chiếu
+Pos	tui xài lenovo từ cái máy bàn đến laptop . tablet , entry phone nay sẽ chơi smartphone luôn ! ! ! hoan hô lenovo
+Pos	Ngon , bổ và rẻ
+Pos	Max Os vẫn trên hết
+Pos	Đẹp wa , có bàn phím số nữa . K biết giá rổ thế nào
+Pos	Nhìn thôi đã phát thèm , nhưng có tiền cũng ko mua , để dành cho việc khác : )
+Pos	máy này chơi ăn nấm cứu công chúa thì tuyệt cú mèo
+Pos	Nghe có vẻ nhiều tính năng hấp dẫn đấy nhỉ . Hy vọng Samsung sẽ sớm phát hành bản 2.0 để anh em dùng Wave I & II có cơ hội thưởng thức .  
+Pos	cam này đẹp mà chụp cái nào cũng ra cái avatar của mình , thế mới lạ  
+Pos	ảnh s 7 không bằng luôn , ghê vậy  
+Neu	Hiệu năng con này như nài vậy các bác
+Neu	Tháng tới bên fpt sinh nhật sale khủng tranh thủ mua đi
+Neu	Bản này là bản crack r
+Pos	s7 xách dep rồi , giá cao hơn mà chất lượng lại thấp hơn  
+Pos	trời ạ sao con Prime X nhìn đẹp thế bây , màu sắc dễ chịu mà ko cháy sáng nữa ? ? ! Trong khi S7 nhìn như bị phủ sương vậy ? ? Liệu có phải do cảm biến không nhỉ ? !  
+Pos	Ko thể tin nổi , anh mobistar lại chụp đẹp đến vậy .  
+Neu	Xài ổn , rổ giá ok
+Neu	Mua lap cho dân kinh tế thì Lenovo hay HP vậy các bác
+Neu	E đang tính mua con LG G5 mà thấy giá cao
+Pos	So với 950XL hay LG G5 đi ( y ) . Con mobiistar này chụp ghê thật  
+Pos	Em vẫn thấy ảnh của s 7e chụp tốt hơn những ánh đèn , sáng thì phần nhiều bị cháy , chắc do để thời gian với iso . Còn độ chi tiết với độ mịn thấy vẫn hơn chứ  
+Pos	nhìn ảnh ảo vãi , khẩu nhỏ nên phơi cùng 1 thời gian sẽ ko sáng bằng . chi tiết lại hơn = ) ) chắc ko mua s 7e nữa đâu = ) ) mua em sao việt thôi )  
+Pos	sao ko thấy ai thử so sánh phơi sáng của v 10 nhỉ , con đó cam phơi sáng ngon lắm chứ bộ  
+Pos	Tuyệt no màu , no mắt , no bụng luôn .  
+Pos	Mình cũng đang dùng HTC 10 , đánh giá là năm ngoái thì màu chụp của G4 và V10 khá thích nhưng phải chỉnh chút , chứ auto ko thích lắm . Còn HTC 10 năm nay chụp hình rất yêu , màu nhìn rất thích mắt .
+Pos	Mình xem video vật vờ đánh giá rồi , cũng đã đã test nên làm luôn , mặc dù hơi chát , nhưng nó chất thật ! Cũng xứng đáng !
+Pos	Hơn cả Z5 . Nếu không tính zoom lên thì có thể sánh dc với 1020 nữa .
+Pos	Nhìn hình màu thích quá , tươi mắt , xem bằng M8 cảm giác màu tươi hơn là cái mt của em , tiếc là giá máy còn cao , đợi mùa sau cố xúc vậy , ham cả vẻ nam tính , cứng cáp  
+Pos	Quan trọng là cân bằng sáng của HTC chuẩn nên chụp trong nhà có ánh đèn không bị sai màu , bù lại iso đẩy xuống thấp nên ảnh hơi tối , nếu so sánh với S6 thì khoản chụp trong nhà HTC hơn , S6 bị sai màu và bệt do khử nhiễu Về chống rung thì chưa có máy để thử nhưng xem qua mấy bài review thấy HTC làm khâ tốt , quay phim thu tiếng khử nhiễu ồn tốt , và camera selfie thì cho chi tiết ảnh rõ , làm mịn da vừa phải  
+Pos	Đẹp quá , thuộc hàng top rồi  
+Neu	Chưa dùng thử nên k đánh giá
+Neu	e thấy dòng mới có thêm các mã màu khác trông sang
+Pos	﻿sắc nét thật á , nhin may tam hinh chup món ăn ma kich thik dich vi ghe lun á troi  
+Pos	﻿Mình đang sử dụng và rất hài lòng , ban đầu chụp thử thấy ko ưng ý bằng m 7 , nhưng do hai máy đo sáng khác nhau nên mình chưa quen . Khi đã quen kiểu lấy nét ( ko có đo sáng như m 7 ) thì dần dần chụp được những bức rất ưng ý và chi tiết . Những bức chụp flash dual tone cho ra màu chính xác ( phải nói dù chụp tối hay sáng thì màu của 10 cực kì chính xác ) chia sẻ hai bức chụp nguyên bản chỉ crop .  
+Pos	Quá tuyệt vời . Mình thử mua một món này hàng noname trên Lazada về vứt luôn . Cái này rất đáng để đầu tư nếu đi du lịch  
+Pos	Chất lượng ảnh cũng khá OK đó chứ nhỉ , đầu tư 1 em sắp tới đi du lịch mới đc  
+Pos	Có vẻ ngon với giá này .  
+Pos	nhìn đẹp nhỉ : 3  
+Pos	Phụ kiện đẹp và chất , chụp ảnh thì khỏi chê .  
+Pos	Chụp ban đêm rõ phết ít có hạt  
+Pos	Đã quá . Đang nhăm nhe hốt em Zen Ultra . Vì nó gợi nhớ đến em Z Ultra năm nào  
+Neu	Hơi phân vân giưa Fuji và Sony
+Neu	Bác gợi ý cho e máy cơ tầm 10 củ với ạ :3
+Pos	Mod Non me mở khoá tải ảnh gốc được không ạ , ah có tấm nào bác chụp low light mode không , thấy chế độ này của asus cũng ngon ^ ^  
+Pos	Len kit của Fuji quá ngon , màu JPEG của Fuji cũng nhỉnh hơn hẳn . Dù mình là fan Sony  
+Pos	Vẫn thích màu xanh của Fuji .  
+Pos	Màu của Fuji lên đẹp hơn Sony , nói chung lại thấy nghiêng về Fuji  
+Pos	Với 1 thằng chụp amateur như mình , ko biết dùng pts với lightroom gì đó , mua về chụp ảnh post luôn thì fuji quá ngon . Chỉ cần chụp , về cóp ra máy , post luôn chả xử lí gì cả . Mình dùng xe 1 thôi nhưng thấy nước ảnh cũng ngon lắm rồi . Fuji đáng tiền nhất ở nước ảnh và hình dáng hoài cổ .  
+Pos	trước đây mình dùng nex 6 , về sau phân vân giữa xe 2 và a 6000 . nghịch thử 2 máy và quyết định chọn fuji . chưa bàn đến chất ảnh , riêng cái máy đã tạo rất nhiều cảm hứng để chụp ảnh + thiết kế chỉnh các thông số đơn giản và khoa học  
+Pos	fuji bá hơn hẳn , màu đẹp trong . sony quả này thua nặng , vote fuji  
+Pos	Thực sự lén fuji giá rẻ nhưng chất lượng rất tốt trong tầm giá .  
+Pos	Cảm thấy màu và độ nét của vật thể chụp với Fuji nhìn nhỉnh hơn  
+Pos	Theo dõi giấc ngủ thì chưa thử tối nay thử xem sao , mình thấy con a6 với giá 650k mà được như này là quá ngon rồi , chứ lúc đầu tính mua miband 2 giá công bố 500k đến khi bán khan hàng tăng lên 850 ghét ko mua luôn
+Pos	Mình đang dùng 1 con này rất ngon , mạng 1-2 vạch , dùng nó kéo lên 5 vạch , mạng miếc nhanh hơn hẳn ( dĩ nhiên cũng chỉ hòm hòm khi lại gần router thôi ) . Mình lên công ty , chỗ mình ngồi wifi công ty chỉ 2-3 vạch là kịch , mà phải đúng chỗ ngồi , còn đi khuất tí là rất khó vào mạng . Từ hồi có nó có thể lỉnh vào 1 góc , chui xuống gầm bàn xem phim , chơi game … mà thằng này lại khá mạnh , mình đi cách nó hơn 10m , xuyên qua 1 bức tường ( toalet ) mà vẫn 4 vạch . Nhưng nó có 1 nhược điểm đang cố tìm cách khắc phục là nó chỉ nhớ 1 mạng . Nghĩa là nếu cài mạng ở công ty thì khi về nhà hay đi công tác , gặp mạng khác phải reset nó và cài lại từ đâu .  
+Pos	Con này giá rẻ và dùng ngon !
+Pos	xiaomi rẻ mà chất  
+Pos	Vừa mua em Asus Zenpower này trên Lazada giá 381.000 đồng . Cũng được , nhìn đẹp , gọn gàng hơn các em khác cùng dung lượng , để thử dùng một thời gian xem thế nào .  
+Neu	chụp nhiều mới lên tay đc :>
+Neu	Trước qua triển lãm thấy gt con này 
+Pos	Vừa mua em này qua tốt pin trâu chứ bộ , âm bass tốt treble cũng ok mở nhạc cũng to nghe phê lắm  
+Pos	Ipad kết nối ngon với cái loa này bạn , tui xài rồi . Cái loa này chỉ để nghe thôi , ko mic ko nút volume ko lỗ 3.5 gì đâu . Vậy nên mới rẻ mà nghe tốt .  
+Pos	Con e y hệt con này . nghe bass mạnh ko rè cũng mừng  
+Pos	Mình sạc thì thấy lúc nào nó cũng nhanh .  
+Pos	Màn này sinh ra không phải để hình nó đẹp bác ơi , cái mục tiêu của nó là 1ms kìa , không có màn ips nào được mức đó đâu .  
+Pos	mới lấy con del u 2414h và đang khá hài lòng  
+Pos	Vẫn đang dùng màn 60Hz và chơi game bật Vsync thấy ko có vấn đề gì  
+Pos	Mất quả Pin Anker hàng xách tay gần củ , tiếc đứt ruột . . Lên sục sạo rồi xách em này về dùng được hơn tháng rồi . Thấy ngon chẳng kém gì mà giá bằng có 1/3 . Pin dự phòng chắc ngoài Anker được thằng Xiaomi này ngon , chứ mấy ông kia dùng nóng v ~ cả ra , chỉ tổ chai pin đt
+Neg	Lấy luôn tên là oppo neo 9 đi , cần gì phải là a 37 , nhiều tên quá có lúc người dùng tưởng là 2 máy khác nhau .
+Neg	không hiểu sao oppo nó định giá cái điện thoại như vậy mà vẫn có kẻ mua và thậm chí là đứng top đầu nữa chứ , mấy con dòng neo là ví dụ
+Neg	Thà dùng apple , SS , LG , Sony , BB , ... . chứ tôi ko thích mua dt TQ . Chưa dùng dt TQ , chưa biết chất lượng thế nào , cho dù tốt và rẻ cũng ko mua . Bản thân và gia đình đã và đang bài trừ hàng TQ . Ghê tởm lắm rồi .
+Neg	Càng ngày càng giống điện thoại giá rẻ Trung Quốc : )
+Neg	Mua ipad air 2 cũ ngon hơn nhiều
+Neg	Con zen 2 của mình hay bị lỗi , loa rễ bị rè
+Neg	Sony quá tự tin với cái giá cao ngất ngưỡng , nếu xperia XA giá 5,5 tr và X giá 7tr thì mới cạnh tranh đuợc với các dòng smartphone khác cùng phân khúc tầm trung
+Neg	Sao kỳ vậy ? ! Máy có chống nước mà không cho chụp ảnh dưới nước rồi từ chối bảo hành . Chán SONY ...
+Neg	BB muốn dẹp tiệm thật rồi
+Neg	đâu rồi thời RIM , thời QWERTY . Hoài niệm 1 dòng sản phẩm đình đám một thời ( P / s : Tôi vẫn còn 1 bộ sưu tập từ 7x - 9x ) . Tiếc cho một thế hệ smf : (
+Neu	Qua Sing mua rẻ hơn tầm 300 đô
+Neu	oppo giờ sao vậy nhỉ 
+Neu	Ip có chống nước k các bác?
+Neg	số tiền lớn mua cái dt màn hình bé tí , chỉ nghe gọi là chính , phí tiền .
+Neg	Sao bằng bản s 7 batman đươc .
+Neg	cũng chỉ nhái iphone , thấy ng ta sắp ra ip 7 256GB , sam sung cũng ra theo , chẳng có j đột phá .
+Neg	có thiệt là note 7 màn hình cong ko ra phẳng , tui ko thích cong khó chịu lắm vậy xài note 5 luôn cực mê copy dữ liệu sướng vô cùng nhanh lắm
+Neg	Nếu y nguyên vậy thì thiết kế chưa có sự đột phá . Nhìn camera xấu hơn bản củ nữa .
+Neg	Theo mình thì giá này hơi đắt !
+Neu	Màn hình cong khá lạ
+Neu	minh xai may samsung tu doi dau
+Neu	surface 4 gia giao dong bn v
+Neg	Mình thì ngược lại , trước đây thích SS lắm giờ phát hiện ra màn hình SS xài mau xuống cấp nên giờ hơi ngán ngán
+Neg	Ức chế nhất là chương trình quảng cáo trên HĐH Android
+Neg	Minh moi mua ma ko giong nhu tren . Ma sao nhanh het pin lam
+Neg	Lỗi do winphone ít phần mềm nghịch ngợm vui vẻ , nhìn sang androi và ios vẫn thấy gato về pokemon go , bigo live , azar
+Neg	﻿Mình rất thích windown phone nhưng mình không mua bởi vỉ không có game mình đang chơi . Đó là điều rất bất lợi của WP
+Neg	Cái viền vẫn dày , cái camera vẫn lồi như ngày nào
+Neg	Da tung mua va dung thu meizu mx 5 , noi chung nhin cung dep ma xai co 4 thang hu me camara . Di bao hanh phan la ko co linh kien thay the .
+Neg	Nói nhanh cho vuông là cạn ý tưởng .
+Neg	Đế chế của Apple đã bị phế .
+Neu	Xai do Apple quen r
+Neg	Vẫn giữ cổng hồng ngoại như các dòng trước là hoàn hảo . S7 bỏ cổng hồng ngoại thật là tiếc
+Neg	Một sản phẩm mà tôi e rằng sẽ khó có thể bán chạy nổi . Ai cần một thiết bị mà người ta ko thể cầm bằng một tay như thế chứ ?
+Neg	Cầm 2 tay còn khó nữa đó bạn . 2,7 kg thì cầm 20 phút là mỏi tay ngay . Tính di động không có thì cài Android , một hệ điều hành di động để làm gì ? Máy tính để bàn thì cũng chẳng phải .
+Neg	Dang sai ipad pro la da thay lon lam roi con ss nay lam ra chac de nhin choi thoi ai ma mua vi su qua kho cua no
+Neg	Với mình nói thiệt chứ không bao giờ tin tưởng vào mtb của samsung nữa , vì lúc trước mình có 1 em note 10 . 1 2014 edition , máy ok nhưng khi gần hết bảo hành thì pin bị lỗi , đem bảo hành thì vẫn bị , rồi nv bảo hành nói thay main , sau đó thay cả pin lẫn main . Ngoài ra khi chơi game mà cắm sạc pin vào thì pin vào không kịp chơi được vài tiếng là máy hết pin . Hiện giờ mình đã múc 1 em ipad pro và đã chuyển samsung cho con trai chơi ...
+Neg	pin của Surface pro 4 dùng được có 1 năm thôi á ?
+Neg	Ghét apple chỉ có mấy cái màu đó làm đi làm lại hoài . .
+Neg	đây là một tính năng , ifan cần phải đứng đó canh đến 99% pin thì rút ra ngay , không nên cắm sạc qua đêm cháy nổ nhiều quá rồi .
+Neg	Apple cái gì cũng hay , chỉ có cái sạc là dở , hết điện giật lại lỗi .
+Neu	ip 15 vs s24 ultra loại nào oke hơn??
+Neu	Màn hình nhỏ nhỏ gọn hơn
+Neg	To vậy làm gì ta ? ? ? nâng cấp ipad air 2 lên có phải tốt hơn ko ? ? ?
+Neg	Nhìn to quá
+Neg	Giá hơi chát , hạ xuống tầm 18 chai là hợp lý !
+Neg	Tôi đã từng đập nát một chiếc galaxy tab vì chất lượng quá tệ !
+Neg	Có thừa tiền tôi cũng không mua máy tính bảng của Samsung . Tôi đang dùng con tab 4 8in mua hơn 7 triệu dùng nóng và hay lag . Nhiều lúc bực cả mình , mà pin cũng nhanh xuống . Mua được gần 1 năm đi cài lại 3 lần , pin giờ chỉ được 4 tiếng , Chán .
+Neg	Sau 1 tg lại giật lác ... . Chán mấy em android giá rẻ lắm rồi
+Neu	dùng chơi game hãng nào mượt ạ?
+Neu	khá quen mắt k 
+Neu	có tiền thì mua loại đắt
+Neg	Màn hình quá xấu ! ! SS là 1 hãng màn hình mà trang bị cho sản phẩm của mình những cái màn hình chất lượng kém như thế này sao ?
+Neg	Apple đã cạn ý tưởng rồi . Không còn gì thú vị nữa . Thời kỳ huy hoàng sắp đi xuống rồi : )
+Neg	đồ của acer kô chơi , hay hư lặt vặt
+Neg	Tab S nổi tiếng pin tệ rồi giờ mỏng nữa chắc xài ngang smartphone quá , chả còn đc trâu như cái tablet khác ...
+Neg	dù sao vẫn lag
+Neu	Tầng âm k có j nổi bật
+Neg	Với mình , New Macbook có bàn phím xấu tệ bạn ạ .
+Neg	Sao con nào cũng xấu , buồn cho laptop : (
+Neg	Dòng máy dell lỗi phần cứng kinh khủng , máy chạy hay bị lắc , pin thì bị lỗi không sạc ... .
+Neg	Xấu quá , mỗi cái Logo là còn được . Dòng HP rất hay bị hỏng gờ xoay nối thân máy với màn hình , nó không mang lại cảm giác chắc chắn và có thể rời ra bất cứ lúc nào .
+Neg	Nhìn như đồng hồ cũ , chẳng có tí gì tinh tế và sang trọng cả
+Neg	tầm thường như bao con 13mb khác  
+Neg	Máy ảnh con này thua xa dòng lumia của mic . chụp ảnh gì mà chán lắm . .  
+Neg	bị giật mát thôi . con ip 6 t xài cũng bị thế . câu lại đường dây mát từ vỏ máy tính vô cây đinh đóng vào góc tường là hết bị ngay thôi .
+Neg	Chết $  
+Neg	cái đt cùi bắp , với mức giá hoang tưởng )  
+Neg	Cái cam trước chắc ghi nhầm 1.6 thì phải . 16.mp không bằng con 5.0 của mình . Ảo từ mọi thứ . Tưởng bọn này phá sản rồi mà vẫn sống dc ở vn với cái giá điên rồ này á . ?  
+Neg	Oppo nhái thiết kế nhưng về cam và cấu hình thua xa nhé . Với lại khui con máy Oppo ra sẽ thấy mạch nó lởm thế nào .  
+Neg	nói thật chứ 2 con này phơi thua con Lumia 520 nữa , ai gạch em chịu , có sao em nói vậy
+Neg	Nói chung samsung thua là thua . Ko phải ý kiến nhiều  
+Neu	Khả năng hiển thị của màn hình đáp ứng đủ nhu cầu xem phim và lướt web.
+Neu	Máy có thể chơi được các trò chơi với đồ họa trung bình mà không bị giật lag.
+Neu	Chất liệu làm nên máy khá phổ biến, không có gì đặc biệt.
+Neu	Máy có thể đồng bộ dữ liệu với các dịch vụ đám mây một cách ổn định.
+Neu	Chất lượng hiển thị trên màn hình đạt mức trung bình, không có gì nổi trội.
+Neu	Các tùy chọn về màu sắc của máy khá đa dạng, phù hợp với nhiều sở thích.
+Neu	Tốc độ phản hồi khi chạm vào màn hình khá nhạy.
+Neu	Thiết kế của máy mang tính phổ thông, không có gì nổi bật.
+Neu	Khả năng chống nước của máy ở mức cơ bản, đủ để sử dụng trong điều kiện bình thường.
+Neu	Máy có thể phát video trực tiếp từ các nền tảng phổ biến một cách mượt mà.
+Neu	Tốc độ tải và cài đặt ứng dụng của máy đạt mức trung bình.
+Neu	Các cài đặt mặc định của máy đáp ứng đủ nhu cầu sử dụng hàng ngày.
+Neu	Khả năng lưu trữ dữ liệu của máy đáp ứng đủ nhu cầu cơ bản.
+Neu	Máy có thể chụp ảnh với chất lượng khá trong điều kiện ánh sáng đủ.
+Neu	Các tính năng quản lý pin giúp kéo dài thời gian sử dụng một cách hiệu quả.
+Neu	Sản phẩm có thể kết nối với các dịch vụ truyền dữ liệu phổ biến mà không gặp nhiều vấn đề.
+Neu	Chất lượng âm thanh khi đàm thoại qua máy khá ổn định.
+Neu	Máy có thể chơi nhạc và video với chất lượng trung bình.
+Neu	Khả năng chống va đập của máy ở mức trung bình.
+Neu	Tốc độ truyền tải dữ liệu qua các cổng kết nối của máy đạt mức trung bình.
+Neu	Màn hình của máy có độ phân giải đủ để xem các nội dung thông thường.
+Neu	Thiết kế của máy đơn giản và dễ sử dụng.
+Neu	Mặc dù không có các tính năng cao cấp, nhưng sản phẩm này vẫn hoạt động bình thường và đáp ứng được các yêu cầu cơ bản của người dùng.
+Neu	Phụ kiện này không có thiết kế sang trọng nhưng vẫn hoạt động ổn định và đáng tin cậy.
+Neu	Với giao diện thân thiện và tính năng cơ bản, phần mềm này hoạt động một cách ổn định và dễ sử dụng.
+Neu	Mặc dù không có nhiều tính năng đặc biệt, nhưng sản phẩm này vẫn là một lựa chọn ổn định và tiện lợi cho người dùng.
+Neu	Giá cả của máy này so với hiệu suất mà nó mang lại là một lựa chọn khá hợp lý.
+Neu	Mình đã đọc nhiều đánh giá tích cực về máy này trên các diễn đàn công nghệ.
+Neu	Nếu bạn chỉ cần một chiếc laptop cơ bản để làm việc hàng ngày, thì đây là một sự lựa chọn đáng cân nhắc.
+Neu	Với giao diện thân thiện và tính năng cơ bản, phần mềm này hoạt động một cách ổn định và dễ sử dụng.
+Neu	Mặc dù không có nhiều tính năng đặc biệt, nhưng phụ kiện này vẫn là một lựa chọn ổn định và tiện lợi cho người dùng.
+Neu	Phần mềm này không có gì nổi bật nhưng vẫn hoạt động ổn định và không gây ra vấn đề gì cho người dùng.
+Neu	Mặc dù không có nhiều tính năng phức tạp, nhưng sản phẩm này vẫn hoạt động bình thường và đáp ứng được nhu cầu cơ bản của người dùng.
+Neu	Dù không có nhiều tính năng cao cấp, nhưng sản phẩm này vẫn là một lựa chọn ổn định và đáng tin cậy cho người dùng.
+Neu	Phần mềm này không có gì nổi bật nhưng vẫn hoạt động ổn định và không gây ra vấn đề gì cho người dùng.
+Neu	Mặc dù không có nhiều tính năng phức tạp, nhưng sản phẩm này vẫn là một lựa chọn ổn định và đáng tin cậy cho người dùng.
+Neu	Mặc dù không có nhiều tính năng đặc biệt, nhưng sản phẩm này vẫn là một lựa chọn ổn định và tiện lợi cho người dùng.
+Neu	Phần mềm này không có nhiều tính năng phức tạp nhưng vẫn hoạt động ổn định và hiệu quả.
+Neu	Dù không được quảng cáo nhiều, phụ kiện này vẫn là một lựa chọn ổn định và đáng tin cậy cho người dùng.
+Neu	Nếu muốn sở hữu một thiết kế viền mỏng, chắc chắn phải chuẩn bị một khoản tiền khá dày.
+Neu	Đúng rồi, sau khi cài lại hệ điều hành và Office, vẫn còn khoảng 7GB trống trên ổ cứng.
+Neu	Về vấn đề gắn thẻ nhớ, liệu máy này có thể được coi là một laptop hoàn chỉnh không nhỉ?
+Neu	Mình nghĩ việc tháo ra gắn SSD 500GB vào sẽ là một lựa chọn tốt, đặc biệt nếu bạn không cần đến khả năng chơi game hay thiết kế đồ họa.
+Neu	Không chỉ CPU, mà GPU tích hợp cũng có chút cải thiện so với các đời trước đấy.
+Neu	Đây là một lựa chọn khá tốt nếu bạn muốn sử dụng cho công việc văn phòng hoặc các nhu cầu cơ bản khác.
+Neu	Tôi cũng đang xem xét về việc mua một chiếc laptop mới và đây là một trong những ứng cử viên hàng đầu của tôi.
+Neu	Mình thích cách thiết kế của nó, có vẻ rất hiện đại và tinh tế.
+Neu	SSD với HSSD khác nhau như nào anh em nhỉ, dùng lâu mà không biết như nào
+Neu	Mình thích ý tưởng tháo gắn SSD để nâng cấp, có vẻ như sẽ giúp máy hoạt động mượt mà hơn.
+Neu	Máy này có vẻ rất tiện dụng và dễ sử dụng cho những người không chuyên về công nghệ.
+Neg	Xấu hết y tưởng rồi ăn đi ăn lại
+Neg	chắc bác ấy nghĩ nó vỏ nhựa nhưng sao đắt thế
+Neg	Mấy con này được cái làm người sử dụng nhanh chán mà thôi ^   ^ , nhanh chán chính vì cái thiết kế đó .
+Neg	Ế là cái chắc
+Neg	nghe nhạc từ điện thoại chỉ có 1,5 h thì hơi yếu , không biết có thông báo cuộc gọi đến và tin nhắn hay không ? và giá 5 triệu thì hơi chát
+Neg	Nhìn 2 cam của em này dị dị k đẹp chút nào
+Neg	Thế này thì giống hai cái đèn ô tô chứ kg phải là mắt ếch nữa ạh . : )
+Neg	Thua 110i của tôi
+Neg	Nhìn sến quá . Cứ để bình thường phải đẹp hơn không .
+Neg	Dùng vân tay là đơn giản và hữu hiệu nhất rồi , còn bày trò làm gì .
+Neg	cơ bản là bảo mật quá đặc trưng cá nhân sẽ dẫn tới sự phiền phức khi sử dụng
+Neg	Say No to ASUS. Sau 1 năm máy xuống cấp thảm hại
+Neg	Cảm giác xài Zenfone không an tâm , mình thấy bạn mình xài trong 1 năm mà lỗi suốt phải chạy lại phần mềm mấy lần ... .
+Neg	Iphon bắt sóng wifi cực kém Thua samsung Đang dung cả hai loại
+Neg	máy này nên gọi là kêu ca : ) ) ) . xem xong đến giá thấy ai cũng la : D
+Neg	con này thiết kế xấu kinh điển . nhung ko rẻ đâu
+Neg	Mong chờ ngày Nokia trở lại . Chán ngấy con Lumia 535 , mua xong vứt xó vì lỗi cảm ứng
+Neg	Mình đã nâng cấp và đã lãnh hậu quả : Màn hình bị rung khiến chữ và hình ảnh bị nhoè . Đã restore các kiểu vẫn không khắc phục được
+Neg	Tôi thấy phần mềm Window phone xài rất mệt mỏi , bố trí giao diện rất khó chịu , mọi người hay đùa đây là smartphone dành cho smart users ! Nhiều khi phần mềm khó dùng cũng nản người mua .
+Neg	Mấy cái đt của Microsoft dùng cũng đc nhưng cái cửa hàng chả có cái ứng dụng nào , đa số game hay đều ko có
+Neg	Từ sau iphone 5 , cái nào ip ra trông cũng xấu .
+Neg	Apple dạo này làm ăn sao bộp chộp cẩu thả quá vậy ?
+Neu	Camera nào ổn nhỉ các cậu ơi
+Neu	Dùng chuột Logitech thấy giá cũng ổn mà dùng cũng tạm mà mọi người 
+Neu	Chuột Logitech cũng tạm, dòng này giá ổn tầm trung mà
+Neg	Lỗi liên tục . Thương cho khách hàng .
+Neg	Thật là bực mình mỗi khi update lên ios mới lại xuất hiện lỗi khác như một vòng luẩn quẩn muốn hạ xuống cũng không đwocj . Giá như apple cho phép hạ cấp một số bản ios ổn định thì tốt biết mấy .
+Neg	Dù là Iphone 7 , 8,9 hay 20 đi chăng nữa mà thiết kế vẫn na ná như vậy , camera vẫn lồi thì tôi sẽ vẫn dùng Sam .
+Neg	Không muốn nói , nhưng phải nhảy vào còm vài chữ là : Iphone đang cạn ý tưởng thiết kế và thị phần sẽ xuống nữa với kiểu dáng , pin , etc như thế này ( nếu đúng như hình ảnh đang đồn đoán trên mạng ) ... . quá chán ... . SS đang từ từ bỏ xa Apple về mọi mặt ... . mình cũng đang sd IP5S
+Neg	xấu dzã man (rợ)
+Neg	vẫn lại tròn ung ủng như s 6 chán quá . thôi lại dùng tạm con vertu hu hu của mình vậy . chờ s 8
+Neg	Thật sự mà nói sấu thê thảm , chắc hết ý tưởng rồi
+Neg	Nhin cai camera noi la phat ro len roi
+Neg	quá xấu
+Neg	Cạn kiệt ý tưỡng rồi . Hoặc đang ém hàng bùng nổ . Tôi nghỉ thế . Nói gì thì nói bảo mật của Apple thì miễn bàn .
+Neg	Hơi lồi nhỉ ... .
+Neg	Android mà có ram 10GB thì cũng vất đi
+Neg	Các siêu phẩm thấy cấu hình toàn tựa tựa nhau . Ko còn sự đột phá lớn nữa . Chỉ là nâng cấp . Khác nhau về kiểu dáng . Htc này vs giá trên thật lòng khó cạnh tranh mạnh vs siêu phẩm khác , chỉ dành cho fan của họ thôi .
+Neg	Cảm giác có gì đó không thích chiếc máy này
+Neg	iphone càng ngày càng nhiều lỗi , bphone trông lạ và đẹp hơn .
+Neg	LAI mot that bai nua cua Htc
+Neg	thấy hấp dẫn , nhưng cục PIN thì ... . ôi thần linh ơi . nản .
+Neg	Htc ngày càng hào phóng về dung lượng pin , 2200mA
+Neg	Đã từ lâu htc luôn đưa ra cái giá ảo tưởng và rớt giá ngay sau đó . Con này mới ra tầm 13,14 tr là đẹp 17tr ko cạnh tranh nổi s 7 đâu
+Neg	Tôi thấy cái nào cũng có cái ko tốt , như tôi đang dùng iphone , chỉ đc mỗi cái sành điệu , còn pin thì yếu , wifi thì kém , nghe nhạc thì chán
+Neg	Cho cũng không dùng , quá xấu
+Neu	Mấy máy này đều là máy thuộc loại ổn, bền, tạm cho học tập rồi các bác
+Neu	Vui chơi con này là oke rồi mà e
+Neu	Dùng Android xong chuyển sang Mac lạ thật các bác
+Neg	Chát quá : (
+Neg	Hoang tưởng giá đây rồi . Một sản phẩm " tái chế " mà giá ngất ngưởng . Giá đó mua S6e chính hãng mới 100% hợp lý , dùng sướng hơn mấy lần .
+Neg	Màn hình tối và mờ thì ông lại chống chế là bảo vệ mắt . Giúp cho mắt được đeo kính cận sớm
+Neg	Dù có cải thiện nhưng Vẫn xấu và nhìn thế nào ấy nhỉ !
+Neg	Ôi nhìn mấy cái góc bo tròn tròn kìa , nhìn " đẳng cấp " quá đi mất ...
+Neg	chả khác gì phiên bản cũ . hết
+Neg	Nếu thực sự như vậy thì năm nay Samsung lẫn Apple không có gì đột phá về thiết kế .
+Neg	tôi cũng vậy , nhưng ghét giá trên trời !
+Neg	Thích kiểu dáng S2 và S4 sau này , giờ S7 vs S6 cứ na ná nhau . . CHÁN
+Neg	Với giá tiền này tôi chọn pc , 40 triệu là dc 1 case và 1 màn siêu khủng rồi
+Neu	5tr xài dòng nào 
+Neg	Quá đắt . Giá này có thể mua được FF A7 cũng của Sony , còn crop thì là Fujji XT1 quá ngon lành .
+Neg	Thêm 2 quả camera lồi ra như mắt ếch phía sau thì kinh hãi vô cùng !
+Neg	Thiết kế của HTC càng ngày càng tù túng , còn xấu hơn cả mấy con XiaoMi hay điện thoại bình dân khác .
+Neg	vẫn đang dùng One M7 , nó thật tuyệt và đẹp , không có nhu cầu nâng cấp , mẫu này không đẹp bằng
+Neg	Loa đơn thì không còn là chính htc . Hy vọng là không phải M10 thực sư . Nó quá kém sang trọng . Nếu như trong hình nó là cái đt xấu nhất của dòng htc M versions
+Neg	Tv 4k tầm 43 in mà giá 400usd thì ở Mỹ có LG và Sharp ở tầm giá này đầy ngập , cần gì chơi hiệu TQ
+Neg	Mỏng làm gì nhỉ ? trong khi chẳng thấy nói gì tăng dung lượng pin cả
+Neg	Pin iphone da yeu nay con yeu hon . qua chan cho iphone dung tu doi cu den doi moi y het nhau chang khac gi .
+Neg	Mỏng làm gì ... chỉ cần sinh lý của 7 khỏe như con 6s plus và ngoại hình nhỏ nhắn như 6 là được ...
+Neg	Sản phẩm Trung Quốc gặp lỗi liên tục. Mua về và liên hệ để kiểm tra, nhưng cuộc gọi không được đáp. Sau khi lắp đặt, không có âm thanh nào phản hồi. Cảm giác như bị lừa dối bởi một tổ chức.
+Neg	Một ngày đẹp trời, tôi bị đăng xuất khỏi tài khoản mà không rõ lý do. Cố gắng tìm kiếm tài khoản nhưng không tìm thấy. Đăng nhập lại bằng số điện thoại cũng không thành công.
+Neg	Gặp phải nhiều vấn đề kỹ thuật. Lịch sử ghi lại không ổn định, và hôm nay, ngày 6/1/2023, không có dữ liệu trong hệ thống. Cần một giải thích cho sự cố này.
+Neg	Đã chi trên 400 nghìn đồng mua gói lưu trữ một tuần, nhưng khi xem lại video, hình ảnh mất nhiều. Video nhảy từng đoạn, không thể hiện được toàn bộ hình ảnh. Thật là thất vọng.
+Neg	Thường xuyên gặp sự cố với ứng dụng. Thoát ra tự động, và không thể đăng nhập lại với mật khẩu chính xác. Yêu cầu đặt lại mật khẩu không hoạt động chính xác.
+Neu	Tiêu chí chọn máy tính của mọi người là gì thế ạ, cho em xin review với
+Neu	Nên chọn máy Dell, Asus, HP hả các bác
+Neu	Thấy máy này cũng tàm tạm, chạy cũng ổn định nhé mn 
+Neg	Nhìn cục pin chán quá
+Neg	Mua note 4 có 6tr sd ngon hơn nhiều
+Neg	Mặt trước hao hao sony , nút home lại giống samsung , viền thì giống táo , nắp lưng y chang xperia ZL2 . Không tin tưởng hàng TQ lắm .
+Neg	I phone 4 ; 5 dung lau dai phai kham mat va deo kinh can hay vien . Man hinh qua nho ; moi mat . Chg ai dung man hinh nho the nua du la I Phone . Man hinh 5inches tro len
+Neg	Giá tầm 10 triệu thì mua con iPhone 6 hàng xách tay vẫn thích hơn.
+Neg	Sao lại nói là " Bình cũ rượu mới " nhỉ ? Có cái quái gì mới đâu , thậm chí là thụt lùi mà .
+Neg	16GB là quá thấp ! nhưng mua 64GB lại quá đắt ! không biết bao giờ apple mới bỏ cái bản 16GB này để thay bằng 32GB đây !
+Neg	399 đô Mỹ nếu mua redmi note 3 còn dư tiền đi nhậu rửa máy !
+Neg	quá xấu , không có gì đột phá cho siêu phẩm S7 , thất vọng
+Neg	Xấu thật
+Neg	Nhìn mặt trước giống S4 quá , viền trên và dưới quá dày , không đẹp chút nào .
+Neg	Thật xấu ...
+Neg	Tưởng cái gì , phần mềm hỗ trợ chụp ảnh của SONY Experia đã có từ ... quá lâu đời . Cốp nhặt ý tưởng đây mà !
+Neg	Máy xấu thật ! ...
+Neg	Lừa đảo chắc chắc chắn là thế
+Neg	Xấu khủng khiếp !
+Neg	nếu mua bản 16G thì bộ nhớ trong chỉ còn khoảng 11G thôi , ko có thẻ nhớ là điểm yếu , nếu chụp ảnh nhiều và game nặng nên cân nhắc , theo t nên tím shop uy tín mà mua LG G3 Mỹ cho lành .
+Neg	Camera Viettel này rất tệ mua máy của eviz về in thương hiệu lên thôi, tôi khuyên mọi người ai có ý định thì không nên mua nhé, mấy lỗi liên tục, bảo trì liên tục. Liên hệ thì đá qua đá lại, mua camera về giám sát mà phiền não quá k lẽ tao đập luôn chứ
+Neu	Samsung có chi nhánh sản xuất điện thoại tại Việt Nam rồi mà 
+Neu	Samsung lâu đời rồi mà, quen thuộc với người Việt lắm rồi 
+Neu	App này ổn áp không các bác ơi
+Neg	Đừng nên tải mn ơi. em mất 400k rồi, gửi tiền thì tb đang chờ xử lí trong khi tài khoản đã trừ tiền
+Neg	Đang cần chuyển tiền mà vào app thì kêu là bị gián đoạn đợi ít phút, mà t đợi nữa tiếng r, k cho t vô, đang gấp mà còn gặp ứng dụng lỗi
+Neg	Giao dịch liên tục lỗi,hiện thông báo trừ tiền,có tin nhắn trừ tiền nhưng bên kia ko nhận đc, lịch sử cũng ko có giao dịch.
+Neg	Lúc đầu thông báo phát hiện của camera còn gửi chính xác, lúc sau thì không gửi hoặc mấy tiếng sau mới gửi, quá t
+Neg	Rất tồi tệ, ban đầu tưởng Viettel là xịn .Ai dè sài đc vài tháng còn thông báo đầy đủ mà giờ thì ko có cái thông báo chuyển động gì.Đừng ai thừa tiền mà mua giống tôi
+Neg	app gì suốt ngày bị lỗi vụ thẻ nhớ, làm chả coi được cái sự việc gì đã xảy ra. Thật ngu ngốc khi chọn VHome
+Neg	ứng dụng tệ quá, mang tiếng là của Vietel, lưu video không dc, tua nhanh x2, x4...cũng không dc. Không biết có tiếp thu ý kiến khách hàng không mà có nhiều người chưởi lắm chưa kp. Mấy cái này có khó lắm đâu, cả Viettel không làm dc thì bán Cty cho Trung Quốc họ làm. chỉ được cái nổ.
+Neg	Các coder của viettel viết app mà k có chức năng tua x2 x10, muốn xem lại phải xem từ từ ạ. Thua luôn.
+Neg	Lỗi tùm lum, xem mà rước bực vào người. K hiểu tại sao cứ đến tối lại mất kết nối k xem dc. Cái này nhà mạng nên xem xét lại
+Neg	May minh ip 5 nang len k có j hay cả ngoài việc nhanh hết pin vào mạng chậm và máy nóng hơn lúc trưa nâng cấp
+Neg	Trời, tích hợp cả LAN nữa sao? Có cần tới vậy không?
+Pos	Phải sắm ngay iem LG thôi
+Neg	Giá quá chát
+Pos	máy quái vật
+Pos	Con này lúc mới giới thiệu giá là 4tr5-5tr vậy mà về VN giá chỉ có 4tr5. Cấu hình ổn, camera ngon, thiết kế cũng đẹp hơn mấy bản trước, pin 5000mAh quá trâu rồi. em này quá ngon trong tầm giá.
+Neg	Phiên bản lỗi của của dòng Z. Thất bại rồi.
+Neg	Window Phone - Ác mộng của game thủ.
+Pos	950 thì nó mới hơn, tôi đang sài 930 thấy ngoại hình nhìn đẹp hơn, chắc đẹp nhất dòng lumia :v, còn cấu hình 2 con này chạy wp là quá thừa thải rồi, dòng lumia thì bền lắm, đt tôi rớt qoài chẳng bị sao, mặt kính chẳng bị nứt lẹo mẻ gì hết, đợt trước sài con lumia 620 rồi đưa cho mẹ sài, sài 3-4 năm rồi máy vẫn mượt, k bị hư j hết
+Neg	Con này sao lỗi nguồn nhìu thế nhỉ, trong này đã 2 người bị rồi
+Pos	950 đi bạn, tôi đang xài nè. không thất vọng đâu. bạn là sinh viên sau này dùng chức năng continum rất thuận tiện
+Neg	Mặt sau giống ss nút home cũng giống ss , htc hết ý tưởng rồiGiá cao hơn con S7 kiểu này ế lại xả hàng thôi
+Pos	note cang ngay cang dep
+Neg	Apple watch quá cùi để đc gọi là smart watch.
+Pos	Mình mới mua 1 con màu vàng ngọc, rất đẹp, phiên bản mới nhất 2015, mua bên bạch long giá 950k, chất lượng quá ngon, từ thiết kế cho đến chất âm rất đáng đồng tiền bỏ ra, phải nói là rất hài lòng về em nó. Một vài cảm nhận ban đầu như sau: - Pin dùng khá lâu - Tiếng chắc khỏe và rõ ràng, mở lớn 90% không rè - Có đủ các cổng kết nối, cổng vào 3.5mm, khe cắm thẻ nhớ, cổng Mic để thực hiện nghe gọi điện. - Được trang bị tăng-giảm âm lượng, tiến-lùi bài hát ngay trên loa, đèn nguồn báo tình trạng làm rất đẹp. - có 1 điểm mình chưa hài lòng là sản phẩm không tặng xạc đi kèm (dòng xạc 5v-1A) và cổng sạc MicroUSB thiết kế không đánh dấu chiều nên hay cắm nhầm chiều. - Chất lượng hoàn thiện loa rất tuyệt, đẹp là tinh tế, sang trọng.
+Pos	Mình dùng con Logitech 185 có 1 cục pin AA theo chuột mà dùng hoài ko thấy hết pin
+Neg	Bạn này hỏi như trả lời luôn, nếu trong suy nghĩ của bạn thấy Sony tốt hơn ss rồi thì hỏi mọi người làm gì nữa. Tốt nhất là cứ mua Sony đi cho đỡ phải lăn tăn vì ý kiến người khác mà mình ko được dùng Sony. Toi thì đã dùng đủ cả các loại rồi, ý kiến chủ quan của tôi thì đt ss tốt hơn mọi mặt nếu cùng tầm tiền.
+Pos	Trời ạ, thiếu hoàn toàn sản phẩm Macbook 12. Đó mới thật sự là đẹp, quá mê hồn luôn
+Pos	mình cũng dùng 5s vừa lên 9.3.2 thấy dùng vẫn mượt mà
+Neu	ip7 giờ vẫn dùng đc
+Neg	Nhìn như đồ chơi con nít
+Neg	rồi khi có người gọi tới sim đt gắn trên smp thì lúc đó nghe bằng niềm tin hả, sim trên sw là số khác nhé, còn nếu dùng dịch vụ chuyển cuộc gọi thì khi nghe cũng bị tính tiền như khi gọi nhé, chơi chuyển hướng một ngày nhận chục cuộc gọi thôi là tháy tiền ra đi vì đâu rồi, sao còn í định dùng sw có sim nữa không
+Neg	1900 đến 2500 usd. Đắt quá, nhưng vẫn chưa đắt bằng con vít của vertu
+Neu	con này ok k ạ
+Pos	Siêu phẩm thế kỷ là đây !
+Pos	Ngày xưa xài P910i xài cổng 2.5 thấy rất thuận tiện và hợp lý. Đặc biệt là tai nghe jin 2.5 của P910i nghe cực sướng!
+Pos	Đẳng cấp đích thực.
+Neg	Vâng, Apple đã giải quyết xong nguy cơ dùng sạc đểu vừa sạc vừa nghe nhạc bị điện giật. Và tôi xin phép không dùng iphone 7 vì mấy cái tai nghe của tôi ko cắm đc vào cổng lightning :D.
+Neg	Cái em Sam này ngốn ram khiếp(free:400MB), 1 lần mua e tởn tới già luôn !huhu
+Neu	ios 17.2 dùng sao ạ?
+Pos	Tôi đang dùng còn Lenovo Thinkpad E430 được 2,5 năm rồi, mong nó hỏng để đổi em khac mà nó chả hỏng, chắc phải lấy búa đập cho nhanh hỏng thôi. Mình dân kinh doanh nên dùng nguyên ngày và cả đêm mà pin vẫn còn OK, nói chung rất hay lòng khi mua em này...
+Pos	chắc bác mở máy chơi MU hay sao mà tựt pin? máy tui note 5 connect bluetooth với gear cả ngày, fb, chat, gửi mail, nghe gọi cũng ko tới ngày sạc 2 lần như bác. hay là mua nhầm máy dõm? từ trước tới giờ sài android thì thấy note 5 xài rom gốc mà pin tốt như máy root.
+Pos	Ngon. Đỡ phải dùng thẻ nhớ.
+Neg	Màn hình xấu lòi !!
+Neu	Màu xanh cũng ổn nha
+Neu	Nghe bảo máy này có 5 màu đấy 
+Pos	Màu đẹp quá. Đang có 6s lại phải tốn tiền để đổi em và mang em về rồi.
+Neg	100% là cái này éo được ưa chuộng ở vn từ tính năng cho đến...mọi thứ. Tính năng thì chúng ta đã rõ, nó cũng như nhiều sw khác chỉ hỗ trợ tốt ở Mỹ vs một số nước tư bản giẫy chết khác. Về việc dùng, giang hồ dồn tiền mua cái 6 Plus, phần lớn đến đám đông để khoe. Dùng cái này thì khoe cái 6 plus, 6 s plus thế quái nào được? Không lẻ vừa nhìn đồng hồ vừa móc điện thoại nhìn???
+Pos	Đang dùng M7, cũng vẫn ngon, chờ M10 xem thế nào rồi đổi.
+Neg	con nay ban 6tr hy vong co nguoi mua
+Pos	Nếu giải trí hãy dùng IP, nếu nghe gọi hãy dùng BB. kinh nghiệm là mình sử qua rất nhiều ĐT nhưng chất lương nghe gọi của BB rất tuyệt vời.
+Neg	mình mới mua cái c5 dual mà loi muốn khóc luôn ,
+Pos	Em dùng con pulse khi đá bóng Có màn hiển thị thì ngon quá
+Neg	Vẫn chán, hay là góp ý cứ tập trung vào phát triển phần mềm đi vậy?
+Neg	iphone pin đã ko đạt chuẩn còn thêm cái quạt nữa.
+Pos	Mình cũng chuyên chơi hàng xách tay nè, cái điện mình đang xài LG G3 cũng là bản Hàn Quốc, mà xài rất tốt chả gặp trục trặc gì (có thể vì may mắn chăng). Phải nói nó là cái điện thoại làm mình hợp ý nhất trong tất cả các loại điện thoại mình từng mua trong đời.
+Pos	Quá đẹp . Ước ji nó mang hiệu của việt nam
+Pos	gắn vào camera trước để tự sướng thì tuyệt luôn :d
+Pos	mình đang dùng 1 con x-mini xam15 cảm giác rất ổn, nếu so sánh trong 2 con thì con nào ok hơn vậy, thích con xiaomi vì được cái giá mềm mà có bluetooth nữa
+Neu	dùng Mac thì ôm thoải mái k lo nóng máy
+Neu	Chạy qua fpt chắc có đó
+Neu	Tiền nào của nấy thôi
+Pos	Đúng vậy. Note mới là dòng điện thoại anh cả của Samsung :)
+Pos	mình nhớ là Xbox ra trước cả Win Vista, hồi đó trốn học đi chơi hoài, điểm nổi bật là có ổ cứng sẵn lưu đc nhiều trò nên k bị dính tình trạng đĩa xước, lúc đó ước gì có 1 cái
+Neg	ip15 chụp xấu điên 😣
+Neg	Sau khi đọc hết 21 trang comment của mọi người , mình quyết định ko mua vidonn A6 , x6 hay x6s nữa ^^ có vẻ củ chuối , ko ổn định. Mình quyết định mua i5+ cho vợ, nhiều comment tốt hơn. P/s: Mình đang xài mi band 2 , thấy hài lòng.
+Pos	Samsung rất đẹp, camera thiếu 1 đèn flash!
+Pos	Mình cũng mong là vậy ! Samsung bây giờ thiết kế đẹp thật , dòng note có nhiều tính năng tuyệt vời .
+Neg	Viền cạnh dưới quá to. Quá bảo thủ với kiểu thiết kế này, không hợp thời. Ắt sẽ lại thất bại !
+Neg	Laban key tốt hơn
+Neu	MÌINH CUXX ĐANG XÀI CON M7 NÈ
+Neu	Đang tính pass con S24 mà chưa biết giá sao
+Neg	màu vẫn hơi kém sắc nhỉ
+Neg	máy em ở 4.0 r.so sánh với cái ảnh about phone chả khác gì topic trước.em mua lại đã unlock r.nhưng mà build thì không so sánh vì ảnh chụp thiếu,sóng thì lúc nào có thì rất căng.nhưng bỏ đấy đi tắm hay đi ngủ vẫn nguyên chỗ đấy nó gạch chéo luôn.ngồi im vào mạng thì cả ngày không mất.bộ nhớ formart lại còn có 4.2gb chắc do rom.hôm mua về 11.5gb nhưng là ảo bị lỗi parameter vì rom enable có nấy.mà đính chính là go không thể nhẹ và ngon bằng next launcher nhé bác.
+Neg	có ai đọc được tiếng nhật xem nó lên được 4 chưa nhỉ vì hiện tại ở 2.3 thấy cùi quá, pin thì siêu yếu
+Neu	Sao thấy ai cũng chê e này cùi v 🤨
+Pos	ai đã xài HTC rồi thì mới có ý kiến,chỉ vì thích khoe bản thân nên ráng chọn hàng thời thượng thôi, ngay tôi cũng vậy nhưng vẫn giữ em HTC để ở nhà bền lắm vật lên vật xuống có chịu hư đâu
+Pos	Nâng lên cho cao xong tìm cách hạ xuống, chỉ có thể là Sam sung
+Pos	không có ống 35f2 và có thể là 23 f2 sắp ra mắt nữa, nhỏ nhẹ, lấy nét nhanh và wr nữa
+Pos	em thấy duyệt em này rùi hợp tùi tiền
+Pos	Samsung thật tuyệt vời Android quá hay
+Pos	đây là chế độ tiết kiệm pin, khi mà đi du lịch chụp hình nhiều, nghe nhạc nhiều, chơi game nhiều, đến chiều thì lại chỉ cần nghe gọi, hạ độ phân giải xuống bằng iphone 6s plus để xử lý nhẹ nhàng tiết kiệm pin là rất hợp lý.
+Pos	Note 7 có Corning Gorilla Glass 5 không trầy rớt 1 met 6 thì không bể
+Neu	Qủa zoom x30 chất lg đó
+Neu	Mã màu cũ
+Pos	cấu hình ngon, mua về rồi lên vỏ 6 cũng được
+Neg	Mình xin phép đánh giá là màu hơi kém tí
+Neg	Trên đời này bộ hết màu rồi hay sao?
+Pos	HP đáng mua nhất, giá vừa phải, hàng đã cải thiện chất lượng khá nhiều. Tránh Asus ra nhé!!!
+Pos	Nhin thiet ke đẹp quÁ.
+Pos	Smartphone : về công nghệ SAMSUNG là số 1
+Pos	Đẹp, phải nói là rất đẹp! Từ khi mua lại mảng phần cứng của Nokia, Microsoft đã cho thấy tham vọng của họ lớn đến chừng nào, MS đang từng bước thoát ra khỏi "lớp vỏ" của 1 nhà chuyên sản xuất phần mềm.
+Neg	nhìn đẹp quá mà chạy android là thấy không muốn mua rồi thích cái nào nghiêm túc hơn, phù hợp đo vận động hơn Garmin, Fitbit thẳng tiến
+Pos	Cam trước 5MP có flash luôn thì selfie thỏa thích r hen :3
+Neg	Mới không ra mới , cũ không ra cũ , dở dở ương ương chẳng cảm nhận được gì từ sản phẩm này
+Pos	đẳng cấp là đây , chân dài là đây
+Pos	Samsung số 1, quá tuyệt vời.
+Pos	Ờ, mình mua qsd may mà dc e pin trâu, rất là hài lòng
+Pos	Xiaomi, tôi tin dùng, xài ngon lành hơn samsung nhiều, còn oppo xách xách dép theo.
+Pos	9.2.1 vẫn cứ là ổn áp nhất. silver tôi dùng gần 2 năm nay mà vẫn y như lúc mới mua :))
+Pos	đợi iPhone 7 ra là mua ngay 1 bạn về, nhìn concept bạn ấy đẹp quá, nhất là màu đen, mê hoặc
+Pos	như thường lệ ra IP5 tôi mua 3GS, ra 6 tôi mua 4S, nay ra 7 sẽ lên con 5S . sài hàng cũ mà mượt lắm. tuyệt vời
+Neu	Hóng ngày ra mắt
+Neu	Như e thì 16 gb là đủ
+Neu	xài ip hoài muốn đổi dòng khác cho lạ
+Neu	Giamr giá thì mình mua
+Neg	mình chưa xài J7 nhưng mình đang xài cái sony đó được 2 năm mình thấy nó ok...chỉ mỗi tội thấy loa sony hơi nhỏ...nghe nhạc phải để gần hok thì xài phone thôi....nghe nhạc nhiều thì bất tiện...
+Pos	1 tỷ tôi cũng mua Mua bằng mọi giá
+Neg	vẫn không hiểu nhiều người cứ thích sw phải có sim rời để làm gì, đưa đồng hồ lên miệng là đã thấy dị rồi, chẳng thà mua cái đt cùi bắp 2 sim 2 sóng kiêm tai nghe bluetooth luôn có phải ngon không
+Neg	Hóng rx 470 ấy chứ 480 bị chê p/p rồi
+Pos	Thiệt là bá đạo
+Neg	kém xa chiếc patek philippe swiss made của mình :v
+Pos	nên up bạn ah minh up lên tuy có mất mấy gb bộ nhớ nhưng máy chạy ngon sóng sánh khỏi phải bàn luôn đặc biệt là pin trâu hơn hẳn
+Neg	Có ai dùng 6s lên 9.2.1 lại nhanh hết pin như tôi không. Nhanh hết pin quá
+Neu	Ứng dụng này dùng được không các bác, định tải mà đang không biết nào
+Pos	Mình đã thử rồi! Ứng dụng này chụp hình đẹp... IOS 9 nên tải về!
+Pos	Olympus toàn công nghệ khủng cho máy mirrorless, thêm cái body đẹp dã man nữa mà ngậm ngùi gì hả bác
+Pos	Cơ hội cho những ai yêu Iphone
+Pos	ngon đấy đợi hàng về làm cái
+Neg	Cả 2 đều xấu !
+Neg	Pin qua thap, khong thich
+Pos	quá ngon <3
+Neg	Thật sự thất vọng nếu IP7 y như vậy. Thà mua 6 hoặc 6s còn hơn.
+Pos	Quá đẹp cho đội smartphone!
+Neg	Hết ý tưởng
+Neg	Có cảm giác kính Asus mỏng và giòn. Thế hệ trước màu sắc hiển thị xấu mù. Dù Asus tung hô là dùng golila glass mấy đi nữa. Mình đã bể một em zenTab và một con zen 2 mua buổi sáng buổi trưa về rơi bể toang
+Pos	IP ram 1G chạy đã nhanh hơn ăn roi ram 3g rồi.Nếu IP 7 lên ram 3g thì sẽ mượt thế nào nữa đây
+Neg	Xấu đau đầu
+Neu	Dùng Crack cũng tạm ổn mà
+Neu	Bác cứ tự tin vào, bản này cũng okela ấy mà 
+Neu	Cùng tàm tạm 
+Pos	đẹp quá Deluxe
+Neg	Vâng mỗi người 1 mụch đích khác nhau và mình thấy đánh giá như thế không hợp với mụch đích của mình => nó tệ với mình. OK
+Pos	XiaoMi Mi4 giá khoảng 3tr cấu hình camera sau 13MP, camera trước 8MP, CPU 2.5 GHz, màn hình full HD, RAM 3GB, bộ nhớ 16GB...theo tôi thì đây là máy giá rẽ mà cấu hình cao nhất trong các loại dt phổ thông hiện nay.
+Neg	Không quan tâm lắm,đt và Macbook thì nên xài chứ mấy cái đồng hồ này thì ........:))
+Neg	mình mua S7 Edge rồi. 4 inches quá bé :((
+Pos	Thời này còn chê ip pin yếu là biết bạn xài ip từ đời nào rồi, pin ip6 đã khá trâu mà nhất là dòng Plus, pin trâu ngang ipad, kinh dị
+Neg	Đẹp đấy nhưng giá khoảng 12tr thôi thì vừa,chứ 19,20 tr chọn máy khác.
+Neg	Hàng Samsung mua xong hối hận không kịp, đó là lý do lúc mới ra thì đắt, hãng đưa giá ảo, sau đó ế giảm 50% mà hãng vẫn còn lãi.
+Pos	mua hàng lô 25k vẫn xài tốt
+Neg	Dày thêm 1mm nữa ok nhưng pin khủng lên tí là ngon mà cam khả năng cao không bị lồi!
+Pos	Tính năng này cũng hay đó chứ. Khi đi trên đường không muốn dùng smartphone để bị cướp thì sử dụng điện thoại này để nghe gọi, nhắn tin chung 1 số. Chủ yếu là gọi.
+Neg	Thôi quá hãi với HTC ! Lag má ơi ! Đã cọc Note 7 !
+Neg	Đây là điều nhảm nhí nhất mà tôi từng biết . Ôi apple thần tượng của tôi .
+Neu	Samsung k có cửa với nhà táo
+Pos	Đẹp
+Neg	Giá bản in thành phẩm quá cao. Thích hợp cho cá nhân hay tổ chức chuyên nghiệp hoặc đại gia thôi. Còn dịch vụ thì cứ ra lab là lựa chọn tốt nhất.
+Pos	sản phẩm này sử dụng rất tốt đặc biết tiện lợi cho những cửa hàng nhỏ dùng để làm dữ liệu nhập xuất hàng như trong ảnh hiện Phúc Anh đang bán 3.990.000 + KM bộ bàn phím chuột Giga không dây cực hấp dẫn mọi người tham khảo thêm nhá
+Neg	phần cứng HTC làm khá tốt, chưa kể các sense khá ok, nhưng giá thì trên trời, maketing quá kém
+Pos	Tôi đang xài lenovo p70 ne ,xài tẹt ga luôn hu hỏng j hết ,rớt mấy lần rồi ,chơi game liên tục dc 6 tiếng ,còn máy nao ngon hơn nữa
+Pos	đẹp
+Neu	lenovo mẫu mã đến giá thành đều ổn
+Pos	Cấu hình cao thế được xếp vào điện thoại tầm trung rồi sao giá lại rẻ kinh khủng thế, không biết có lọt được về VN không nhỉ!
+Neg	Nếu lấy camera làm tiêu chí ,bỏ qua các thứ khác thì con này quá đắt với cái giá 8 củ.
+Neg	Chậm???
+Neg	2016 - Iphone - who cares? :))
+Pos	dùng 510 thích lắm, ko thì con mx anywhere là ổn
+Neg	Tôi cũng giống bạn. Đang hóng cái kết của iphone sẽ xuống dốc như nào.
+Neg	Chu kì hưng thịnh của iphone đã qua.
+Pos	Leveu nghe nhac da that ba con ak
+Neg	Thật sự không có gì đặc biệt. Cần tiếp tục cải tiến kiểu dáng sang một form mẫu khác.
+Neg	Thật buồn cho các tín đồ của IP ??????
+Neg	Tôi cũng mới đọc tin. Mà chip chán quá. Cam 13 thì cũng nhắm mắt mua. Có điều vẫn băn khoăn cái lượng pin. Hi vọng bản XL pin đc 2500
+Neg	không có gì đặc sắc và vượt trội so với thế hệ cũ. không giống như sự đột phá của S7 so với S6 của SS. Một fan BB cho hay (nói vậy để mọi ng thấy mình không thiên vị hãng nào giữa Ap và SS )
+Pos	về thiết kế thì bây giờ các hãng đều na ná nhau, chẳng thể nói ai copy ai được nữa. Quan trọng là chất lượng và giá thành. Mình dùng vài sản phẩm xiaomi rồi nên có cảm tình vì giá tốt, xài ngon. Chẳng hiểu sao cấu hình như con Mi5 này mà nó có thể bán giá thế kia ? mấy hãng khác ăn dày quá chăng?
+Pos	Cái này nhìn hấp dẫn thật. Nếu giá hấp dẫn thì cũng mua một chiếc cho công việc văn phòng. quá tuyệt vời.
+Pos	Cái gì cũng ngon chỉ thương hiệu là không ngon thôi :v
+Neg	cống rãnh đòi sóng sánh với đại dương
+Neg	Cấu hình bèo mà đòi đú.....ZenFone Selfie cũng 6 triệu 5 mà camera trước 13MP, màn hình Full HD....Không cạnh tranh nổi đâu!!
+Pos	Có tiền mình wuất con zen 3 duxlue 6g ram.aus 3 mẫu điều rất đep.sài nhiều asus rất ok,sài it ra oai thì iphone 6.nhưng mình đang sài zenphone 2 4g ram rom 64 chip 3580,mình thấy rất nhanh và mạnh,ủng hộ asus cố lên.nếu ai am hiểu về điện thoại thì đánh giá còn ko hiểu đừng nên phán xét lung tung.
+Neu	Bác nào cho tôi xin review thử máy điện thoại Vivo đi mấy bác ơi
+Neu	Pin nào trâu nhỉ 
+Neu	Pin này nạp tầm 4 tiếng mới đầy đó, nhưng được cái dùng cũng lâu nhé 
+Neu	Mọi người ơi, nên mua bản Microsoft không nhỉ, dùng crack thì có sao không các bác
+Pos	Màu sắc khá trân thực chi tiết tốt duy có màu đỏ bị đẩy khá cao hoặc do màn hình s7 của mình bị rực đỏ. Mà truyền thông của sp này kém quá còn chưa biết máy đã bán ra chưa chỉ thấy s7 với 6s thôi. Ai bán 13.5 triệu m10 đi. Buồn cho htc tốt mà rất tiếc
+Neg	Không nên mua oppo nhé mọi người.
+Pos	Mê quá !
+Pos	thật là một bước đột phá
+Neg	Chống nước, có cũng như không thôi thưa anh Sony. Tôi mua Z5 Premium chỉ nghe điện thoại dưới trời mưa mà đã bị nước vào, mang đi bảo hành thì Sony khẳng định tôi sử dụng chụp ảnh dưới nước và từ chối bảo hành. Cãi nhau mãi ko đc chán quá nên cầm về làm kỉ niệm !
+Pos	đáng đồng tiền!
+Pos	Hệ điều hành chưa test nhưng xem chưng ngon, Giá như này mà cấu hình chip snapdragon và ram 2GB thì phân khúc này quá rẻ.
+Neg	thà mua sony ngon hơn
+Neu	Thuử mua trải nghiệm đi bác
+Neu	Okela mà nhỉ
+Neu	Mai thử ra CellphoneS xem thử có máy nào oke không vậy 
+Neg	Đắt quá !! Ở bên nước ngoài thì giá hợp lý còn ở VN thêm tí tiền mua iPhone 6s cho lành.
+Pos	Lấy nét laser thì nhanh và chuẩn hơn em S7 rồi
+Neg	vụ này hơi chém gió. Pin của Apple watch chỉ được 1 ngày, thưởng là phải charge qua đêm thì sao ngủ dậy có đồng hồ trên tay được. Hoặc là chấp nhận ban ngày không xài để đeo ban đêm khi ngủ
+Pos	Tính ra con này còn ngon hơn cả Zen Laser. Sở hữu hầu hết các đặc điểm của Zen Laser mà còn thêm cả dung lượng pin cực lớn. Đảm bảo những người có công việc thường xuyên đi lại, gặp gỡ khách hàng sẽ thích ngay
+Pos	Thôi mua m5 đi!!!rất tuyệt vời!!!
+Neg	Hãy so sánh với XPS 13. Con này ko có cửa
+Neg	Cầm cái này gọi điện đúng nghĩa úp thớt lên mặt. Ngày xưa con Z ULTRA đã bự lắm rồi, con này vượt cả khuôn mặt luôn
+Pos	Thấy thích rồi
+Pos	Bắt đầu thích Xiaomi rồi đó, khựa ơi khựa
+Neg	Những máy kiểu này em thích lắp lens fix/prime dưới 35mm, Nó đã thiết kế để gọn nhẹ thì phải lắp cái lens nhỏ thì Chứ lắp lens to khác gì con sò kẹp quả chuối to, kinh bỏ m
+Pos	Thiết kế của GR5 mình thấy quá đẹp, đẹp nhất trong những smartphone mới ra gần đây
+Neu	Tùy túi tiền ban . Mình dân mua bán điện tử nên chỉ bạn Ipad 4 ngon hơn ipad 3 nhìu Ipad 4 only wifi = ipad 3 3g wifi Nếu 2 cụ ít đi tới lui khuyên mua bản ipad 4 wifi Lưu ý kinh nghiệm Xem ipad 1 . Cảm ứng thay chưa ( nếu thay có bụi hoặc gon màng hình ko sát ) 2 . Lấy số serial check lên web apple xem đúng ipad ko . Nhằm con đống ổ cứng ( dính icloud ) trước đó check lại ra iphone 5s 5c
+Neu	Tùy ngân sách của bác nhá
+Neu	Xiao mi đang bạo
+Neu	Hóng ip 16 
+Neu	tính năng chống nước chả dòng nào ổn cả
+Neu	Có bác nào dùng Iphone không, review cho tôi con Iphone 15 chụp ảnh ổn không mọi người ?
+Neu	Thử tai nghe Baus xem em, anh thấy dùng ổn mà 
+Neg	Các bác đã thử chạy liện tục em này chưa ? E xin chia sẻ một chút như sau: ÂM THANH: Tốt , đủ dùng bass tốt nhưng ko nên nghe các loại nhạc bass nhiều do bị vỡ tiếng . loa mở hết cỡ ko rè nhưng chỉ vs các loại nhạc nhẹ, trữ tình thôi. PIN , THỜI GIAN SỬ DỤNG : khác xa so vs quảng cáo, sạc quá lâu loa chạy liên tục (mở 100%) được 3 tiếng hết pin. Loa liên tục(40℅) như quảng cáo là dc tận >10tiếng nhưng thực tế dc gần 5 tiếng. Đặc biệt em này sạc pin siêu chậm . pin 1200mah mà sạc mất 6 tiếng bằng củ sạc Samsung 5v-1A của em, 5 tiếng vs em pin dự phòng Xiaomi 10.000mAh. >>>>Quá là thất vọng vì không như quảng cáo ! Nhưng vs tầm tiền như vậy thì chấp nhận dc.
+Pos	iPhone rất đẹp. Tôi mua 2 cái. Tay trái 1 cái. Tay phải 1 cái Kkkkkkkkkkkkk
+Pos	giá con này bên nhật rẻ mà.cái giá có thể nói là quá tuyệt vời so với chất lượng.ko thể kiếm được em nao tầm tiền đó mà ok như vậy.biết thế e mang về vài con bán lại 2,5tr cũng lời chán
+Neg	bọn tcs như shit. thông tin bảo hành thì nó bảo ghi trên thẻ bảo hành. thẻ bảo hành gửi cho mình thì ko ghi cái gì nên chả biết thế nào. Thế chuẩn của nó là bh 6 tháng hả bác
+Pos	con này nhìn thấy đẹp hơn con S7 của anh Sam mới ra.
+Pos	con SH-04F này được tích hợp thêm công nghệ đèn nền PureLED.hình ảnh trong,sáng và màu sắc đẹp hơn rất nhiều so với trên SH-08E và SH-06E bác ạ
+Neg	thực sự là chán quá. về hiệu năng thì vô đối mà về kiểu dáng sao mãi không chịu lớn vậy :((
+Neu	Sao ít người nhắc Huawei nhỉ
+Neu	Cần trải nghiệm mới rõ đc
+Pos	Pin e này trâu bò nhất trong dòng smp nhật nhé bác, chắc chỉ thua sh01f thôi, còn 01g thì same same
+Neu	Ai cũng khen nó nhỉ ?
+Neu	Quanh năm nhà táo có 1 mẫu
+Neu	Tai nghe Baus dùng tạm với giá thôi
+Pos	Xiaomi 4 thì tuyệt rồi, pin vô đối luôn.
+Pos	Khách quan mà nói thì B1 thấy ngoại hình cũng ổn nhưng ko biết trải nghiệm thực tế như nào, cũng chỉ tại ko có tiền mua
+Neg	Lại sắp giống Nokia rồi. Lên đỉnh rồi xuống dốc. Đó là quy luật thôi.
+Neg	Không tốt đâu. Nhà t có dùng 1 cái 40" load mạng rất chậm
+Neg	Cũng chỉ như mấy bộ phim truyền hình ko có gì mới mẻ.
+Pos	Đúng là đẳng cấp của chú Sam, chừng nào Note 7 ra mình sẽ lên đời con Note 4 của Bx.
+Pos	Lên được bình thường. Chạy tốt nha bạn
+Pos	mình đang dùng note5 tuyệt nhưng hơi cô đơn
+Pos	ai nhìn sơ qua chắc sẽ chọn prime x max....nhưng mấy pic đầu prime x cho thấy chi tiết hơn nhờ số chấm gấp đôi mấy pic sau tương phản tốt nhưng xử lý quá bệt màu hẳn ra.. mất chi tiết, ảnh con s7 chỉnh chút là ok nói chung với tầm giá thì prime quá good rồi
+Neg	Thiết kế xấu quá!
+Neg	thua con note book 10.1 cua minh,gon nhe pin ok
+Pos	đang sài zen6 thấy ok
+Pos	Dàn loa của ip7 pro sẽ rất tuyệt đấy .
+Neu	ngó qua ngó lại chỉ còn vài gương mặt quen thuộc
+Neu	Thị trường us giờ bão hòa r
+Neu	Mn bàn luận về con này xôm nhỉ
+Neg	Tại F02g nhạc nhẽo chán quá, thiết kế thì vay mượn Z3 nhiều quá, wifi quá kém, pin tệ nên quay sang xài sharp đổi gió cho biết.
+Neg	Mua 5s cũ là quá đủ xài rồi hơn con asus nhiều bạn ạ
+Neg	Mình đã dùng anywhere thế hệ đầu, quả là đầy thất vọng, hiện tại đang vứt xó. Giá thì đắt, ngốn pin như ăn gỏi, nặng
+Pos	Samsung mở rộng bộ nhớ là dấu hiệu tấn công vào trình xem phim và âm nhạc đỉnh cao. Like mạnh cho chiến lược này.
+Pos	hy giá sẽ tốt hơn vào một vài tháng tới, quả là siêu phẩm :D
+Pos	Từ dòng galaxy 5 trở về sau Samsung làm pin tốt , chíp chạy mượt hơn, camera khá nói chúng là quá ngon. Mong giá giảm khoảng 10% nữa thì tốt.
+Pos	Thực sự Windows rất tốt,hiện nay là WINDOWS10 nó xài rất mượt, giao diện thì khỏi chê.Có thể Microsoft họ không quan tâm,mãng điện thoại lắm.
+Neg	Con i7 này yếu như sên. Toàn lừa dân không biết gì. Mấy e nhân viên siêu thị tha hồ chém gió "chip mạnh nhất bây giờ a ạ"
+Pos	Đẹp quá
+Pos	ngày trước dùng con Vodafone 703sh thật là chất , nói chung điện thoại của Nhật kiểu dáng rất là chất
+Pos	thích camera mi5 chụp hình quay phim đẹp. khẩu 2.0 mà bokeh cũng dk
+Pos	mình thấy phiên bản này đẹp hơn chứ bạn
+Neu	Giữa máy SamSung và Iphone thì mấy bác thấy máy nào oke hơn hả mấy bác
+Neu	Tàm tạm nha các bác
+Neu	Tầm trung thì máy như này okela nhé mấy bác ơi, chứ tầm này máy nào cũng tăng giá hết
+Neu	Tôi mua hàng xách tay bác ơi, bác thử ra thế giới di động xem như nào, thấy ngoài đó cũng bán đó bác, chắc mắc hơn bình thường xíu
+Neg	máy để giải trí mà giá này thì chắc là doanh số không cao rồi :D
+Pos	iPhone đẹp mừ ! Hợp với con gái tụi mình.
+Neg	Càng ngày càng xấu và nhảm
+Neg	Cùi lắm
+Neg	Facebook, YouTube không chính chủ... Còn nhiều nữa nhưng chỉ kể 2 cái đó thôi là đủ biết winphone nghèo thế nào rồi
+Neg	Sao lại sản xuất tại Trung Quốc, thật buồn cho fan hâm mộ Blackberry. Tôi hy vọng RIM tiếp tục sản xuất tại Canada và México
+Pos	Thích Nokia nhưng thú thật không ưa cái Z-Launcher tẹo nào
+Neg	Kỷ niệm tuổi thơ tôi. Mỗi tội đắt quá éo có tiền mua.
+Pos	Android tuyệt vời, Samsung vô đối
+Pos	Máy đẹp, giá cũng hợp lí. Đúng là sự lựa chọn tốt trong tầm giá 14tr.
+Neg	Asus ư?Pin thường kém và hay lỗi sac lắm....sạc lâu ví như Google Neus 7 chăng hạn.
+Neu	Dùng cũng thấy bình thường nhá bác ơi
+Neu	Tôi đang dùng hãng Adroid này, thấy cũng ổn mà ta
+Neu	Máy tính này ổn cho sinh viên, học sinh nha, giá cũng ổn mà 
